@@ -1,13 +1,28 @@
 import { View, Text, StyleSheet, Image, Dimensions, Platform, FlatList, TouchableOpacity} from "react-native";
 import { useNavigation } from '@react-navigation/native';
+import SubnewsModal from "./SubnewsModal"; // Import the SubnewsModal component
+import React, { useState } from "react";
 
 const Articles = (props) => {
 
     const navigation = useNavigation();
+    const [selectedArticle, setSelectedArticle] = useState(null); // Store the selected article for the modal
+    const [isModalVisible, setIsModalVisible] = useState(false);
+  
 
     const handleImagePress = (url) => {
         navigation.navigate("ArticleDetails", { url });
     };
+    const handleSubnewsPress = (item) => {
+        console.log(item);
+        setSelectedArticle(item);
+        setIsModalVisible(true);
+      };
+    
+      const handleCloseModal = () => {
+        setSelectedArticle(null);
+        setIsModalVisible(false);
+      };
 
  
 
@@ -30,7 +45,8 @@ const Articles = (props) => {
                             <View style={articleStyle.titleContainer}>
                                 <Text style={articleStyle.title}>{item.title}</Text>
                             </View>
-                            
+
+                           
                         </View>
                         <View>
                             <Text style={articleStyle.snippet}>{item.snippet}</Text>
@@ -39,9 +55,15 @@ const Articles = (props) => {
                            
                             <Text style={articleStyle.publisher} >By: <Text style={articleStyle.publisherName}>{item.publisher}</Text></Text>
                             <Text style={articleStyle.date}>{new Date(Number(item.timestamp)).toLocaleDateString()}</Text>
+                           
                         </View> 
+                        <TouchableOpacity onPress={() => handleSubnewsPress(item)}>
+                {/* Render the specific part you want to make clickable */}
+                <Text style={articleStyle.date}>Show Subnews</Text>
+              </TouchableOpacity>
+                            
                     </View>
-                        
+      
                     {/*    
 
                         {/* source* 
@@ -55,8 +77,13 @@ const Articles = (props) => {
                     
             
                 </TouchableOpacity>
+
             )}
         />
+         {/* Show the SubnewsModal when isModalVisible is true */}
+      {isModalVisible && (
+        <SubnewsModal isVisible={isModalVisible} onClose={handleCloseModal} subnews={selectedArticle.subnews} hasSubnews ={selectedArticle.hasSubnews}/>
+      )}
         </>
     )
 }

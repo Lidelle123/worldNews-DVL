@@ -7,7 +7,7 @@ import Index from "./src/screens/Index.jsx";
 export default function App() {
   return (
     <View style={styles.container}>
-       {/* <StatusBar style="auto" /> */}
+       <StatusBar style="auto" />
        <Index />
     </View>
   );
