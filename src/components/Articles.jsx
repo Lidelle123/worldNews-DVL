@@ -37,10 +37,11 @@ const Articles = (props) => {
                     <View style={articleStyle.fstContainer}>
                         {/* image*/}
                         <View>
-                            <Image
+                            {item.images?(<Image
                             source={{ uri: item.images.thumbnail }}
                             style={articleStyle.image}
-                            />
+                            />)
+                        :(<Image></Image>)}
                             {/* title */}
                             <View style={articleStyle.titleContainer}>
                                 <Text style={articleStyle.title}>{item.title}</Text>

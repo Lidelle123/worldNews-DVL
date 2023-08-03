@@ -8,13 +8,14 @@ const SubnewsModal = ({ isVisible, onClose, subnews, hasSubnews }) => {
         {/* Display subnews content here */}
         {hasSubnews ?(subnews.map((subnewsItem, index) => (
           <View key={index} style={styles.subnewsContainer}>
-             <Image
+            {subnewsItem.images?( <Image
                             source={{ uri: subnewsItem.images.thumbnail }}
                             style={{height: 200,
                                 width: Dimensions.get("window").width - 50,
                                 borderTopLeftRadius:30,
                                 borderTopRightRadius:30,}}
-                            />
+                            />)
+                            :(<Image></Image>)}
                             {/* title */}
                             <View>
                                 <Text>{subnewsItem.title}</Text>
