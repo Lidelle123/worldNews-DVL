@@ -6,6 +6,7 @@ import Articles from "../../components/Articles.jsx";
 import Header from "../../components/Header.jsx";
 import React, { useState } from "react";
 import {data} from "../../../backend/useFetch";
+import Footer from "../../components/Footer";
 
 
 const Home = () => {
@@ -23,6 +24,9 @@ const Home = () => {
             ) : (
                 <Articles data={data} />
             )}*/}
+            </View>
+            <View style={{ position: "absolute", bottom: 0, left: 0, right: 0 }}>
+                <Footer/>
             </View>
         </>
     )

@@ -46,9 +46,9 @@ const articlesStyle = StyleSheet.create({
     flexDirection: "row",
     justifyContent: "space-between",
     marginTop: 3,
-    marginLeft: 10,
+    //marginLeft: 10,
     padding: 10,
-    marginRight: 25,
+    //marginRight: 25,
   },
   publisher: {
     fontSize: 15,
@@ -61,8 +61,6 @@ const articlesStyle = StyleSheet.create({
     fontWeight: "bold",
     color: "blue",
     fontSize: 15,
-    marginLeft: 10,
-    marginRight: 10,
   },
   source: {
     fontWeight: "bold",
