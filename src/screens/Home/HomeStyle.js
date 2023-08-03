@@ -7,6 +7,7 @@ const HomeStyles = StyleSheet.create({
     alignItems: "center",
     justifyContent: "center",
     backgroundColor: "#f0f0f0",
+    marginTop: StatusBar.currentHeight,
     //padding: 20,
   },
 });

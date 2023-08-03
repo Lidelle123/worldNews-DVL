@@ -5,9 +5,9 @@ import { WebView } from "react-native-webview";
 import { Ionicons } from "@expo/vector-icons";
 
 
-import ArticleDetailsStyle from "./ArticleDetailsStyle";
+import ArticleDetailsStyle from "../ArticlesDetails/ArticleDetailsStyle";
 
-const ArticleDetails = ({ navigation, route }) => {
+const SubnewsDetails = ({ navigation, route }) => {
   const { url } = route.params;
 
   console.log(url);
@@ -26,4 +26,4 @@ const ArticleDetails = ({ navigation, route }) => {
   );
 };
 
-export default ArticleDetails;
+export default SubnewsDetails;
