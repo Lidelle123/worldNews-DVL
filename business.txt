@@ -1,0 +1,1854 @@
+﻿{
+  "status": "success",
+  "items": [
+    {
+      "title": "US job growth slowing but labor market still tight",
+      "snippet": "WASHINGTON, Aug 4 (Reuters) - The U.S. economy added fewer jobs than expected in July, but solid wage gains and a decline in the unemployment rate back to ...",
+      "publisher": "Reuters",
+      "timestamp": "1691159220000",
+      "newsUrl": "https://www.reuters.com/markets/us/us-job-growth-remains-moderate-july-wage-gains-still-strong-2023-08-04/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/0CXT_6CM0HTVbbSPGdyAivzWSj4ACQXNYkT4ERj21YIxtwa8QLgueC4XrLyhNDxY3U4bn42ATXAr6o96MVcV29e48P1L7wyMW2WV0QPXqdYzrCGNmdNFPNnMv4uhLUnmq7JH2oOXUdvX2FPLZIeRkCBZ0ZKR1dU",
+        "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/NRVZXU6O4FI53OIZU42LQQ7ABA.jpg"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Jobs report: US economy creates 187,000 new jobs in July as labor slowdown continues",
+          "snippet": "The US labor market continues to cool. The US economy created 187,000 new jobs in July while the unemployment rate fell to 3.5%, the Bureau of Labor ...",
+          "publisher": "Yahoo Finance",
+          "timestamp": "1691152309000",
+          "newsUrl": "https://finance.yahoo.com/news/jobs-report-august-4-july-2023-123149729.html",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/7LBOvBKK9FyDyWtYl-shiaYu8YzNnyFZADE85cixAF48uWmShEcBy58OTwT0LraevP1JxRgLeWuxxmPYsOi4BYEE2UQLOucytqa6mqeUlSwAeqoMKehA4KrMJU9pWmj1YGcORIIm1c-vfpGl1ZJf5PzZerG9XnxS0FQvWsXlSwhUdmIb-yvvyeaYmE4nb91uO3gQIJcqGXhfJZkWpbtny0CwAJkbM9CV2kna-r0K7Ca7f9Mgw8Lt4hI0BsT0kSjV198uCxS0tqZNLXFHbPXP1Q0ClwWREpkIQQ",
+            "original": "https://s.yimg.com/ny/api/res/1.2/MKnVM3nIUCiGjvxGKSsEvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/os/creatr-uploaded-images/2023-07/151d7de0-2bea-11ee-a97f-0786de965435"
+          }
+        },
+        {
+          "title": "Jobs report July 2023: 187,000 jobs added, fewer than expected",
+          "snippet": "Nonfarm payrolls were expected to increase by 200000 in July, according to the Dow Jones consensus estimate.",
+          "publisher": "CNBC",
+          "timestamp": "1691152287000",
+          "newsUrl": "https://www.cnbc.com/2023/08/04/jobs-report-july-2023-187000-jobs-in-july.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/41vJAETeDU0YNb4-soI8AUFD6jDlYW0u5I1nlfOJEvev7ftIeUZw5rgGXO74vLmoGM0Pbino0b2cEqxZ94r2vnvhWOJAbRknK2GUdYKVlWecmH-iKw5MnX911Q9BoKPnJylqCZ_9pKkwbAOSDlM1mGHjuRDDouPjhWUtTqKjIRJNQYRwlml0B0lU-zEwLIHN-AZ0",
+            "original": "https://image.cnbcfm.com/api/v1/image/107236753-1683324506320-gettyimages-1487833399-029a0156_1dkqolrp.jpeg?v=1691152287"
+          }
+        },
+        {
+          "title": "July Jobs Report: Payrolls Rise by 187,000, Driving Action in Gold, US Dollar",
+          "snippet": "The U.S. economy added 187000 jobs in July, a sign that the labor remains healthy by historical standards and widespread layoffs are not occurring despite ...",
+          "publisher": "DailyFX",
+          "timestamp": "1691153714000",
+          "newsUrl": "https://www.dailyfx.com/news/july-jobs-report-payrolls-rise-by-187-000-driving-action-in-gold-us-dollar-20230804.html",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/WtGntEogEMFaZd5NAaTvgMiqIE87wTAgzDAaSNSa-4KYPjm41mvwJSWcnbZskohPctZmK1bQDsU7WRq8XihmqRylHoHFyw",
+            "original": "https://a.c-dn.net/b/3i2O8f/Jobs_report.jpg"
+          }
+        },
+        {
+          "title": "Dollar slides after moderating July growth in U.S. jobs",
+          "snippet": "The dollar fell on Friday, paring almost all the week's gains, after slowing U.S. jobs growth in July encouraged hopes of a soft economic landing but higher ...",
+          "publisher": "CNBC",
+          "timestamp": "1691119320000",
+          "newsUrl": "https://www.cnbc.com/2023/08/04/dollar-struggles-before-payrolls-test-aussie-rebounds.html",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/-GGpeGPey86s6byx8vwhD4MgZqaRJ8Vx3PazueOdTY0OugOfEvZLLA4OCyEvdOGacyukfxEtfY2xpFcSQAVPsj_QutEshUqbNvZtrO1imB7NFfVPhUgkCM1OAqEaB5eikocOJ6grT4rDaC7X3TCOEaxVXpUzkdjgQQOFDsGhMvrIQnQX_JR0_oT1qaHECBmzek6gwansHA",
+            "original": "https://image.cnbcfm.com/api/v1/image/107281811-1691117981191-gettyimages-1041464860-66063016.jpeg?v=1691119330&w=1600&h=900"
+          }
+        },
+        {
+          "title": "U.S. Added 187K Jobs in July, Missing Estimates for 200K, Bitcoin Slips to $29,100",
+          "snippet": "The U.S. added 187,000 jobs in July, according to the Bureau of Labor Statistics, missing forecasts for 200,000 jobs and up slightly from a revised 185,000 ...",
+          "publisher": "CoinDesk",
+          "timestamp": "1691152620000",
+          "newsUrl": "https://www.coindesk.com/business/2023/08/04/us-added-187k-jobs-in-july-missing-estimates-200k-bitcoin-slips-to-29100/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/AbmHD9H4-GoBFYxCml5NOVm1taHfegQ4DWXMMIs7d51Qi0OJt0k2aYEsnSkPk1P-YlAFZmRXBkHGRsRkHxLSAC5O1YxTWPa43MlYx8Tu-PElgrBYl48o0J-5FwRhdERzZ3d0azQVL-0v1q_mD_3lUMFNTXneMyXjDwqTxzl9dDZNuB-jztkYC2VOVnUfiNp0CAtpVcgEtfrk8fBlOpu_-rA5YVhcbJZK2ysmHyYzvF-i2_PUGf59RFaKdQMx2J3ftDRS-Rfe",
+            "original": "https://www.coindesk.com/resizer/sw2fdfswFxNFbCtXv3h3q1b0Q7s=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/VU3JDDUCFBAXBNUYAH6YT4KLVM.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Oil pump fire risk prompts Hyundai, Kia to recall 92k cars",
+      "snippet": "Hyundai and Kia are urging owners of nearly 100000 2023-2024 models to park them outside until a potential oil pump fire risk can be fixed.",
+      "publisher": "Yahoo",
+      "timestamp": "1691074020000",
+      "newsUrl": "https://autos.yahoo.com/oil-pump-fire-risk-prompts-144700670.html",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/La8iMZGfsTsA7RkUEqXW4sRklIGRr-UHDZ9byttCofHcFxLKjhXAhr2Tmt1jKDvL0Q6XkWX-snr9Lz4kNM0OfbNW8JQTHVxS6BhLC9G0dHlM89hRsnzA2lizLORcFlvXjE6zg8kz1Z3Ivn7IWY2fzeZm89UtQNjea_ONyTlF5Lf3zUxPIVbUghqgM1-sz-IqFPgJUJWMCQ6sOhrhHNBnjn2YWyNyjpyNqBCEeBhCIO-ivNWnkWqdLgpP94LccDt8EX7r7nSxtg",
+        "original": "https://s.yimg.com/ny/api/res/1.2/gRY7VzF.uBoVkTfS8joEtQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://media.zenfs.com/en/autoblog_50/27ee08a37d190cee11b20630acb7a3e7"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Hyundai, Kia recall 113000 vehicles in North America over fire risks",
+          "snippet": "Hyundai Motor and Kia said on Thursday they are recalling more than 113000 newer vehicles in North America because of fire risks and urged owners to park ...",
+          "publisher": "Reuters",
+          "timestamp": "1691076900000",
+          "newsUrl": "https://www.reuters.com/business/autos-transportation/hyundai-kia-recall-91000-us-vehicles-over-fire-risks-urge-owners-park-outside-2023-08-03/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/wvi8L5QMBOxQezXI7giN-lKzOJtSpSMWpcEffy9aGhJ0DnW7X09XKveHycQ2q4p6qRd0WJuYndp9elmaQfT2Ly-_u_RKqIEX9YbJOcnpmj-0fvWfMZQ-hU_PDF0ba08rnp8bvwNT6vOXpt78aS4QAehL2-6NT9I",
+            "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/ASWHMBZU5FOAPMQOXA6N63TV2Y.jpg"
+          }
+        },
+        {
+          "title": "Kia recalls SL Sportage, YD Cerato, XM Sorento models over fears they will burst into flames",
+          "snippet": "Kia has been forced to recall more than 5000 cars over fears they could suddenly catch fire or lose power after a potentially fatal fault was identified ...",
+          "publisher": "Daily Mail",
+          "timestamp": "1691043398000",
+          "newsUrl": "https://www.dailymail.co.uk/news/article-12367827/Kia-recalls-SL-Sportage-YD-Cerato-XM-Sorento-models-fears-burst-flames.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/1v7mHq3zx-YPhyMoshzlqxpKIZ5D8tHP-PRyfxLJ4MKo_5YkeZMmza-qxHh1rysfXmMeJJiFGbDUnlh-hxKOpT2Dj8nLejqp6k-dg7ELTMpJvBXhZEriPPdK36kFMeIFxoB7M-5Q-T2ERXRO2A",
+            "original": "https://i.dailymail.co.uk/1s/2023/08/03/06/73911059-0-image-a-38_1691040145656.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Is tonight the night? Mega Millions jackpot reaches $1.25 billion after months without a winner",
+      "snippet": "Friday night's Mega Millions jackpot is estimated at $1.25 billion, the fourth-highest ever for the lottery. Tuesday's drawing was the 30th in a row to ...",
+      "publisher": "CNN",
+      "timestamp": "1691160900000",
+      "newsUrl": "https://www.cnn.com/2023/08/04/us/mega-millions-jackpot-drawing-friday/index.html",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/ALroaj38qn0rxDPHIMR8WnE8856h90xDCXRzV1R0rWCOvRUpheegOCjl3CInUG5IBOUlf9yCALtnbdCRBfwfl7T3__gNQnsFK-YJtteLvqJR20zZ2wDwzNk7ZXy0GxEUZ9EaoUeqNh0C6yes3LU-RRNwRPGSKbh6qmVHfg",
+        "original": "https://media.cnn.com/api/v1/images/stellar/prod/230804125426-mega-millions-080323.jpg?c=original"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "$1.35 billion Mega Millions jackpot drawing offers shot at 4th largest prize ever",
+          "snippet": "Friday's Mega Millions jackpot was initially announced as a $1.25 billion prize, before the lottery raised the estimate to $1.35 billion hours before the ...",
+          "publisher": "WKYC.com",
+          "timestamp": "1691166780000",
+          "newsUrl": "https://www.wkyc.com/article/news/nation-world/mega-millions-jackpot-rises-august-4-2023/507-a9325f01-c73f-478e-9926-b811174732b2",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/_Q1nPjO-pJeKAEcq1mhxPPOnQhjyNfj2zAscDkeC7ym7L18nKjtpzGNcHH9eMKgdueftPHA113qOA7SQ9jXGoO71WNGygqKlfE2Hb6L9Xz3Wl8Nh1LK7Kwzd1JSiRziw3Mt9aQBRK0W2pf6pu7zKrOUC8LuSbr3Qp8AxXctdK4gvIetV_ZfUiAltbWjOFXY45SqdsAdffuUK",
+            "original": "https://media.wkyc.com/assets/WOI/images/b0a11da2-c70b-44c5-b80e-918aabc36cb2/b0a11da2-c70b-44c5-b80e-918aabc36cb2_750x422.jpg"
+          }
+        },
+        {
+          "title": "Cars You Could Afford With The Billion Dollar Mega Millions",
+          "snippet": "If you one the one billion dollar Mega Millions lottery, which vehicles would you add to your collection? A Bugatti, Aston Martin, or collector Mustang?",
+          "publisher": "The ClassicCars.com Journal",
+          "timestamp": "1691071200000",
+          "newsUrl": "https://journal.classiccars.com/2023/08/03/cars-you-could-afford-with-the-billion-dollar-mega-millions/",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/_NyfRZHkEBfvh7R9ae9Xt3wHTojwMxQz--BERvSr1hL42dcDdexDrKtwB8pBqiHf4p-tBZ6WFqwSco1WGTYPanai7Ry-dVeIpt_4B-SfVlOkIx8hCPiBFpFg6TjOYkAx67tMU9m06xGKbBvQUQXjUVdJnjbKR15q08fRueIjyF5ZQTi1LHraGgnT",
+            "original": "https://journal.classiccars.com/media/2023/08/Retromobile_2015_-_Bugatti_Royale_Coupe_Napoleon_-_1929_-_002.jpg"
+          }
+        },
+        {
+          "title": "Best Payout Strategies for Lottery Winners",
+          "snippet": "It's a problem we'd all love to have: deciding how to take the proceeds after winning the lottery. With the Mega Millions jackpot hitting an estimated $1.25 ...",
+          "publisher": "AARP",
+          "timestamp": "1691161681000",
+          "newsUrl": "https://www.aarp.org/money/taxes/info-2023/lottery-winners-payout-strategy.html",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/uGRUmJ0UJBsyXfMX8sqyAIGnhYx7StP4iUDHf_AX40uIyVEVenAoZcHEaHfexmt4b8R0VH7IUEA3Z2Vo-WJ8utwYLAYQrPdBPjE6VszYj5t3gKOlpupA6yXG1tGonPqdxY7S7zZqkcEwcX0JbIleROb7UrTEMg",
+            "original": "https://cdn.aarp.net/content/dam/aarp/money/taxes/2023/08/1140-hit-the-jackpot-winnings.jpg"
+          }
+        },
+        {
+          "title": "Mega Millions jackpot jumps to $1.35 billion, second largest in Mega Millions history",
+          "snippet": "The Mega Millions jackpot has increased to an estimated $1.35 billion ahead of Friday's drawing.",
+          "publisher": "CBS News",
+          "timestamp": "1691168100000",
+          "newsUrl": "https://www.cbsnews.com/baltimore/news/mega-millions-jackpot-jumps-to-1-35-billion-second-largest-in-mega-millions-history/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/EXufrEszoe7va89-nT3l4_eD66AD3BYegKDduwo2kZp3MhLE110T9swr4Dt_uhDp6KIcojWghCqc_V-FLP9Gp5H2Z1S9IjOydffhsGn_ZlTCibFHbZV0O3VOz9Jvr4vSqJ0EExJNdNKS0Y8hROjVJdMy4KM_DHfGNemqTvarYiENpxn5MDz_NBXSFaYMb_lvQnVioTzrKJL8iN2pGP5hzNvyVRnTsz7-LO0_-Gw7I5_V1iNFW4Zezy5OOkrjjCGx-WbBfGZbrVsTvrbpDPnVQ9MUM1aFNgTDnjWTglYa",
+            "original": "https://assets3.cbsnewsstatic.com/hub/i/r/2023/08/02/80960df2-8e3a-4758-843c-ab084fc2dec9/thumbnail/1200x630/9ffadf7414db32308174767ce620a681/megamillions3.jpg?v=523df724471d66f84598615fede8d33f"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Nikola shares are down after messy second quarter, CEO departure and news of a stock sale",
+      "snippet": "Electric truck maker Nikola said on Friday that its CEO, Michael Lohscheller, will step down effective immediately due to a \"family health matter.\"",
+      "publisher": "CNBC",
+      "timestamp": "1691151919000",
+      "newsUrl": "https://www.cnbc.com/2023/08/04/nikola-nkla-q2-2023-earnings.html",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/o72_EVZeICwUZD24UFBiZXtKsy3_ruo6Ke9OMJ8pGMzmTAJRegtAGuCF7i-skiwdFpeg5f6cToe1IkOwS3ewlJcvLgoGG78_mRQV0m6mGibGVgjODUt3tZ6X5TZCUHsovk-QrIZUj0r5lmSKriWjdUwQXmSG84NkFZsPNWRxluOVtqLDdy9Jn-XjN4_bcV07yzK9Lw",
+        "original": "https://image.cnbcfm.com/api/v1/image/107245563-1684869233338-NIKOLA_AB_PILOT_20220209_0425.jpg?v=1691151919&w=1600&h=900"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Amazon Stock Hits 12-Month High On Impressive Sales Boost—Pushing Bezos’ Net Worth Up $12 Billion",
+      "snippet": "Shares of Amazon climbed nearly 10% Friday morning following a strong earnings report showing the tech giant's second-quarter sales grew well over analysts' ...",
+      "publisher": "Forbes",
+      "timestamp": "1691159975000",
+      "newsUrl": "https://www.forbes.com/sites/brianbushard/2023/08/04/amazon-stock-hits-12-month-high-on-impressive-sales-boost-pushing-bezos-net-worth-up-12-billion/",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/EVNQt6UsppsdCq9qoxvNW4p1FLwaq-VeUBtDLOoVB8He2GpNNn8KPQOSnUqrjh-vS84xQfn4FY4lSu39707pOS-ZUpVf0Sr8NntkrcxtHwdGBJbRjUK1AigznGMxHUUA2a4ciGrTZkO5bBKzyEot8D2p-sin4sGiWmdouHO5L3YaJz3-Mbh45m6wE6r6K06OU-Te6KNfIDyP_rKzpRgII4FTuA",
+        "original": "https://imageio.forbes.com/specials-images/imageserve/64cd0d70892c53ee67f2b759/0x0.jpg?format=jpg&crop=3200,1799,x0,y13,safe&width=1200"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Amazon reports blowout profit, beats on sales and issues optimistic guidance",
+          "snippet": "reported second-quarter earnings on Thursday that sailed past analysts' estimates and issued guidance that points to accelerating revenue growth.",
+          "publisher": "CNBC",
+          "timestamp": "1691078401000",
+          "newsUrl": "https://www.cnbc.com/2023/08/03/amazon-amzn-q2-earnings-report-2023.html",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/kHdNlzQMDl0atC-_jo5b9MaP9HmM0TTcvzBWTbECfYQBDAL5L3vMTvKPSLLVSpa3QRNgjs9j11CxsASTY3G3a8YAiCr_EVJfJWeJkaQNFU4z74PJgmE_pDFy8WxlTCIN5xnqDr9eCOJyKcZwdIGQKzz90yGNKiMkaXu61fMphdSA5GuhMbY8ibSaI8wMjtUHyq2eMIgPbbs8eR-FiAY6iDelQoMnUM080g",
+            "original": "https://image.cnbcfm.com/api/v1/image/107053698-1651245136892-gettyimages-1348139958-bbs12998_2021102225819455.jpeg?v=1691078401&w=1600&h=900"
+          }
+        },
+        {
+          "title": "Amazon Is an Earnings Star. Why Analysts Think the Stock Can Keep Delivering.",
+          "snippet": "Amazon AMZN –2.64% . com delivered the standout performance of earnings season among big U.S. technology companies so far. Analysts expect the momentum to ...",
+          "publisher": "Barron's",
+          "timestamp": "1691149020000",
+          "newsUrl": "https://www.barrons.com/articles/amazon-stock-earnings-analysts-tech-ee00e47b",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/9yFVI5jNzth8WR7Zk6Rx-GxoKSYSNEJNGfIqQpqmS7xtl7kNmCuqSCB1fJVO-8hVEF5NniRFNNWtEiz0nhdtbLR3lrgTCJv3s90FBBreNtSB",
+            "original": "https://images.barrons.com/im-803063?width=1280&size=1"
+          }
+        },
+        {
+          "title": "AWS revenue growth dropped to 12% in Q2, but company remains optimistic about cloud biz",
+          "snippet": "AWS grew at an anemic 12% in Q2, but in spite of that, the company is optimistic that it has turned a corner and more robust growth is coming.",
+          "publisher": "TechCrunch",
+          "timestamp": "1691167295000",
+          "newsUrl": "https://techcrunch.com/2023/08/04/aws-revenue-growth-dropped-to-12-in-q2-but-company-remains-optimistic-about-cloud-biz/",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/oprBRgnsdXPMQ3Mq_EH1N4KcC9v3S6z4SxAecrnS_HDCjTkNjeLU9ZlGiA__aGalb_coAQ70WASd6UOfD3JYL844Sit_ImQW4L6pje7tHykjM9IA7jn0Bi03tcaGPEUBL8JH_SP8OoofwA8d",
+            "original": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-925557862.jpg?w=680"
+          }
+        },
+        {
+          "title": "Amazon's Earnings Report Shines During Apple's Off-Season - WSJ",
+          "snippet": "One tech titan snaps its growth slump, while the other remains mired in it.",
+          "publisher": "The Wall Street Journal",
+          "timestamp": "1691141400000",
+          "newsUrl": "https://www.wsj.com/articles/amazon-shines-during-apples-off-season-7f27fc58",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/3On1ItW0dOUqE2eMkv7P4ElG-8jFpSarFFX9F-dOgmzuoC_NsBNEUqGWbC2xuRjUYT_2eSgbbmuF5IA",
+            "original": "https://images.wsj.net/im-828871"
+          }
+        },
+        {
+          "title": "Amazon 'still pausing on headcount' as part of larger effort to boost profits",
+          "snippet": "Amazon ended the second quarter with 1.46 million employees, including both corporate and warehouse workers, about 4,000 fewer employees overall than the ...",
+          "publisher": "GeekWire",
+          "timestamp": "1691099574000",
+          "newsUrl": "https://www.geekwire.com/2023/amazon-still-pausing-on-headcount-as-part-of-larger-effort-to-boost-profits/",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/wl6d995m6HBBTr2T0hGEftj6YfDijRRXtMCEbJwMxkJSer3keeHwcUPeNA_gaiM8snWAo_hM5Ywiwbb7LQfLmAGBXk-h2egHjjqFzwN40DYW2pW4oDkfuklO_jFSseOu7yDNhlos9ys",
+            "original": "https://cdn.geekwire.com/wp-content/uploads/2023/08/amzn-employment-q2-23.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Carl Icahn's firm cuts dividend in half after short-seller attack, shares slump",
+      "snippet": "Aug 4 (Reuters) - Activist investor Carl Icahn's eponymous firm slashed its dividend in half on Friday, just a few months after a prominent short-seller ...",
+      "publisher": "Reuters",
+      "timestamp": "1691166960000",
+      "newsUrl": "https://www.reuters.com/business/finance/carl-icahns-investment-firm-cuts-dividend-months-after-hindenburg-report-2023-08-04/",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/IwOkN7TRhpVrjtgPijcfxt-InRTNuOE4WEs4t-GN29GZzVdmJrNCL7EfFrxxqInc1rhQXkrCjDUSJ3W8cozdGrVjXdUVunG-S4G_jrot1GQlAoLtcYwth4S_NiAGlnTgmAIo4yLUH9bQqX2_RREXEOLoFqfHEAY",
+        "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/K6BTCNDJFBPWZNE3AIQSS33PLE.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "China Proposes ‘Minor Mode’ to Limit Kids’ Smartphone Use",
+      "snippet": "A proposal from the country's internet regulator would require app developers and device makers to adopt a “minor mode” to limit screen time and content for ...",
+      "publisher": "The New York Times",
+      "timestamp": "1691160847000",
+      "newsUrl": "https://www.nytimes.com/2023/08/04/business/china-smartphone-minor-mode.html",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/8VNEpPeXBFSpWNSveBqKpVrlj-V_BBoh6_M6QuqSL4Vxv0A7pcasnB_WORKCMoWPdpbYKNhSHLRHmmlRbk_sOy6qSaocFUMSUHMHUfPAdgym72ToIDUiJosGfLFM9e8mBMEqg43BJNuilYPqy3yGCvUaN_iTzgNU87vMaJcHVU4GpBbaf8vWEaXcCsNGnx2tAtDCVzfTOS_w",
+        "original": "https://static01.nyt.com/images/2023/08/04/multimedia/04china-phone-ban-kmwb/04china-phone-ban-kmwb-videoSixteenByNine3000.jpg"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "China proposes limit for children’s smartphone time to a maximum of 2 hours daily",
+          "snippet": "The Cyberspace Administration of China published draft guidelines on Wednesday that would limit the amount of smartphone screen time for minors, allowing a ...",
+          "publisher": "Fox Business",
+          "timestamp": "1691073106000",
+          "newsUrl": "https://www.foxbusiness.com/fox-news-tech/china-proposes-limit-childrens-smartphone-time-maximum-2-hours",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/SIPVXG3fRmb9Va21be9i4oseAcEBTr843ZadZ_-3wR1Bqy1kcxtSqCn1PVm4c_4bqT__kgBD-iGiQ1cxcF-WQv4ha6wEQG1Ce7nQcGgdT-dBJHhPy50Qeb8RqDwx2oFRMcxxtMYnL9w4kIQfMmPLA4arykPkPrBFicN4",
+            "original": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/China-kids-smartphone.jpg"
+          }
+        },
+        {
+          "title": "China is set to impose a two hour limit on young people's mobile phone use – I'm grudgingly envious",
+          "snippet": "I'm all for China coming up with smartphone limits, then quietly flogging them to the rest of us moral weaklings in the West.",
+          "publisher": "The Telegraph",
+          "timestamp": "1691136000000",
+          "newsUrl": "https://www.telegraph.co.uk/columnists/2023/08/04/chinas-two-hour-limit-on-young-peoples-phone-use/",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/JPcnuvpL5MSsd2PqKp580aa6xysBQgiE9Zn3o7dwJYVWWQxsvrs1muLheXJc0TEW94HmMfUWRzge36pD5-KH7hXUoxOlWXvOek492_3hWtw3lcqP1EtNkEIR8iQgJbmY7wCqBgAdsGASUtmcrZbWdldHjdlJz310QM7GHmX-IIQWeudH4cupLA_9cLtZLTIEW5nHp6F_2mfginn1uH05xMZN-mAQ5a1-2sIJgnqmpuQ75CvVm-5LSRcggGO3ZV7goPicVyFtNcCCH8acJb6co4Smx-cA1ldU3Bg",
+            "original": "https://www.telegraph.co.uk/content/dam/columnists/2023/08/03/TELEMMGLPICT000344726092_16910876672070_trans_NvBQzQNjv4BqpVlberWd9EgFPZtcLiMQf0Rf_Wk3V23H2268P_XkPxc.jpeg?impolicy=logo-overlay"
+          }
+        },
+        {
+          "title": "China’s curbs on kids’ phone use unlikely to hurt Big Tech, analysts say",
+          "snippet": "Parental control functions already exist on many smartphones, while adults make up the bulk of video gaming and social media users.",
+          "publisher": "South China Morning Post",
+          "timestamp": "1691150417000",
+          "newsUrl": "https://www.scmp.com/tech/big-tech/article/3230003/chinas-proposed-limits-childrens-smartphone-use-unlikely-hurt-tencent-bytedance-analysts-say",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/F2Em3U10Ae3K8koIrM0rNXndbYP1I21o-APhdOaYy5TB4xxbCoADYcOU9_fQSfWb9HPjsEJF6V10LSgAT_YCJoVs1sUCcaFZAGR2NIE_v8E7TOI54bbyn3prpT4e3r5ZrvTDOoZmar5wUK0NlQl_Mo-drX-aWx9OESe8l4SBpR7Jf08plz8M0HisFRUv7Bu2RTA1QQOR6QpFICUga8TV-6Zf16Bku5EJqGqhFLVxk5Z83T3w-bCORBvS6iou1Huash2vuWA",
+            "original": "https://cdn.i-scmp.com/sites/default/files/styles/700x400/public/d8/images/canvas/2023/08/04/f41807ba-db0c-40bd-97df-3c0c230d6561_c5dabac3.jpg?itok=wXvWZFBQ&v=1691140985"
+          }
+        },
+        {
+          "title": "China Tightens its Grip, Introduces New Proposal to Curb Youth Screen Time",
+          "snippet": "Internet service providers are encouraged to generate content that promotes \"core socialist values\" and creates a sense of national unity.",
+          "publisher": "gizmochina",
+          "timestamp": "1691119758000",
+          "newsUrl": "https://www.gizmochina.com/2023/08/04/china-introduces-new-proposal-curb-youth-screen-time/",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/aLOTLeeLgBXJNNhX8C8VYtw_gCXSoC-zyURQQoHz4EOO5jwnFLS2gt9x3UEdkLdBJ8bCPzY2C0Mt63To391WBk9l_PBkLSiYANWON2mSnqijZ6mdqIHZcFvSA5W5yKQzwhzUB7DCg3l3Yg8AT3zKHxbLpIIqUARmlQ",
+            "original": "https://www.gizmochina.com/wp-content/uploads/2023/08/tim-gouw-LmYcS4nwj8w-unsplash-scaled.jpg"
+          }
+        },
+        {
+          "title": "Chinese parents get state backing in bid to combat kids' internet obsession",
+          "snippet": "It's a familiar sight around the world: a teenager glued to their cellphone as their parents implore them to put it down. But youngsters in China may have ...",
+          "publisher": "AOL",
+          "timestamp": "1691086589000",
+          "newsUrl": "https://www.aol.com/chinese-parents-state-backing-bid-160037330.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/cpi917nkc0gPtbu4-NRs-KF8Zly3-_b-aiPuL8g6gr0IVs2qXUxIA5u5tY-w7w_dqu14WrOiNsYFra5In6862gKt6NKqFbUT1D9cFFWTNSPlt7mnj3Er7Nt8Ic-EUw9dgP1Q8wa6RUGam4V9N4zfxgF1RnqwjRAzACBIzfRpGGAMLboGqNqrM93k6Ov0xvjvruYcj6PKOymNQHdjv_1FzUcfvJ1UX6azjO6E2q0es0teHUDVPUQxHT7SRmNTXZYVmUtqf6lcBVz5PonWuMvetPE",
+            "original": "https://s.yimg.com/ny/api/res/1.2/zU6pnXb_3H28KO.dKflLoQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNg--/https://media.zenfs.com/en/aol_nbc_universal_184/393bf929a0b4f5318c13781c5b0727d5"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fisker Releases Q2 2023 Results: Provides New Fisker Ocean Production Guidance",
+      "snippet": "Fisker issues quarterly business update ahead of its Q2 2023 earnings call, keeping shareholders informed about the automaker's recent developments.",
+      "publisher": "Fiskerati",
+      "timestamp": "1691148828000",
+      "newsUrl": "https://fiskerati.com/fsr/fisker-releases-q2-2023-results-provides-new-fisker-ocean-production-guidance/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/g16q4oovAj1Wp1D-caWVZipgL6C8iRDbtWyogI2JJjBfQQI3Rx_Su3pzLKsizCDSmkYi42fXdwG6EqSm9QrbJl7mgSJMS2awGUzD0D1pMnGHhWDyF9pSJ6esTG0sbxHwr3fTYHv5pPAf3oc_R-Gsv6OjX7lER-YV0lDSsO_aAEgBsZ8K4O4LhbiZFn6uvepTKNu5jD0tdaI7H_rkdsrVcmVDuLi1WpGchUCyDojNd0jcTg",
+        "original": "https://fiskerati.com/cdn-cgi/image/quality=80,format=auto,onerror=redirect,metadata=none/wp-content/uploads/2023/08/Fiskers-Q2-2023-Earnings-Call.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Global food prices rise after Russia ends grain deal and India restricts rice exports",
+      "snippet": "Global prices for food commodities like rice and vegetable oil have risen for the first time in months after Russia ended a deal allowing Ukraine ship grain ...",
+      "publisher": "The Associated Press",
+      "timestamp": "1691160420000",
+      "newsUrl": "https://apnews.com/article/global-food-prices-grain-deal-rice-exports-e253008d9c6d558a9965e84ccbaa6383",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/KYbZv1cIHdA4HDy1wz8eu2dAaCNO139eg7P4Xwdkpie34ZlS7jS6X3fN7CnlACwnnQolGuQ_JkINdYK8A0k8__DNyNBBVcohYMa6uqM09ACd-ymMtNzfof4gS_BO3iraoRxB6dKz5k6AeSFAj1O-KB4YnaWqHk_J5JNEJfZJnI4elLOGZuozEfgrttSEsCdT5o3aNSFcTIbkvbsx_MsVAPrUlq4k226Fo8xF2vSgmYPJ5oQaVSrnO2nwqUsKRCbs5bx-QF_qNfqukkbaUNIU-96rMKijgvDUzfmAuKzcHu8bcf6l6W0uLHe9jKEXCZKrlswEQIEJJs7iCz3GIfGzDA",
+        "original": "https://dims.apnews.com/dims4/default/42e0c62/2147483647/strip/false/crop/5616x3744+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2Fa9%2F87%2F50b87c2c4adb40749ac3fac6fb41%2Fb080a95980d447aa87bba62b6686d1f9"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Here's how much cash you may have in your home, thanks to new record high prices",
+      "snippet": "Home prices in June hit record highs in 60% of U.S. markets, according to a new report from Black Knight, set to be released Monday.",
+      "publisher": "CNBC",
+      "timestamp": "1691166641000",
+      "newsUrl": "https://www.cnbc.com/2023/08/04/record-high-home-prices-mean-you-may-have-cash-hidden-in-your-home.html",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/JAGtu--zXneqjxhoLoWr2T0usuAwK7o2J6rCXXbOGrqAEDNFmnlgMPTAIV7UqAleB3acdiYEXRORxt2ripf5h-coZDIG-08tpwQbRXd9vUvEMEB5N1eV2wL03NdIAuGxk6_Viuc_tSu_6E0WVoAG0L4kmMSz7sEZduTYdYX7r09xe5viaJCngwNdp_ZF",
+        "original": "https://image.cnbcfm.com/api/v1/image/105420567-1535476842005gettyimages-1020749918.jpeg?v=1691166641&w=1600&h=900"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Apple Stock Drops As iPhone Maker's Sales Decline For Third Straight Quarter",
+      "snippet": "Consumer electronics giant Apple (AAPL) beat Wall Street's target for earnings in its fiscal third quarter while matching views for sales.",
+      "publisher": "Investor's Business Daily",
+      "timestamp": "1691164860000",
+      "newsUrl": "https://www.investors.com/news/technology/apple-stock-drops-as-iphone-maker-sales-decline-again/",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/sDSTkF4gUs6Hu9GIzs1_piZDTYIBhkaShTafQedfiHOoVkmrYprQzQdTMUvI1_wwTGLlW8PajfRWln55PO-IvzEtC4O63g2tvUbKbP5etnjadIPtv1Thc_jbeQljfBqQ8lYryY6NV619wSNY_2FO6CPGIzcZKQ46Qg",
+        "original": "https://www.investors.com/wp-content/uploads/2023/08/Stock-Apple-producdisplays-02-company.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Gas prices rising: Cheapest, most expensive price per gallon by state",
+      "snippet": "Temperatures are going up and gas prices are following suit. Here are the states where gas is most and least expensive.",
+      "publisher": "USA TODAY",
+      "timestamp": "1691151813000",
+      "newsUrl": "https://www.usatoday.com/story/money/personalfinance/2023/08/04/gas-prices-rising/70527157007/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/jn_-J4kmP-s5r32WhSHSvuTb4nic7mxW9y8JOP_TuiGuGOOcEZiIUcFGQ5wyOJ_6OafW0yBZ4NTLymkNQ9Ojg6Bh5t8AoTp6fy8XeXSQaJV5xhzt2dQ3ppa8jJZ3GAti3Pe_hdqwsm0lt4B_rQw8wVTUNCgpIB-Z084i-6JXviMHlYB4AdHTE2g4ZJbryHA2j75OiO0vV8TpsVAwLFfrNNaquY_gD3Kgam5MLplyxxc7W3UmQZDSKoWp6exKZTwgnPM4XFk",
+        "original": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/01/USAT/70509883007-1497958918-1.jpg?crop=5849,3305,x0,y390&width=3200&height=1809&format=pjpg&auto=webp"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Gas prices spike, but could soon reverse course: AAA",
+          "snippet": "The national average price of gas increased 11 cents per gallon for the week ending August 3, AAA reported. But Americans could soon see lower prices at the ...",
+          "publisher": "Fox Business",
+          "timestamp": "1691161908000",
+          "newsUrl": "https://www.foxbusiness.com/personal-finance/rising-gas-prices-slow-aaa",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/VYQ9ZUt6OriM81ejrsJPsxvF6LQ_To03gBSGjBCrpM8IDeSrY0QR4HLoXSZ1KLX0ADy15kTbdzOGpuUnB_nZoA4M7-aZRRhs0nqlLoI-b2z374qpJDe7ZKtKG7QiH9BOb-Tqk_t09B6QE-270i6jWXVFG1XVw32EfMepulmsY13MTTJiWJG-aIRDBtIYQzWLEb4",
+            "original": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/Credible-1398694397-gas-prices-august-3-2023.png"
+          }
+        },
+        {
+          "title": "Don’t let the oil industry gaslight us about high prices at the pump",
+          "snippet": "Recent headlines blame climate laws for high gas prices, but that's simply not the root cause; it's the oil industry's pursuit of profits.",
+          "publisher": "The Seattle Times",
+          "timestamp": "1691100354000",
+          "newsUrl": "https://www.seattletimes.com/opinion/dont-let-the-oil-industry-gaslight-us-about-high-prices-at-the-pump/",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/GUOiFTkRq0N4EdXPeeUdwShpO5YJt3YWbbEJKkVIQd8Q6wTtpAZ5RSkCyiIL_d-4hUs19z_gof_QmrNoK0_CtSY8crriHcqo_xr5w7pdRylSYzraZ0Qcz-EOEzFr2y8PxuxPNIZKcZVhwiaTISvKvT48ak3lqSaMGnDS8c44",
+            "original": "https://images.seattletimes.com/wp-content/uploads/2023/08/08012023_OpEd-Gas_125036.jpg?d=1560x1041"
+          }
+        },
+        {
+          "title": "Gas prices continue to rise in MN | News | willmarradio.com",
+          "snippet": "(St. Louis Park, MN) -- Gas prices are on the rise in Minnesota in early August. Triple-A Minnesota reports today's average for regular unleaded is ...",
+          "publisher": "KWLM (Willmar Radio)",
+          "timestamp": "1691152200000",
+          "newsUrl": "https://www.willmarradio.com/news/gas-prices-continue-to-rise-in-mn/article_b7261924-32c2-11ee-9c75-77d18a5b104a.html",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/tBLGMohJd9JKF4-fHP3FufblNibMmzd1uxCNH44I1t4dQ64BeOnGDKVEUFNZyEDNF4PT0chM71CmAbDmrz3ujcRBlrQszsKxgmTuhC0mVCbCEZVXEdiETkug6Rmp5Cm80ZuMhUC8MPwqiwO4KE38gmfiPjH7jJWjQzr2B4CBO82HH1iqV4vdoq0XeyUBZZnbg4p1h9svj9rHqY_sev7VWkIBO2b4uBEXDtKVnTNvsi5Wp5OGGrxApdl1CzqEq9rcZ3MfvSyupjhZ8ISRMbE",
+            "original": "https://bloximages.chicago2.vip.townnews.com/willmarradio.com/content/tncms/assets/v3/editorial/c/a4/ca4c4386-cf68-11e5-91fd-279dba05b840/56ba474adfcab.image.jpg?resize=333%2C500"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Apple, Amazon, Icahn Enterprises, Fortinet, DigitalOcean, and More Market Movers",
+      "snippet": "Stocks traded higher Friday after the U.S. jobs report came in softer than expected, and investors pored over earnings from tech giants Apple AAPL –2.57% ...",
+      "publisher": "Barron's",
+      "timestamp": "1691158500000",
+      "newsUrl": "https://www.barrons.com/articles/stock-market-movers-1742f12e",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/bBqpS8A3F39x1BvCI_Il1rGOwgIgiT1B0ZOTKwSCvjKaw6i6WvNt-mbZ3X3VqKrDksmKStuqo4XOrc6BjObrUIZaGb_ywX5GMhccLEZOgiBh",
+        "original": "https://images.barrons.com/im-765217?width=1280&size=1"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Stocks claw back after brutal sell-off with Apple, Amazon ahead: Stock market news today",
+          "snippet": "Stocks on Thursday clawed back from the previous day's downgrade-spurred sell-off as highly anticipated earnings loom later in the day.",
+          "publisher": "Yahoo Finance",
+          "timestamp": "1691090287000",
+          "newsUrl": "https://finance.yahoo.com/news/stocks-claw-back-after-brutal-sell-off-with-apple-amazon-ahead-stock-market-news-today-162807409.html",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/JZqxroOdimZ-EYzMgppFDYGEhlQXXnk7zBLWfjiKvdtmIPWvRvHdp3U2ScrWI3cxb_qYAnWUj6cfx2LYQ7ZFr3yKVlI9JjpEcCARZ6W73ol0BwzLxctbjuXE20o6by9RzxHai8BhFhI10wZV0J3wvRw62-QYeoLEqW_BXSe9NaoSX1UlhfqWwyaLQpANGB9dFPgTjNv_b1B6YClFB3HLRMCjoIzffzYEeQ9ZcLaEGFo5v_b6HohEOdHrZXVQa9az1LupJWgpiASeVQM1azvS8kOR8xCIlUxuTQ",
+            "original": "https://s.yimg.com/ny/api/res/1.2/aRWbQaE_jAvn7rL0EYJuvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/c2ca6790-31f4-11ee-bfff-0422398a7e3b"
+          }
+        },
+        {
+          "title": "Dow rises 200 points as traders cheer strong earnings, jobs report: Live updates",
+          "snippet": "Stocks rose Friday as Wall Street cheered the latest batch of corporate earnings and evaluated a cooler-than-expected July jobs report.",
+          "publisher": "CNBC",
+          "timestamp": "1691167860000",
+          "newsUrl": "https://www.cnbc.com/2023/08/03/stock-market-today-live-updates.html",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/RXzk527Bn45C2QiHNzYN4eSlhenKHgzwOrlggEY2iC5uKSxcezLnq7kWwA3DLHAX312oMcqSc56tqabXQ9WVYZdpOmZ4NH8lQJLOD7ayw7_3hb1bqz2jJVYk_j8rLS2A7FmFnHtkQKNpw6W2Se971aB03sDxpJimTgwwcNvL6ivDemLp3vn9Rpr9lbG_fgB4hE297ZLdj6DIeZqolXzoDbo",
+            "original": "https://image.cnbcfm.com/api/v1/image/107209164-1678890773954-gettyimages-1473703380-img_2403_cf60exrm.jpeg?v=1691158283&w=1600&h=900"
+          }
+        },
+        {
+          "title": "Stocks finish lower, yields rise with big earnings on tap: Stock market news today",
+          "snippet": "Stocks finished lower Thursday as they attempted to claw back from the previous day's downgrade-spurred sell-off while highly anticipated earnings loom ...",
+          "publisher": "Yahoo Finance",
+          "timestamp": "1691092983000",
+          "newsUrl": "https://finance.yahoo.com/news/stocks-finish-lower-yields-rise-with-big-earnings-on-tap-stock-market-news-today-200232037.html",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/JZqxroOdimZ-EYzMgppFDYGEhlQXXnk7zBLWfjiKvdtmIPWvRvHdp3U2ScrWI3cxb_qYAnWUj6cfx2LYQ7ZFr3yKVlI9JjpEcCARZ6W73ol0BwzLxctbjuXE20o6by9RzxHai8BhFhI10wZV0J3wvRw62-QYeoLEqW_BXSe9NaoSX1UlhfqWwyaLQpANGB9dFPgTjNv_b1B6YClFB3HLRMCjoIzffzYEeQ9ZcLaEGFo5v_b6HohEOdHrZXVQa9az1LupJWgpiASeVQM1azvS8kOR8xCIlUxuTQ",
+            "original": "https://s.yimg.com/ny/api/res/1.2/aRWbQaE_jAvn7rL0EYJuvQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/c2ca6790-31f4-11ee-bfff-0422398a7e3b"
+          }
+        },
+        {
+          "title": "Dow Jones Futures Fall After Nasdaq Sell-Off; Two Cathie Wood Stocks Report With Apple, Amazon Due",
+          "snippet": "Dow Jones futures: The Nasdaq broke short-term levels Wednesday. Cathie Wood stocks are overnight earnings movers with Apple, Amazon due.",
+          "publisher": "Investor's Business Daily",
+          "timestamp": "1691064600000",
+          "newsUrl": "https://www.investors.com/market-trend/stock-market-today/dow-jones-futures-nasdaq-sell-off-two-cathie-wood-stocks-report-with-apple-amazon-on-tap/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/apeFexVUXmRMLieDS1z1RrYscWYOvzGLuakc8S4P3WFVM_ui7pwyc6MHEvmrdRmQn1uwvm4XbTBZbk5F2Rt7CtCgyHhy9du2HHX0_9rpGDxVxinnIDTTQBkD0Ds0GWAA5CTaGC8xMLM-aaLcPw",
+            "original": "https://www.investors.com/wp-content/uploads/2021/11/Stock-CathieWoods-company.jpg"
+          }
+        },
+        {
+          "title": "Stocks making the biggest moves after hours: Apple, Amazon, Airbnb, Coinbase and more",
+          "snippet": "These are the stocks posting the largest moves in extended trading.",
+          "publisher": "CNBC",
+          "timestamp": "1691096896000",
+          "newsUrl": "https://www.cnbc.com/2023/08/03/stocks-making-the-biggest-moves-after-hours-aapl-amzn-abnb-coin.html",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/cdKGDV3naQQdJ4oZZHvl--NZj6qTZA8gjowHdQ68VPCUUXkiqEBl1hBQKRCo6tHaCROCl1D6ljnBadTHcpgWJcHSQZxOh_rbLN-e-MdJd0o-8luyQdtfhSmNlZBe75uD7veKO73XeMvOnx0l1RVPiqmkhtzLZyXsda1k4ps6Wng_8d_Rwx68zV9SYnbA4mUzFsKylIzORV8",
+            "original": "https://image.cnbcfm.com/api/v1/image/107278754-1690574142531-gettyimages-1532812034-app_logos.jpeg?v=1691106520&w=1600&h=900"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Bud Light trans controversy comes amid shifting US beer tastes",
+      "snippet": "Popularity of craft brands and Mexican imports were already eroding appeal of country's former best-selling beer.",
+      "publisher": "Financial Times",
+      "timestamp": "1691158003000",
+      "newsUrl": "https://www.ft.com/content/d83cc096-2bfc-4021-961e-b10c46308f59",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/P8DvdbY4WkMEN60G10fQdUMnJH9ABl5kSSVfWJ21JS7kmCtXFIZYvPox03N-7zqv-z0IWDserb1ralFfUEVI1OHNqvee4r2gV09HZio0OnIIZZa4XDBk5QXQvDQ8E2oFrhNejpj23t3AMgtKhi0w_8tkjVY",
+        "original": "https://d1e00ek4ebabms.cloudfront.net/production/90e1249c-ba79-4750-b5dc-1332d3352757.jpg"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Retailers already planning to reallocate Bud Light's shelf space, rival drink executive says",
+          "snippet": "Retailers are reportedly planning to stock less Bud Light on shelves to make room for less controversial brands as the beer continues to be tainted in the ...",
+          "publisher": "Fox News",
+          "timestamp": "1691107200000",
+          "newsUrl": "https://www.foxnews.com/media/retailers-already-planning-reallocate-bud-lights-shelf-space-rival-drink-executive-says",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/rY60dp5pAohWss-9xY8CcmKWtKxOXIqxDxHZvcPYp9PdjfXIFv9M_Wuvx76TjSAA5O1vrlB5z3cT4kjK3Wz3fIyd_5pYtO0PYyvKOwPpJ15p2ZC0NnU-gt3SmmOpBQHSnFFaAYUYN9CDluWGDKpwRUQTUXdo5aPu4rMnVxNepINRxmPtmmVY4ysOgGrpWG2CbzerfoAosQ",
+            "original": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/04/1200/675/GettyImages-1005678172.jpg?ve=1&tl=1"
+          }
+        },
+        {
+          "title": "AB InBev's Bud Light Controversy Hasn't Faded and People Are Drinking Less Beer",
+          "snippet": "Despite a better performance outside of the US, AB InBev is still grappling with the controversy over Bud Light at a delicate time for the beer sector.",
+          "publisher": "Bloomberg",
+          "timestamp": "1691053750000",
+          "newsUrl": "https://www.bloomberg.com/opinion/articles/2023-08-03/ab-inbev-s-bud-light-controversy-hasn-t-faded-and-people-are-drinking-less-beer",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/H2SwfR6veLdhbC6IV5s3Br-ne1TJOyJI5-y6lNh7Jgb5-1BsK61a6Df16Guv74g0JqPMoZ1s93pe5br7o24OZLrBg9NV4s8ny5GJ6AScpD7twruM-QZW_q0pTtZKMbgid3Hw4dk",
+            "original": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iABCXeQn8X78/v1/-1x-1.jpg"
+          }
+        },
+        {
+          "title": "Bud Light sales hit after Dylan Mulvaney anti-trans backlash",
+          "snippet": "Bud Light has reportedly seen its sales fall following anti-trans backlash to a one-off social media post with transgender influencer Dylan Mulvaney.",
+          "publisher": "PinkNews",
+          "timestamp": "1691150449000",
+          "newsUrl": "https://www.thepinknews.com/2023/08/04/bud-light-sales-take-a-hit-after-anti-trans-backlash-to-dylan-mulvaney-post/",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/QQwl9AZyzCYftkaJKppohyduekEbCoZj9hibnmLAbvuzLXGEFoahjou2fwadbqnsPSFxViMvElQmKG1x1qDVWkaIOupWxzPZDfApt9xGk1YOuH-7_iF3UZqGFTZmm9CO2KAoqCk29bCwuQS8ynVYpg6HYrs0-FkK-rIQViuNgLX9",
+            "original": "https://www.thepinknews.com/wp-content/uploads/2023/04/Dylan_Mulvaney_Bud_Light.jpg?w=792&h=416&crop=1"
+          }
+        },
+        {
+          "title": "Bud Light boycott fallout could stick around 'for months, if not years,' expert says",
+          "snippet": "Despite efforts to turn things around, Bud Light's double-sided boycott troubles may not be ending anytime soon. The latest quarterly results from Bud Light ...",
+          "publisher": "Yahoo Finance",
+          "timestamp": "1691093704000",
+          "newsUrl": "https://finance.yahoo.com/news/bud-light-boycott-fallout-could-stick-around-for-months-if-not-years-expert-says-201504291.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/kSjcyKu_AwjbCa6GchMDnhGAlnXHLALCOnmF2bWvUM_qS-RzKZBuhuN1aAn91VX1xF_OAazDwyDI_1yH20spLPw5bVrrxyoyGQACfgYOg7uvz0JfxIRTI0-ZJxHG92ZVXEPIMRNJVcOlWbo2F_Wpw_JrmTy8EITY8VNzpOEXspZSAw0VdL5pzce9jhzfu90MtyzHCEEkDeSzBSZGUO0cq8p21m9uF4IHPhJFBbVRi9uwRbvCq8RjIqI1sK3g6EKyomLf9SC6Mkf629N46FEpAo2TG85Yv4V-Fg",
+            "original": "https://s.yimg.com/ny/api/res/1.2/r3R3YgQ3weGzPA62ECocqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://s.yimg.com/os/creatr-uploaded-images/2023-07/f705c3a0-2c50-11ee-9fff-769ee0bd8eff"
+          }
+        }
+      ]
+    },
+    {
+      "title": "TSMC Chairman Mark Liu Says Company Will Keep Its Roots in Taiwan",
+      "snippet": "In an interview, the chip maker's chairman, Mark Liu, explained why TSMC's top tech would stay in Taiwan, despite growing threats from China and worries ...",
+      "publisher": "The New York Times",
+      "timestamp": "1691144905000",
+      "newsUrl": "https://www.nytimes.com/2023/08/04/technology/tsmc-mark-liu.html",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/8OCo-AtDebdy4bImtDuyALWeifrjfr6q-QCvrJRb8b2eU4QecbQHhEYGbcDWr4a1q1uCi1agBjjUY5P6_-2qXvA08kWmuUIy-LEfdXtMUMmH0e-qqn0WmxaZT9R_-YgD8LmqQQwboxZgo5agHvqED8pUJQIKT8GNKH95CLA",
+        "original": "https://static01.nyt.com/images/2023/08/04/multimedia/04tsmc-01-zlcw/04tsmc-01-zlcw-superJumbo.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Maersk warns of slower demand for container shipping",
+      "snippet": "COPENHAGEN, Aug 4 (Reuters) - Shipping group A.P. Moller-Maersk (MAERSKb.CO) warned on Friday of a steeper decline in global demand for shipping containers ...",
+      "publisher": "Reuters",
+      "timestamp": "1691161980000",
+      "newsUrl": "https://www.reuters.com/business/maersk-posts-q2-profits-above-forecast-adjusts-fy-guidance-upwards-2023-08-04/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/OQT7uXcUtfjUQdLR2yt6TtP2IpH5PESQ21xCk2tOGcR2AHhit_9uy8OPGLGJPdwMZ36nxxjnDiJtdZR_9Snwt4rRSgmfoi3z9UyaqTguwkLdVN9JIcGAj3Sd5IUuiTiwS7X5ks7SQrG6xl-AO49XeEBEq3vYJgU",
+        "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/RMF4MOF7FNKX3MHP5ZEGBYFUPU.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "What’s going on with the reports of a room-temperature superconductor?",
+      "snippet": "In late July, a couple of startling papers appeared on the arXiv, a repository of pre-peer-review manuscripts on topics in physics and astronomy.",
+      "publisher": "Ars Technica",
+      "timestamp": "1691158068000",
+      "newsUrl": "https://arstechnica.com/science/2023/08/whats-going-on-with-the-reports-of-a-room-temperature-superconductor/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/wuJz-m1FcMKCuM0wg02Jv9xYftB_Huq31QaRT823JY608CI9QhhEblxfUuwBxdSISXnwa3uAQbXhqriuTYMgIQtQ3LmJibUFnfe1t8Li6EMG-bR-m2C8a8EYXzyFBurWr7rohxXA-mUi6Q",
+        "original": "https://cdn.arstechnica.net/wp-content/uploads/2023/08/LK-99_pellet-800x513.png"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Claimed superconductor LK-99 is an online sensation — but replication efforts fall short",
+          "snippet": "Social media is abuzz with chatter about the material, but some scientists are pushing back on the hype.",
+          "publisher": "Nature.com",
+          "timestamp": "1691161197000",
+          "newsUrl": "https://www.nature.com/articles/d41586-023-02481-0",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/YHvRrXgnMMvEAwehIXQZ1H9zWkJiyjpdXCu0SX6aFWtJB_yawYgAhG-GnB7BYMMp5SeKWS-XH5IG_uWFXhFbWpdUHUwl9OfCRBopmnG7O4A_APh-C56dyIJ6VJ5Tw8NM0jPCOgtw1SgE2NTYpSv1pWvbeIqhrnjvRp3Xn-ey90s",
+            "original": "https://images.nature.com/original/magazine-assets/d41586-023-02481-0/d41586-023-02481-0_25886822.jpg"
+          }
+        },
+        {
+          "title": "LK-99 Superconductor Wins Social Media But the Frenzy Must Cool Down",
+          "snippet": "Social media is super-excited by the potential scientific breakthrough. Let's not get ahead of ourselves.",
+          "publisher": "Bloomberg",
+          "timestamp": "1691153356000",
+          "newsUrl": "https://www.bloomberg.com/opinion/articles/2023-08-04/lk-99-superconductor-wins-social-media-but-the-frenzy-must-cool-down-lkwl1mjm",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/Sh331Gu7E4GOmilDR8InuoANfKf-QNfip0j04v0ZD1rj573iiTr231mBzTiJug-yYXYWh4Q8MuiC3wY5GqehyWpj82P59FPqBgAWI8IU6N3KPh0GkqZ095OIPyc3pNObDIlz-Co",
+            "original": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/irwU0rNejyxE/v1/-1x-1.jpg"
+          }
+        },
+        {
+          "title": "New superconductor frenzy seems too super to be true",
+          "snippet": "Scepticism has built around initial reports that LK-99 might prove to be a transformative discovery.",
+          "publisher": "Financial Times",
+          "timestamp": "1691086017000",
+          "newsUrl": "https://www.ft.com/content/3e76f8a1-cc4a-4794-82eb-49b31a3c1e2b",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/Wiqr_7lL8XSCAyWl422nzgEXM8Cv3nUdQ-huw_X0f7AYUDEKiZrzFi5PAOVsS9buGuFbfHEzFxuTd0MO0BAGJ7HqiqnHPaBlaMNjenqYCoqMpn466AKRZRrk5tUbSIlUkyIv_fjd92nBuHA282J72spP-VU",
+            "original": "https://d1e00ek4ebabms.cloudfront.net/production/864b80b5-5703-4677-99eb-d27e27267e6b.jpg"
+          }
+        },
+        {
+          "title": "Room-Temperature Superconductor: Unleashing Potential!",
+          "snippet": "South Korean scientists claim to have created a room-temperature superconductor that could revolutionize everything from computing to transport.",
+          "publisher": "Interesting Engineering",
+          "timestamp": "1691089200000",
+          "newsUrl": "https://interestingengineering.com/ie-originals/ie-explainer/season-3/ep-17-how-the-superconductor-discovery-could-change-our-world-forever",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/0CipdQtvT5GitfiuTpO20F2LuYktu_B4lf9Tx-rpczB0sgFPC8bWmRfINtCxJqZa0bZn91_iXo8LeDOFoMRcPPAw5rIL6fgthbnXJtJg1hGeCqsR9oOgqz6lwJpkUKWa5TTuypexTthEQCEgM7oD82FndA56cpJRzaUOnrKEcMfg",
+            "original": "https://dnd2oi6izkvoi.cloudfront.net/2023/08/03/image/png/fcUGOgL5KYMW7W41fGr7aERxttnfOIKvjpoILXFC.png"
+          }
+        },
+        {
+          "title": "Opinion | Watch LK-99 to see real science work the way it really should",
+          "snippet": "Sometimes breakthroughs are real, so a proper skepticism must be tempered with a measured optimism about the possibility of human progress.",
+          "publisher": "The Washington Post",
+          "timestamp": "1691069400000",
+          "newsUrl": "https://www.washingtonpost.com/opinions/2023/08/03/lk-99-science-breakthrough-maybe/",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/WtjHavGLD10ZhYk1BNiGiT4CvzGsDkyiOgomWygGvUPpjhtDiUM9w9kDOG-YSU0eYTTUYTf2sX93HagXYfHFw2-Gj9q1Fk7VLR5cFjEXpIuATKJFgSwPS32DOh2f4SbQWA5_nr8S5DMHxSqR-1czu4Ot3gK2F0P94tj4aQFfuA",
+            "original": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/RJWRLY3Q272N7PYSDRHISU7A4Q.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "‘Bitcoin Bonnie and Clyde’ plead guilty to money laundering",
+      "snippet": "A husband and wife, whose eccentricities and alleged crimes earned them the nickname “Bitcoin Bonnie and Clyde,” pleaded guilty to orchestrating a $4.5 ...",
+      "publisher": "CNN",
+      "timestamp": "1691146680000",
+      "newsUrl": "https://www.cnn.com/2023/08/03/investing/crypto-couple-plead-guilty/index.html",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/89CHpxxrISJ6mRIzNjNZrAKrPock3wRWgUtgc4Mo_10ZvrDJEEFO7jMly4W2RW1p6sXjQ-jQaXXVbpUdrZjZ7EfOXlXRjZsTYp9LynpGeZDQBbRVX2qVavuCG7d3xM3sKcspeMkNLouisSeyRAaiPdmy8n9r4ET2G32pGDb1-_3dQXOFpuVTx4zOUqsJA7IVeeWxxERr7cogzsy7eOBA_Q",
+        "original": "https://media.cnn.com/api/v1/images/stellar/prod/230803105707-heather-morgan-ilya-lichtenstein-2022-court-sketch-file.jpg?c=original"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "'Bitcoin Bonnie and Clyde' plead guilty in 'spy novel'-like laundering case",
+          "snippet": "Heather Morgan and Ilya Lichtenstein hadn't been implicated in the 2016 Bitfinex hack itself — until Lichtenstein delivered a bombshell revelation Thursday.",
+          "publisher": "The Washington Post",
+          "timestamp": "1691145960000",
+          "newsUrl": "https://www.washingtonpost.com/nation/2023/08/04/bitfinex-hack-guilty-plea/",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/B7EnQiAwtyDiYpqu3EZgLbc_qrbvpmwgHyLJNvLdCjfU92vMMVNW7TiaxgwUdJ0WabjUiU2B25sv1slzuJWGG8pKihYCMxZAO55zb1wSx5yG5NUbjWd0zHYzDF2Ac9PhBanXs3MoEIC2BEJQieuT2l1ia68QVwEqr4AFWJTmqzlT6Vvbqs7cU_5Z1WfVdw5NFO1Fd0at1avSQs2xYVIa8BmpQYmzFpUoSTYw",
+            "original": "https://www.washingtonpost.com/resizer/ROif9Td25l1U-h_cJQIDhJGGOeU=/arc-anglerfish-washpost-prod-washpost/public/DHDB3RDR32TE6BFODXHL27Z3MY.JPG"
+          }
+        },
+        {
+          "title": "Tech Entrepreneur Admits to Being Hacker in $4.5 Billion Bitcoin Heist",
+          "snippet": "The mystery hacker behind one of the largest crypto heists ever revealed himself Thursday as a New York tech entrepreneur married to a wannabe rapper named ...",
+          "publisher": "The Wall Street Journal",
+          "timestamp": "1691093280000",
+          "newsUrl": "https://www.wsj.com/articles/tech-entrepreneur-admits-to-being-hacker-in-4-5-billion-bitcoin-heist-bb2e054f",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/517QxTMpT4lGYLK524FbW8S_oXMrlN8KoUT8mzIZpbSMVVkgfGKEGtuHxaZ0VKlMeWzrgSHKInBl_bi7VpxzXBRI6pUGYmGeeMGAr3k",
+            "original": "https://images.wsj.net/im-827184?width=1280&size=1"
+          }
+        },
+        {
+          "title": "Razzlekhan and husband guilty of $4.5bn Bitcoin launder",
+          "snippet": "A husband and wife cyber-crime team have pleaded guilty to trying to launder $4.5bn (£3.5bn) of Bitcoin that he had stolen in a hack in 2016.",
+          "publisher": "BBC",
+          "timestamp": "1691087111000",
+          "newsUrl": "https://www.bbc.com/news/technology-66390639",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/Vs82zneF8HcIyPnyI4rhNZZNgwHL2PCUYKM9C2LSSV2yS1PWbtFZGp0lGBByKpaBAw-eqOvI0F4R8UjqG_lHhovcbwtUtX5-4IKkXcenV2SfC-Y7NN2o3-VlXJDoZFF01cDFhREJ56Zns1v2U1TfRf_EfjYPinj4x1kBu-Gj1bikuNvvWnQnHocR6_NDqMs",
+            "original": "https://ichef.bbci.co.uk/news/1024/branded_news/11EBB/production/_130630437_3b05fe1d-48e9-40d6-a82c-4e555308aa5d.jpg"
+          }
+        },
+        {
+          "title": "Bitcoin launderer pleads guilty, admits to massive Bitfinex hack",
+          "snippet": "A New York man admitted being the original hacker of bitcoin in the 2016 hack on Bitfinex he pleaded guilty in federal court to a conspiracy to launder the ...",
+          "publisher": "CNBC",
+          "timestamp": "1691076985000",
+          "newsUrl": "https://www.cnbc.com/2023/08/03/new-york-man-admits-being-original-bitfinex-hacker-during-guilty-plea-in-dc-to-bitcoin-money-laundering.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/5fxr4SX_kSTE470vlvLaYOKlNffMlO55benUGDy89vX4IWwLbaKA0WdLG0zhQt1GI_PiRStchgTaONerkuhZ4_W85S4mTEE_1Y6JaTGFR3rwOBQoq0QN9eBbklicmpX47ZXocSR8d9R3dbp59dS6GghUjpbSw4S7AhtaaT7xjL2d",
+            "original": "https://image.cnbcfm.com/api/v1/image/107016392-1645040316570-Untitled-1.jpg?v=1691077050&w=1600&h=900"
+          }
+        },
+        {
+          "title": "New York Man Reportedly Admits to Bitfinex Hack; Coinbase's Layer 2 'Base' Gets a Launch Date",
+          "snippet": "CoinDesk Daily” host Zack Seward dives into today's hottest stories in crypto, including Ilya Lichtenstein reportedly revealing himself as the hacker who ...",
+          "publisher": "CoinDesk",
+          "timestamp": "1691084483000",
+          "newsUrl": "https://www.coindesk.com/video/new-york-man-reportedly-admits-to-bitfinex-hack-coinbases-layer-2-base-gets-a-launch-date/",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/r7PCi_Q7cvjyfk2NhJdylQN2CCIiWtcSeZLMFyPf2JMa8nTTHVGmB45yaD3XapdIvHUqbpktVqtnk7dQvdmMsJfZqmc9Y1I2YwCe2uBuQnIRzS4KFXedgg",
+            "original": "https://assets-jpcust.jwpsrv.com/thumbnails/pEq23sdQ-1920.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fubo Delivered $305 Million Total Revenue in North America in Q2 2023, Achieved Double Digit Year-Over-Year Revenue, Subscriber Growth and Exceeded Guidance",
+      "snippet": "NEW YORK, August 04, 2023--FuboTV Inc. (NYSE: FUBO), the leading sports-first live TV streaming platform, today announced its financial results for the ...",
+      "publisher": "Yahoo Finance",
+      "timestamp": "1691150400000",
+      "newsUrl": "https://finance.yahoo.com/news/fubo-delivered-305-million-total-120000080.html",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/h3T_b7mYFP-mxhGwt1SirgOn1cWNjGGNPwxQ0ETiDQeW_vyhV-rwnpovw8ghv_gR41P9gorGU5fNw5zeA_YOJdFprllQmopvN6IPuxZDd0KeGY-7vILsJa5fpsUwQTDBqZ6_afVil-rgiyaVlLyF1D885h4lyQfgBcAeJK9vZjDH5bot-pPSDbarHV_Z2kpfF8dIgzyzNbb2pIpefTjuAmDBSQe-B7pU2IO3CDflNxk5frTngPiOCLStBNumNffngIgtoYNWAPOCil-PWQ",
+        "original": "https://s.yimg.com/ny/api/res/1.2/FPX7Tn1oNFfQ.LjVGdHzqQ--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTY0MA--/https://media.zenfs.com/en/business-wire.com/127ba32dfa853940c0560ca3de0d3bdb"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Wells Fargo missing deposits: Customers report issue with accounts",
+      "snippet": "Wells Fargo customers took to social media Thursday and Friday to voice concerns about missing deposits in their accounts.",
+      "publisher": "USA TODAY",
+      "timestamp": "1691167427000",
+      "newsUrl": "https://www.usatoday.com/story/money/2023/08/04/wells-fargo-missing-deposit-issue-today/70528493007/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/uHTP4VwBUN_fb2t0Ktt6IpjGl319LYv473SgTYjLlbGgx3qvEy4Oqo64qrDc1w3tjir0S6y1IfbksJZjvgnfCftZulDGj2PzTGA-M8goAa9EhxLzPYNJazlDmwx26XpElhQ2Sco0Isti0RFAxuuCdDlQbUg83PGdZTo6LhV_dgkOEw",
+        "original": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/04/USAT/70528559007-gty-1491063378.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Coinbase Moves to Dismiss SEC Lawsuit, Alleging Crypto Falls Out of Regulator's Oversight",
+      "snippet": "The agency claims that the exchange operated as an unregistered broker, exchange and clearing agency.",
+      "publisher": "CoinDesk",
+      "timestamp": "1691150820000",
+      "newsUrl": "https://www.coindesk.com/policy/2023/08/04/coinbase-moves-to-dismiss-sec-lawsuit-alleging-crypto-falls-out-of-regulators-oversight/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/y1bUxNbd_te1_Fk9808nLYp9U6QsSxbXDSh-n7Qu6SDDEyfy9cC4mqRVLll69NBsFsEUcNBq65rZmLGLZMcvn38YN4sczuDfSG5JDCzUARme5OzYo6pboqvZrx-dAEVjWl5-5fgV9-pYqciGambxawaA7Wy3pmqAKeD8CCWcyt4p0L_vSir7pCAJohQAcYsQDD1KevfD6sjLWXU_Xd7LSv7w59kB-L5M7bSamwy7PDdzd2E6Mgf_Ex9GQuGSIl-OPsyztl9P",
+        "original": "https://www.coindesk.com/resizer/jFyOO2VQ-VpqvhhFI4EHcSKS9lc=/1200x628/center/middle/cloudfront-us-east-1.images.arcpublishing.com/coindesk/JLDTFXH55JDC5AICCWHTWAPVZE.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Saudi Arabia Charts Solo Path on OPEC Policy",
+      "snippet": "The kingdom extended a unilateral cut of one million barrels of oil a day and said it could be deepened.",
+      "publisher": "The Wall Street Journal",
+      "timestamp": "1691154720000",
+      "newsUrl": "https://www.wsj.com/articles/saudi-arabia-charts-solo-path-on-opec-policy-ab9a436c",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/XwUYI6tEQ32s-BFoNUGwmkHdhpwUQTdO57rFDVrZRmAGUYIK_w25uk5ifBf9oRxtE34pZPdPAQF8hPQ_9nYItOsCFQ05cFOU37ecT6g",
+        "original": "https://images.wsj.net/im-829753?width=1280&size=1"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "ICYMI - Russia to cut oil exports by 300,000 barrels per day in September",
+          "snippet": "Saudi Arabia announced on Thursday they'd be extending their output cut: Saudi Arabia to extend voluntary 1m bpd oil production cut through September.",
+          "publisher": "ForexLive",
+          "timestamp": "1691097420000",
+          "newsUrl": "https://www.forexlive.com/news/icymi-russia-to-cut-oil-exports-by-300000-barrels-per-day-in-september-20230803/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/3nNleuU89TEyyp_woPn_5z8dvbEC0zcWBiN2unK0Mj-_M3iEtDn3ATKWFltFF8Vz3-Xt0rwrwrjb0GlsegRxvE6fxkSz7rGYEIbe5t0jfoK9FpMxvK7COjunpQ44Wmvv-MduHMsIMPUakC_UP-XLI5yk12AN_llyIaqtcF07CT1BxqQ1ghBul16TzYgZm8rYhn2jJx9zW0Js_WjWpOfXmVDHynAz",
+            "original": "https://images.forexlive.com/images/oil%20chart%20price%20update%2004%20August%202023_id_0c643ad1-45fb-4f2f-bec7-4703b3e851bf_size900.jpg"
+          }
+        },
+        {
+          "title": "WTI recaptures the $81.50 area as Saudi Arabia and Russia tightened supply",
+          "snippet": "Western Texas Intermediate (WTI), the US crude oil benchmark, is trading around the $81.58 mark so far on Friday. WTI bounces off a weekly low of $74.",
+          "publisher": "FXStreet",
+          "timestamp": "1691109652000",
+          "newsUrl": "https://www.fxstreet.com/news/wti-recaptures-the-8150-area-as-saudi-arabia-and-russia-tightened-supply-202308040040",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/ZF3bxpW2VRdPjhRj3lpENOHXBRLHDHhjbBkkCkirIyUFNE6FHvqMhQk-LY0OOSTrTEhwo43S2mLZwq6ukWSVoSREOM9-lAWDZxbhi93uZ578WyGeTNRjXW5NOEL98Q3WPQfqAuoRS35d9cBzhIpfUrgfwWYqPuMiwZI",
+            "original": "https://editorial.fxstreet.com/images/Markets/Commodities/Energy/Oil/oil-pump-1843603_Large.jpg"
+          }
+        },
+        {
+          "title": "OPEC+ to Discuss Market as Saudis Mull Extending Unilateral Cut",
+          "snippet": "Saudi Arabia and its oil-producing allies will review global oil markets this week while the kingdom weighs whether to prolong its own unilateral production ...",
+          "publisher": "Bloomberg",
+          "timestamp": "1691059979000",
+          "newsUrl": "https://www.bloomberg.com/news/articles/2023-08-03/opec-to-discuss-market-as-saudis-mull-extending-unilateral-cut",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/PMTVYX5y5MLFyDxQ18ff-xPlsbC7c4qj5ejfZ_BjfwCUhZGQfJSpLoCshdAVLoQ6HQj8pRcgzBzFluLgvvjuZthGbe08HACLMkd3k0ryhKLKm3DEaQaKGZ1GmgrybQkuOB64gDA",
+            "original": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAjpuAFVd_xM/v1/-1x-1.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "India delays laptop import restrictions order",
+      "snippet": "India is delaying the implementation of its import limitations on laptops, tablets and servers a day after the unexpected regulation left electronic ...",
+      "publisher": "TechCrunch",
+      "timestamp": "1691156926000",
+      "newsUrl": "https://techcrunch.com/2023/08/04/india-delays-laptop-import-restrictions-order/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/Z5hF3DyOfKJZuBWbx5OAw7Vjqm1gefT5R4vVoLwfLUOu3NP60sJbBDFRctGB1k4Ghi7bQZXH0xTBbS-yodb6IXCqX9TR01Fm21DgO_lNQ6eYjtNs8ekqjOCP1OyeogcXUAQgXMWz8QQ12odvBw",
+        "original": "https://techcrunch.com/wp-content/uploads/2023/08/GettyImages-1252008033.jpg?w=680"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Apple, Samsung could be hit by India laptop and PC import restrictions",
+          "snippet": "Laptops and tablets are among a handful of electronics that will require a license to be imported into India, according to a government notice.",
+          "publisher": "CNBC",
+          "timestamp": "1691150469000",
+          "newsUrl": "https://www.cnbc.com/2023/08/04/apple-samsung-could-be-hit-by-india-laptop-and-pc-import-restrictions.html",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/6tFDFV3OVxqz0gkBFXu_JPzGonIL_h43giKGgi7fds6OenUps0oaegYYwwIOhzlPRzagJn17PJVtWG3LZrPUcFK332orcvb3vHhaYatokQV0iM_JKsZrUJP2lcc9JYhYH_sjPk6Gcp09iyjyTVZNIB2Upm6ykM2EznH1OyRshcStL4w",
+            "original": "https://image.cnbcfm.com/api/v1/image/107221106-1680712993799-apple_mumbai.jpg?v=1691150469&w=1600&h=900"
+          }
+        },
+        {
+          "title": "India stops import of laptops with immediate effect..",
+          "snippet": "India announced on Thursday that there will be an immediate import restriction for laptops and personal computers.",
+          "publisher": "Greatandhra",
+          "timestamp": "1691078409000",
+          "newsUrl": "https://www.greatandhra.com/politics/india-news/india-stops-import-of-laptops-with-immediate-effect-131136",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/eNl-IkoQZAf3BotAN1j0cQKrXFsOCMPLuXRdpvxmmkEB5sQkQkjTiHeFvDrQQauMzcljta7Ey0_KpFVLsh5Qu14jSE57MlVySGDB7g5JPy5PpOyLDwxcqpi2E32rW4Y-1_EpWnQJXS0vTN5heWVVnS5SbNqU4R7kwjh67l1IW5XrtByDsiXc_EuSwlTCpRb_MHZbMDfd4S8JWg",
+            "original": "https://mc.webpcache.epapr.in/mcms.php?size=medium&in=https://mcmscache.epapr.in/post_images/website_49/post_34014874/thumb.jpg"
+          }
+        },
+        {
+          "title": "Modi govt’s laptop import ban targets China but will end up hurting Indians",
+          "snippet": "Reliance recently launched the JioBook, which costs less than Rs 20000 and is made in China. If Reliance needs to import even half a million units of this ...",
+          "publisher": "ThePrint",
+          "timestamp": "1691151511000",
+          "newsUrl": "https://theprint.in/opinion/printech/modi-govts-laptop-import-ban-targets-china-but-will-end-up-hurting-indians/1700776/",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/2sQ3Dg1yT0FegjQdOJg27cSf7qDmSQ_1a6PfhygcMtlFAiUNEPTZnGee4jE8Gex1LjTrXevgiYyoBUAer62tCzKBc_AFyFcCzaGQUEDiwls591_ygUm9Frr0IL-08_2G0pGkIC9evoc2UaARB58",
+            "original": "https://static.theprint.in/wp-content/uploads/2023/08/Indias_800-e1691153225247.jpg"
+          }
+        },
+        {
+          "title": "To restrict PC imports is to restrict India's economic future",
+          "snippet": "The import restrictions placed on computers and servers is a bad idea. It stands to hamper India's robust technology and business process management exports ...",
+          "publisher": "Moneycontrol",
+          "timestamp": "1691154730000",
+          "newsUrl": "https://www.moneycontrol.com/news/opinion/to-restrict-pc-imports-is-to-restrict-indias-economic-future-11098041.html",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/ajYmQBn2hOYkkOYYrcEjRF_TILWGURRtzduxVGp-uVA7r2qCJHKOYqG0gjBQaUIE3zCc_xTVrU8x1nWZUS2RrGS-UPgF-yxsa-MFdu9E5Qig5r3qY5W5-RbyrY4rHmiLgFplBIOCRJtYvTRDALUsnWLW3rXrCnkjZDKTZhJ5DyHebyxmfw",
+            "original": "https://images.moneycontrol.com/static-mcnews/2023/06/399254848.jpg?impolicy=website&width=1600&height=900"
+          }
+        },
+        {
+          "title": "Government May Delay Laptop Import Curbs By A Month",
+          "snippet": "The government will help companies obtain a licence to continue their imports on electronic goods, according to top officials. On Thursday, the government ...",
+          "publisher": "BQ Prime",
+          "timestamp": "1691154861000",
+          "newsUrl": "https://www.bqprime.com/business/government-may-delay-laptop-import-curbs-by-a-month",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/-Jwc98SdJlimI6c5gQf2cs7Gv5WzngnlvACeY8b22DdMiw_semCI8OB-Yo19vpsvzB4El_NKJ0xlkb6ADmr8Xl6V-Z5fybNbt4w_Jieh49PiqNwpOlE5Z4vtVYouPwftHo7T4dt9bdoS37lhqXTO6VgqpseCyQlI0Pus8YKQtYQhVXgH2d169JLuIR4Ckdh_XjjL-ds3IgypKSeQOInB04MSpjxTxewBd0xPsdco39DUfOZtvkz4FtiwoZsTNvQzHTJKcjZsi8-CcptzTpLhPE1ShFb2vHC9HqJRXluZ",
+            "original": "https://gumlet.assettype.com/bloombergquint%2F2022-11%2Fabc3082a-d2a5-4fde-b27f-16fd6f133299%2FWorking_ona_laptop___Source_pxhere_com_.jpg?rect=0%2C73%2C3000%2C1688&auto=format%2Ccompress&w=1200"
+          }
+        },
+        {
+          "title": "Mac and iPad imports to India will require a license, from today",
+          "snippet": "Update: Bloomberg today reports that both Apple and Samsung have responded to the sudden announcement by halting laptop imports into India.",
+          "publisher": "9to5Mac",
+          "timestamp": "1691150280000",
+          "newsUrl": "https://9to5mac.com/2023/08/04/mac-and-ipad-imports/",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/IOi6lo4_dZC2_csTTYWerT5z7HImE2OWUghDbotZyYoY25u6xSZX4_Kgs4FvDh40YNKwmsQd-zsG9DPw3opEPV6NeHwfBpdUU3H8Z3J4GkoWusHiDjHJikFAiL8V4Cf6sFbCqWzPLqSTI7ykDiQs4Y9dNZGMEdh2ZHHWPGjJ3w",
+            "original": "https://9to5mac.com/wp-content/uploads/sites/6/2023/08/Mac-and-iPad-imports.jpg?quality=82&strip=all"
+          }
+        }
+      ]
+    },
+    {
+      "title": "These Are The U.S. States Working To Attract Remote Workers",
+      "snippet": "For all its stress, the pandemic gave some people a chance to reflect on what their ideal work-life balance would be. Maybe it would be great to work ...",
+      "publisher": "The Hill",
+      "timestamp": "1691151960000",
+      "newsUrl": "https://thehill.com/lobbying/4137308-these-are-the-u-s-states-working-to-attract-remote-workers/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/DUk29c6ng5IhHGsxa_0c-99x1fQL4x3IojV9A9rFBWgbLEjf5CtZwm5wtKCHpoQuhNJ3vf69Oqx4bHIU6JjsH9TnnrKCFOhFNlE-p_OHTs66KAc23JSVwfrRtHEfJZJHpQXVYNkAF5rC9aqFJkUEdqbH4dhC6e23LQERk41eouC3xHg",
+        "original": "https://thehill.com/wp-content/uploads/sites/2/2023/03/GettyImages-1339729895-e1679393220898.jpg?strip=1"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Learjet pilot in JetBlue close call was not cleared for takeoff",
+      "snippet": "Federal investigators said a charter jet pilot took off without permission, creating a \"conflict\" with a JetBlue plane preparing to land.",
+      "publisher": "USA TODAY",
+      "timestamp": "1691161364000",
+      "newsUrl": "https://www.usatoday.com/story/travel/airline-news/2023/08/04/learjet-pilot-jetblue-near-miss-not-cleared-takeoff/70528133007/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/f9jOtRVqZAcSQgOurAv3cTEyYSa6JslhPPCkCehLolA43QUOJYynCDcBA07E1BueD_RTnzkWu3x1XIu4IeRyzW4q_KfVM3W3f8S1_E1CMNqQ0Af7Mr_yK7kriz-IeLWlV0H_P5nBJhb3aTALVytCiOQqY-m9yKzjOr63WJemRkBPx8wsjtqrslF9XZejjv7nk4XXKmumNDrFKpmcIcsLkhjWldRgimmm50QI5J3odDb9_kNldT6ZHWRNeHILYVwwTBDhqBxXPtf9_dVB4_3PrNsvxbrESv2fvKq7K5k",
+        "original": "https://www.usatoday.com/gcdn/presto/2023/03/08/USAT/a58311ae-edfe-4a0b-8119-36343ecb11be-76b6334e-c515-4ca6-8398-96f382f8acf4_thumbnail.png?width=1280&height=720&fit=crop&format=pjpg&auto=webp"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Most expensive homes sold in Franklin, Delaware counties in July",
+      "snippet": "COLUMBUS, Ohio (WCMH) — The top home sold in Franklin County last month went for $3.6 million, while the top home in Delaware County went for $2.9 million.",
+      "publisher": "NBC4 WCMH-TV",
+      "timestamp": "1691145000000",
+      "newsUrl": "https://www.nbc4i.com/news/local-news/real-estate/most-expensive-homes-sold-in-franklin-delaware-counties-in-july-2/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/z6Jkp9EV_s36STNKwojqONKCzXRP0nacqFzZ3JopkH_DrC2jIimgfOiUgPi19wxeUl1-eeUnMyqrstnSsEWTTdzVLqEqmyuZ_-KrZMv74N3jzDlFFVOR5A3yXqCWBJ3OutlnvpNVfn8RDHeM73O8Oj_MM5bIPButEZvJcZpv",
+        "original": "https://www.nbc4i.com/wp-content/uploads/sites/18/2023/08/Expensive-homes-July_Featured.png?strip=1"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "What were the 10 most expensive homes sold in Modesto area the week of July 23?",
+          "snippet": "A house in Modesto that sold for $785,000 tops the list of the most expensive residential real estate sales in Modesto area in the past week.",
+          "publisher": "Modesto Bee",
+          "timestamp": "1691096582000",
+          "newsUrl": "https://www.modbee.com/news/business/real-estate-news/article277940758.html",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/XlEtlTZ2h0XH_7rmqnTrrMjFxzFmi_WJeWdmZPPfmbKvxVouhISC-jRN1QYemGh30IPDKdhNbEfOjBb34KLC3QvTHsR7W1jH-iwgrvImPmdFEiE5lUXlRvHGBk2RYdRJz2NcnbzSl6pgZ5Yldn9Hal5aSv3e-lz5gsMYEw13H2eNFiJhNizbDbktzjH8NXpKtG0QCCZmhOuya-Qw5hWsngVtzOxEYotEaL-oAPt2",
+            "original": "https://www.modbee.com/news/business/real-estate-news/7n2vu6/picture277940743/alternates/FREE_1140/House%20on%20400%20block%20of%20Cassidy%20Court"
+          }
+        },
+        {
+          "title": "10 most expensive homes sold in Sussex County, July 24-30",
+          "snippet": "A house in Franklin that sold for $749900 tops the list of the most expensive residential real estate sales in Sussex County in the past week.",
+          "publisher": "NJ.com",
+          "timestamp": "1691161200000",
+          "newsUrl": "https://www.nj.com/realestate-news/2023/08/10-most-expensive-homes-sold-in-sussex-county-july-24-30.html",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/XXPJ57gqFItbzbt_OzW23Ulqti-9Lla0zBIPl9SR5f7uIyMHnUW7PNISPLoZdI96h4tu921mU3NTJ4CfalYwNQM9IuU2GZ2YjIjeUcbxF8Z80G3-inFA9OHHLvcQXXtjhGKqwbxXLwU-hu4XO7TvgYjcRaWvgUipcH11t_S22_iyQQGO9RmBMq5booYxPJ6b27vLDi4K_QCyt92lNjKSXmHCnViVNUj-7GJZJymd-ujfUXgqWMuA9nYc",
+            "original": "https://www.nj.com/resizer/OWuJqpNeQQ4bLb_ZOMmULtzUpqs=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/UOJWC2LCORBZ5BZINCSVKCLKLM.jpg"
+          }
+        },
+        {
+          "title": "10 most expensive homes sold in central Oregon, July 24-30",
+          "snippet": "A house in Bend that sold for $2.3 million tops the list of the most expensive residential real estate sales in central Oregon in the past week.",
+          "publisher": "OregonLive",
+          "timestamp": "1691164800000",
+          "newsUrl": "https://www.oregonlive.com/realestate-news/2023/08/10-most-expensive-homes-sold-in-central-oregon-july-24-30.html",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/74TNWeji-GymJNcJf68NC5DO9aBlJ0iqpNvDKU1f4cRkFarESzcKX3mKcWYBOTMHbbNpklwmZd8oPNmzDQnF-MsG0561JNOcc4hEb0t45iGWG_LKZYD-rKTKah2Nkjrv6YOKL3iApQGUnzd2Hh3Q_NKrKJLOy0CFKAA-vwnP2PwuGihe5yQASaz8q-8anv_EP5YEfYExvgkR6JwHQXbn2n38s-N1RsWTRICXeo4R1rfjy4DSgugTO1mNF5hZB2YXXQA",
+            "original": "https://www.oregonlive.com/resizer/P36PtvJ7TCDAs6v4EsPREQfv7PE=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/3YNNCEBOWRBFVK4Q2WUEMO423Y.jpg"
+          }
+        },
+        {
+          "title": "10 most expensive homes sold in Saginaw County, July 24-30",
+          "snippet": "A house in Freeland that sold for $479900 tops the list of the most expensive residential real estate sales in Saginaw County in the past week.",
+          "publisher": "MLive.com",
+          "timestamp": "1691154000000",
+          "newsUrl": "https://www.mlive.com/realestate-news/2023/08/10-most-expensive-homes-sold-in-saginaw-county-july-24-30.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/wDJe-mSB5WiXbL29r9p1hIkSn59XP-vnbM-gQAj01BtgpHthomZ6v33AvnCAX42QereLRNriki2x-sJRMq5jaGkyR6gZpT4Rvxcwx1rPGKEEGwqycc32mRQFbBFfjAcF4ugdLrura50CMQ7Exj63yQNXEsV4L8fAOhZcxLcNBHskkY4vwiuB0t82vB9dcw7nBDIxxvj1RJ2jDHcT8TjO2n65ZpHF8CisoED9lCu8QM-aZbEMMGDTx1mD1mL4",
+            "original": "https://www.mlive.com/resizer/LKDfL94Aazvkq5zc3h9yh5syrM8=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/C4YN4SD7T5BHBMR2TXRSAWDLSU.jpg"
+          }
+        },
+        {
+          "title": "Sanger-area home sales: Real estate prices in Sanger the week of July 23",
+          "snippet": "See home sales and the median price per square foot in Sanger, California, based on sales registered during the week of July 23.",
+          "publisher": "Fresno Bee",
+          "timestamp": "1691081882000",
+          "newsUrl": "https://www.fresnobee.com/news/business/real-estate-news/article277928818.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/3rot4iTO1N6UX2ujbngYk-pddWOmRea9d7dwr8G3gooiSqYksBCTua1Zr3bi629DbqlmjvnZEfqxW8DFqKgqmIMcxWCqNhWLA8a2NXXr7c8XIhxq7mbB9niIEAo59GGgKLHf7KUhj5cggJL8EnU9NpZmLJqy6DrkqChfvB8iUunjWAHNgaxkeDjif-PtXfmMncqaPBEtRLMZePToOD6qZ7bfSFEHjkWrcBcnhEddwUwShGoM3PIg0KEJLIguVPTZe9Sr0KI",
+            "original": "https://www.fresnobee.com/news/business/real-estate-news/3ht2ux/picture277928813/alternates/FREE_1140/unitedrobots-median_Sanger_20230724_20230730_134410955-0-chyron.png"
+          }
+        },
+        {
+          "title": "10 most expensive homes sold in Union County, July 24-30",
+          "snippet": "A house in Summit that sold for $2.6 million tops the list of the most expensive residential real estate sales in Union County in the past week.",
+          "publisher": "NJ.com",
+          "timestamp": "1691157600000",
+          "newsUrl": "https://www.nj.com/realestate-news/2023/08/10-most-expensive-homes-sold-in-union-county-july-24-30.html",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/ynfbTPeJg0jsa9Hmws_zGChfDG5wka4q33fkE__sBm9us4JVkD6yt6ZcYd75WTrb5t1zuBPolx2KE22XQiH5Mys2ZfeidWjaOssiJchDLVMzO8njlQOMFnkdzpT28ECnJtl3ifllPSJbIrysmolaLTnF9VolUWPxiOU8z19aXmtV6AgxhGQl6M3iDPITPAEceoPsQtA8yRBB5EYa1KfC93xuuxVlWR5p5FToWEH8rGaIk84Slp9wMzAE",
+            "original": "https://www.nj.com/resizer/0on6n-Pvkr19RUdkrfHikIs_8Bs=/1280x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/RVNJ2YNJNVB25PSNJMC6X6JWIQ.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Recipes and tips for National Chocolate Chip Cookie Day",
+      "snippet": "Grab your mixing bowls and baking sheets because we're celebrating National Chocolate Chip Cookie Day with two recipes to satisfy both crispy and chewy ...",
+      "publisher": "GMA",
+      "timestamp": "1691158500000",
+      "newsUrl": "https://www.goodmorningamerica.com/food/story/recipes-tips-national-chocolate-chip-cookie-day-101976728",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/tUaCmiXHF7i4YVbdkiMrAB06mNe-HKKuP_gM_tZAGpmhTGsSNOivvakuG4BSR78Jt4Pt31ln5t9bZyKB7NL3lY54pfbSXvKhaDAiuHhDPfnrmPsUVuD1w76pFu-8GemmDa5DwWHRn_q0YTd57spDMUdEeCS6dh_fgIk90bmK",
+        "original": "https://s.abcnews.com/images/GMA/brownbutterchocolatechipcookies_1691080446858_hpMain_16x9_1600.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "More Americans say they can never retire",
+      "snippet": "A growing share of working Americans don't think they will ever retire, recent surveys suggest. Retirement is a time-honored life stage and a near-universal ...",
+      "publisher": "The Hill",
+      "timestamp": "1691141400000",
+      "newsUrl": "https://thehill.com/business/personal-finance/4136153-more-americans-say-they-can-never-retire/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/2tFFyAMP1OAMNWO5AFE8swCb7bdDI4uAUg-wndbWrczIEeK76GBsaa2N3Odu4JOus2y3hhEKgZTqRTLXP1Zqd1PYuHjs71-V9Lm43TjGrY1prghVnL8MnkF1oBYRfRyRAcpmS0O8DOBsJcgEDxkkURRYq6zFTHwHZWSbLsi-BWL8w293r54Wg2DWnQ",
+        "original": "https://thehill.com/wp-content/uploads/sites/2/2023/08/news-illustration_080323mm-adobe-stock_retire.png?strip=1"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "FCC levels record $300M fine on robocall operation",
+      "snippet": "The Federal Communications Commission (FCC) issued a record fine of nearly $300 million for an illegal auto warranty scam robocall operation, the agency ...",
+      "publisher": "The Hill",
+      "timestamp": "1691161500000",
+      "newsUrl": "https://thehill.com/policy/technology/4137616-fcc-levels-record-300m-fine-on-robocall-operation/",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/VHiWxar3R6q-M7w7cmy_Jln6XThVT8ol91QNlS_Ofct1E2RFQIfEVg6E2tOD_rWYnzn93fA-c3CpESKwSJiLmaHv3VVunhztzlRGE4ucBL_HuIOGX-oF0YTC2Q362pAhAaQqZqbSVHEkX5xgjjjgH2Dg",
+        "original": "https://thehill.com/wp-content/uploads/sites/2/2023/08/phone_callerID_Getty.jpg?strip=1"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Historic South City hospital set to close",
+      "snippet": "South City Hospital plans to close. The former St. Alexius hospital in south St. Louis filed for bankruptcy in 2020.",
+      "publisher": "KTVI Fox 2 St. Louis",
+      "timestamp": "1691145734000",
+      "newsUrl": "https://fox2now.com/news/missouri/historic-south-city-hospital-set-to-close/",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/57_1PSkavWJoqY4tsGsQzZmvNBs2QdIhkT9wmNgYU-xT3wcegpWc3VK1Ve-y1EaURKtLheMLy4SfQSoAXLjTITUEZUniGMSw6nYFSUuQaXlY74-C94dDSJdqGwdlvQIw50VbEv3rSI8gFMK9hLQg7SAjpT6Artlbj5iB4xw",
+        "original": "https://fox2now.com/wp-content/uploads/sites/14/2023/08/snapshot-2023-08-04T053820.467.jpg?strip=1"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "How interest rates impact your money — from savings to mortgages",
+      "snippet": "Interest rates may seem abstract, but they affect everyone. CNBC Make It examines the role they play in your finances.",
+      "publisher": "CNBC",
+      "timestamp": "1691134939000",
+      "newsUrl": "https://www.cnbc.com/2023/08/04/how-interest-rates-impact-your-money-from-savings-to-mortgages.html",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/maOQP0MRWMVYu4-Shq2xEQTkHcr5f0IpMAm_jPq6ewn6iI_Uh0jwaNORjhSFV-y9h84UU43pSAdvJG82wnv7YodpkOnuaBQCzEOGwSuNNHThtZ3jIDrqRRJZmI9AtKM_QFLVYkmHwHAq1ag1RC6AIYuRJjvuGMzerRUxYxznkAeNlFLxldE8gjsygu8ejzPpN1ftDaK54Q",
+        "original": "https://image.cnbcfm.com/api/v1/image/107148253-1667939303036-gettyimages-1423646330-_44a7970.jpeg?v=1691134939&w=1600&h=900"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Mopping Up the Money Mess - WSJ",
+          "snippet": "The central banks of the world are trying to clean up after years of misguided monetary policy, and on Thursday the focus was on the Bank of England and ...",
+          "publisher": "The Wall Street Journal",
+          "timestamp": "1691091960000",
+          "newsUrl": "https://www.wsj.com/articles/bank-of-japan-bank-of-england-u-k-andrew-bailey-kazuo-ueda-129a9548",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/TDDdPkN5bQCjGHp5Qd0ak2pSH4LgnKiog5e6GhciJARCCKo6FHNuNxxOBlLUWyNXxoSLPd1XtHxEqJFGsoaW1GdRCvZcctlmuDvvwv0",
+            "original": "https://images.wsj.net/im-829420?width=1280&size=1"
+          }
+        },
+        {
+          "title": "Bank of England offers 'something for everyone', except sterling",
+          "snippet": "LONDON/AMSTERDAM - The Bank of England's modest rate hike on Thursday soothed politicians' angst over runaway borrowing costs while its pledge to deliver ...",
+          "publisher": "ZAWYA",
+          "timestamp": "1691131600000",
+          "newsUrl": "https://www.zawya.com/en/opinion/markets-insights/bank-of-england-offers-something-for-everyone-except-sterling-njmcd7mq",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/Kr8YbOoWLg-WuauhBSHURBvxf4y1o7HrUoVlfdr3AyXubQNtuIi7bp2Q2OaH1Cr4FaVOIeiUZG-u1hWPShblxdHSmSbxLtzyauE6I2njnMaf_jB58djX4TcG0qatSdNx8DDz5eEjADJJUU2fjpkHW_4_aA1gWeBEsMkp3ONkNVh4",
+            "original": "https://static.zawya.com/view/acePublic/alias/contentid/MDViMzM1ZTItMTYzZC00/7/britain-boe-crypto.webp"
+          }
+        },
+        {
+          "title": "The Guardian view on high interest rates: losing the race against time",
+          "snippet": "Editorial: Britain's 14th successive rise signals a grim 2024 for the economy and for Rishi Sunak's government.",
+          "publisher": "The Guardian",
+          "timestamp": "1691084520000",
+          "newsUrl": "https://www.theguardian.com/commentisfree/2023/aug/03/the-guardian-view-on-high-interest-rates-losing-the-race-against-time",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/BDzYxkGVyWGIOWVnz2K7UiUozc6h1uD6lO42k5-hRsevNK0zn7Vono46pqJ1aE-sVo8GyMHbykY0eZrgPdtZd7s_hggyVngeXrELSYk7jJFYJkXK7jjEqwQX2vWgKeIm7UfSIYe4Ku2hrMC_A_C1a4d5xwfea255pomWYC1jq1wB_aeUihNFD1QDGyWy0k9OUv8rYw35HQBG089EuFBKD0Eln6V0-OkdMBJq3xr5hav7CcZy2y_0KTFy7aNxSJnFSiLkYZVVTZH3PM_y4x0VIysBRTK5kHGHdoBExaOizslZKnsDcJQiJWXVfuvHa7HxHsvgLrbJlfg0vS1HhRhhcbNgJ6ofNd-eBlsuSvgW3xiRZhckTlp4fRqJ1qC5OeCVUXvhtEDyjtFx2WImOVRh2FazYbXZSnRqIhnq4jPjSPwCBlQX5nX2LzMduBUDCOwooHkkU0MHG2HsGzc",
+            "original": "https://i.guim.co.uk/img/media/7e810d91ba4c5919420f82542313a431520b828e/13_225_4390_2634/master/4390.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=ad5b782be39d7728be36265c712f9870"
+          }
+        },
+        {
+          "title": "The Bank of England walks a tightrope",
+          "snippet": "Central bank's mixed signals leaves path for UK economy uncertain.",
+          "publisher": "Financial Times",
+          "timestamp": "1691080577000",
+          "newsUrl": "https://www.ft.com/content/e1ee9b5a-8dd0-4caa-bb62-7c8aff20d5f8",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/2GZgapb1M0X6hFKo85-asYbjW7DDtQHqujq_bi8fRm3637FxI0aJW2biC6eQwBUL2kmoFhRRYeZc7PNNzyfY7_RqtZrhpucdl_jhbj8aRC_E5xhXG666fCiXT9hpcbA9qCQwxWOgygDxMlyOxT-Kf3Mf6WU",
+            "original": "https://d1e00ek4ebabms.cloudfront.net/production/eadd5749-d057-40bb-a928-7fc52a031061.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Google-parent Alphabet offloads nearly 90% stake in trading app Robinhood",
+      "snippet": "Google-parent Alphabet said on Friday it had slashed its stake in Robinhood Markets by nearly 90%, cutting its exposure to the trading app operator that has ...",
+      "publisher": "Reuters",
+      "timestamp": "1691161980000",
+      "newsUrl": "https://www.reuters.com/technology/alphabet-slashes-stake-trading-app-robinhood-2023-08-04/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/ss1buTybmHOKWn6_fahFBAPWnIbzQH3oYLZFUPvhtfERDxFt6JFabukEd6GwvMVHYwo8ji1ctKw1S0UwEuFU9c3av34O6MNECikNstsFUm_8YI77srjS-G8P9wGUaNvKGF_aWAk971vshereC4WZww0MX9UomhE",
+        "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/AQQ7DRV3ABOOJGGI4A5S2JJZEU.jpg"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Google Parent Alphabet Cut Its Robinhood Stake. Cathie Wood Is Still Buying.",
+          "snippet": "Alphabet, the owner of Google, has sharply cut its stake in Robinhood Markets, although, Cathie Wood is still buying shares in the trading platform for her ...",
+          "publisher": "Barron's",
+          "timestamp": "1691161980000",
+          "newsUrl": "https://www.barrons.com/articles/alphabet-cathie-wood-robinhood-stock-google-ark-78f7efe9",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/5FhxnPBoKjp11NZNFpYrkjihccNhSj3LKX4BpoT_gz_qZIeJokDaDz3exnMOOg5CYa_-E_4uNx0qoWSWuMrBLnP6NAVKMfj4Y7ZQtQdz8DfT",
+            "original": "https://images.barrons.com/im-421593?width=1280&size=1"
+          }
+        },
+        {
+          "title": "A Triple Triumph: 3 Market Leaders Break Into Profitability — Here's Who Defied The Odds - Wayfair (NYSE:",
+          "snippet": "Massive returns are possible within this market! For a limited time, get access to the Benzinga Insider Report, usually $47/month, for just $0.99!",
+          "publisher": "Benzinga",
+          "timestamp": "1691083056000",
+          "newsUrl": "https://www.benzinga.com/news/earnings/23/08/33555372/a-triple-triumph-3-market-leaders-break-into-profitability-heres-who-defied-the-odds",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/uGLJ2_e99tp2WabZxBS0XoKv8NVubRQd0rJRRlTcTxAqUruG6nuLswFOUfx3fuJ_jeqXLecb7Vl-oAjr5UJEhGT3tpaEmve_NCH761BpPU7dnCnVhp6lcfklYm_ArRzbT6lkzmMfjKogp6mz34J3n-VHERaDltED5Wg2lFMb54TJXM9Waw",
+            "original": "https://cdn.benzinga.com/files/images/story/2023/bull_chart_shutter2_6.jpeg?width=1200&height=800&fit=crop"
+          }
+        },
+        {
+          "title": "Alphabet dumps more than 90% of its stake in Robinhood",
+          "snippet": "Google parent Alphabet has pared back large positions in multiple publicly traded firms, including the trading platform Robinhood, 23andMe and Duolingo.",
+          "publisher": "CNBC",
+          "timestamp": "1691162556000",
+          "newsUrl": "https://www.cnbc.com/2023/08/04/alphabet-dumps-more-than-90percent-of-its-stake-in-robinhood.html",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/z9dw7Cu2Ao6d3uVBbVeqOXSAizu3bIQs6F_A6Vam9KeptXfPiOIetBvVvfvH-50ar57noSKOKr95_y3449DYBlR_hIwl0JisXnlhqyTOWyphEP8u6zYyQLvPON9yIxGaEbVXko6QWy9ULzFRWDEEmp-spJdFMYfFFWvjoBdnECgGySPjvvpvPLx3uTGH_F5xhlKWTxoGUVn8iySNezGa-jttE-R7VDpm3OaodopznvvVrS-9ZKlzCSiWgqg",
+            "original": "https://image.cnbcfm.com/api/v1/image/107186644-1680784759574-107186644-1675183758247-gettyimages-1246677376-GOOGLE_ALPHABET_EARNS.jpg?v=1691162556&w=1600&h=900"
+          }
+        },
+        {
+          "title": "Breakingviews - Robinhood swaps meme-green tights for duller look",
+          "snippet": "Robinhood Markets is looking more grown-up - and more boring. The retail brokerage posted its first profitable quarter as a public company on Wednesday.",
+          "publisher": "Reuters",
+          "timestamp": "1691093280000",
+          "newsUrl": "https://www.reuters.com/breakingviews/robinhood-swaps-meme-green-tights-duller-look-2023-08-03/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/Q6d8TTXSgHFR6tB3e-2SH-aaPnPxRDkch19mR-7jHh7MryuEkG8t9o9GOBbE0mtfPPy9nRTiHtyxjeKXDUt2UTTbqb4b0kvj2azLjVgUjEh1-LPqrE7zWDbY60RvMNDeidVBp7fZhChcczt2xNQp5E_1zHDpizk",
+            "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/5IEXOA2YBBLVNFDTJTJS36DN6Y.jpg"
+          }
+        },
+        {
+          "title": "Where Robinhood Markets Stands With Analysts - Robinhood Markets (NASDAQ:HOOD)",
+          "snippet": "Massive returns are possible within this market! For a limited time, get access to the Benzinga Insider Report, usually $47/month, for just $0.99!",
+          "publisher": "Benzinga",
+          "timestamp": "1691150449000",
+          "newsUrl": "https://www.benzinga.com/analyst-ratings/23/08/33572054/where-robinhood-markets-stands-with-analysts",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/SpKSmgZQnIIKErRrep-agmqzoo5oTlA-w-HYoz2V-hRkku3mHmejvXVzJDjFoPZMz9HxCSvjG-QLoC-bkB1k6BiX7i0vMbz6irq2mHFo8V_Y9AexCL2G-WS15anOz0LmO9ZeK7C0v8kkzEeA-1-1yoVYFPpObGHTdDxMYeulgR1hKNxt3VPa",
+            "original": "https://cdn.benzinga.com/files/images/story/2023/analyst_ratings_image_1.jpeg?width=1200&height=800&fit=crop"
+          }
+        }
+      ]
+    },
+    {
+      "title": "‘Disaster’: warning for democracy as experts condemn Meta over Canada news ban",
+      "snippet": "Retaliatory move against Online News Act is 'epic miscalculation' that will promote spread of misinformation, analysts say.",
+      "publisher": "The Guardian",
+      "timestamp": "1691156220000",
+      "newsUrl": "https://www.theguardian.com/world/2023/aug/04/canada-meta-news-ban-facebook-fake",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/46OFYm9IU84NKIrlBXjpP0vnJYFYXAi7JRizP9wtUanZkf_pyWL1wpTSp-5ygkzMrllveCAWodf1phaNC_72Uu7_NxFtUi3A7YqsLpx_1Uto_zNxSDjH7RPFDehjGpJ9-ItdIH5yynOCcCxK8D5LL48EZg6SWV6L3fO8mj7NuLzXWabY2lft2gm5e82MO2-mbvQSYHl6Op206kAEpMHEZJtk5kklA_V72xp7l_esRD-vy0txs-GaYz-bzyktH3-NE0y7lypNXRMduRMyNGbwnZUAalQDOfVk3xC9OsbIWi-7n3OhMs0jgMNPbDcBl4ibCLXjPMDLgihnYUxTPMKO3fE5Lva9mSw07YojjfP6jLBTnq7rmHk562FTO-9-GU56C6C8_lnv6cOxRA_rsWmFWCjte3HlwtnqFwn8MDcmePRDjo8TkJcc-BcXt81rhr1G_nqc0IF8kg18",
+        "original": "https://i.guim.co.uk/img/media/a0eefbdf59571b025e107477ffce71a585f88bb2/187_0_1862_1118/master/1862.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=7dd5e92e989e5a381e264d07bc6b1b79"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Meta Removes News From Platform in Canada",
+          "snippet": "A Canadian law that will require tech companies to compensate domestic publishers has led Meta to start blocking news articles on its social networks.",
+          "publisher": "The New York Times",
+          "timestamp": "1691159100000",
+          "newsUrl": "https://www.nytimes.com/2023/08/03/world/canada/meta-facebook-news-feed-removed.html",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/h7_s3DzV_dpbhJTWT3X3SxGY3T2KKjf79eR6DSehodOxJ-Gy5KPXsthKh9eEic2_Ahez19lcFLaHl6dnzoNJFT3f78jFyHWmzB2IUwFE-AW7Xi0eBr847UdbQGyK4OpR3hAleLXSwhTLxGW8j5ghLWwJw2oqWQCesluEEoQvuyAfsMW1jQcnVUbnKdeY3KQpgg",
+            "original": "https://static01.nyt.com/images/2023/08/03/multimedia/03canada-meta-tgpb/03canada-meta-tgpb-videoSixteenByNine3000.jpg"
+          }
+        },
+        {
+          "title": "Op-ed: Meta has crossed a line by banning news – how OBJ suggests that you respond – Ottawa Business Journal",
+          "snippet": "It has announced that it will essentially shut down the social media accounts of Ottawa Business Journal ‒ and its sister community newspaper, ...",
+          "publisher": "Ottawa Business Journal",
+          "timestamp": "1691001790000",
+          "newsUrl": "https://obj.ca/meta-banning-news-how-obj-suggests-that-you-respond/",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/f4gtbBTb7bOM4GA98212ddjzJRMgGhXNWdPFIZBjdfil5Qzwn3BNIK4EnNYIbMBv7TYSSqG4a_LaZpJCzdj4A85tqw",
+            "original": "https://assets.obj.ca/2023/08/Meta-1.jpg"
+          }
+        },
+        {
+          "title": "Facebook owner Meta carries out threat to block news in Canada. Google plans to do the same",
+          "snippet": "Facebook and Instagram parent company Meta is keeping its promise to block news content in Canada on its platforms in response to a new law that requires ...",
+          "publisher": "Yahoo News",
+          "timestamp": "1691089443000",
+          "newsUrl": "https://news.yahoo.com/facebook-owner-meta-carries-threat-190403368.html",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/cDEMo_Yl-tMyYOp_4GY7vL0xOMbDWIoQ9H9rkuyZzhgbgEwZfsVcxGeK6koqR9VIaTAcW5i9CD6tTWmKZtPrjSzX-VDlsm8ZSWAwbPzTQeUfyFuNci4TNK0t3H0t03IXUPq7Bf7uzW5gexOdTxJgh1O4R6gjdlip007xfka4H5SaPQv5x1LHsiJrEogdZSpWcRhzvwVy_rHsPDVLRMApwktELxpLCrS76lGDIuJL6RPBcLAZJePhAJeTckwsGJG0YFM",
+            "original": "https://s.yimg.com/ny/api/res/1.2/nRfWC.GdbpehiQVdye.p0A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/ap.org/3a34b938dc1ef3b38345ddd0d51203bd"
+          }
+        },
+        {
+          "title": "Meta starts blocking news in Canada -- Google plans to do the same",
+          "snippet": "Facebook and Instagram parent company Meta is keeping its promise to block news content in Canada on its platforms in response to a new law that requires...",
+          "publisher": "MarketWatch",
+          "timestamp": "1691100600000",
+          "newsUrl": "https://www.marketwatch.com/story/meta-starts-blocking-news-in-canada-google-plans-to-do-the-same-7d7b8690",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/2HmCG2Oc-M7osmiDdjy9yFGCGWQHEfcWsD69TSryjlYGPVvCw5webQFL-0fWBsVuUUlIg9pZsCOv4mj_dDnb8nn783Q_P50TfCmIzsHX",
+            "original": "https://images.mktw.net/im-807678?width=1280&size=1"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Hunting for a job paying $100,000? These 26 D-FW companies top that",
+      "snippet": "If you're in search of a six-figure salary, here are 26 Dallas-Fort Worth companies to put on your list.",
+      "publisher": "The Dallas Morning News",
+      "timestamp": "1691146864000",
+      "newsUrl": "https://www.dallasnews.com/business/2023/08/04/hunting-for-a-job-paying-100000-median-pay-exceeds-that-at-these-26-d-fw-companies/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/5lixIaiAU5WoclVsBl_ZyjLUQp4xn2_dfWmdfXtBoqOJt_wLi8S2jVLUQonmIIoyOnwPyBSZHJHxjGJEMGsV7TKkMBuX2M6Soul2Z9pKzix6SHiNhGL8VqMXTDKbvU9YPwHya5vaA8DNS-KG0b72IeheuwL1ljVrdoCqTirAdQBf2lHGKEUqPS1Kl8Zb8zz99ikqrDvpFgfbf_dicdDSOWzoPoKzIn3m-iuTDLrvBvBqGjMQoy8SoAGB9F0jPzGSR5JDaFLxhoorjw0A4NaSPUvgKvWFV0jLeIdiMj3SUS13ULxWg-_Itg",
+        "original": "https://dmn-dallas-news-prod.cdn.arcpublishing.com/resizer/VxnufEKwpT9JEnLT0ddITU8P-v8=/1200x630/smart/filters:no_upscale()/cloudfront-us-east-1.images.arcpublishing.com/dmn/OFVNRIJOH5AJZAKCJY6A5L4GCQ.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Passengers were stuck on plane for 7 hours with no air conditioning, no food or water provided, woman says",
+      "snippet": "(WFSB/Gray News) - Seven hours in unbearable heat, with no food or water available: That's how one Connecticut woman is describing her experience with a ...",
+      "publisher": "KCBD",
+      "timestamp": "1691154660000",
+      "newsUrl": "https://www.kcbd.com/2023/08/04/passengers-were-stuck-plane-7-hours-with-no-air-conditioning-no-food-or-water-provided-woman-says/",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/DcmpU2RpXzw5-YNdtntSsXfBJDtTOjuQ8K9fTQS9tL_ih56FZ72Cptcz-tcw674AwaZfleAK9VtNcd01CQRnBA2rSJ9nXKi5L0HyEKwwittFY08kxrl4s15NgpHuUE1Ka6DC09n0JPD-h5CbOsZtKJoy0KytDZFZzJBJolweb15lFbLMNZ-OtJBRxquhfUudihlaPyI7mVrIQ0K82w-NGf23DLiJZkR64biz0MiYmyaQ6l-s7Z0pVkkmtydEHC0w3rpB-eMaxxTgaW4t0WNaOO-bUH8WmFETPZTyZi2Dd1YSjA",
+        "original": "https://gray-kcbd-prod.cdn.arcpublishing.com/resizer/hb_It6471mfeLhgDDD92JE6dpOo=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/HX5MXLD74VG2TH457K5QZ6NX5I.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Meme stock Tupperware jumps as debt restructuring deal fuels retail frenzy",
+      "snippet": "(Reuters) - Shares of Tupperware Brands surged 53.1% in premarket trading on Friday, after the kitchen storage container maker finalized a debt ...",
+      "publisher": "Yahoo Finance",
+      "timestamp": "1691145400000",
+      "newsUrl": "https://finance.yahoo.com/news/meme-stock-tupperware-jumps-debt-103640151.html",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/h4oGaBeDLiLHm4aPByC6aL6Ed0M3Ywz0WgSwiLEpNf7pEONI7vI5MbwnYVzqQP90zF1ihEZCgHK_X9knquCeWMbA_toLapzbkd2Sv_Kz8ftM3wSUZz5cXlV5c9ghf9fLAgYz8TC09cDMyvgvd3lvhRjFtaM6XYsRj-keb9srfpfgG7LfOcAS2FAdDEVI1tO-rsE_Tk7_WFIVrr7TVrxGuo3ASrDOY40qtRlvOruJViDOfxO8a5VapzQZE0akIUC895mqPtiwhSUFD38-D_dZ",
+        "original": "https://s.yimg.com/ny/api/res/1.2/2yWIJ6uXpZotl8PDdhTuPg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/reuters-finance.com/411e15dabdbf3991c5ce9c19df462586"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Tupperware may not go out of business after all",
+          "snippet": "Tupperware was left for dead; a relic of a lost time when leftovers storage had but one dominant market player. So why is its stock up 47% today?",
+          "publisher": "CNN",
+          "timestamp": "1691156760000",
+          "newsUrl": "https://www.cnn.com/2023/08/04/investing/tupperware-stock/index.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/SGemufOYNXxIJNmNXOj5Ry9a6zrBxgujxvBuEUqVgpVrn7QOSoal_MTbrqyxJ7b94TItshNZ0omx8cL7xjMTxyHrpwePnZqzB4ZoDitPUfu6fT7rAM4QQuU49A85PX_5fMQwZq_j4KO3hYVdbqL2SfcwVTyI4ECgxw",
+            "original": "https://media.cnn.com/api/v1/images/stellar/prod/221020141017-04-new-tupperware.jpg?c=original"
+          }
+        },
+        {
+          "title": "Tupperware Stock Is Exploding Higher: What's Going On? - Tupperware Brands (NYSE:TUP)",
+          "snippet": "Tupperware Brands Corp (NYSE: TUP) shares are trading higher in Thursday's after-hours session after the company announced a debt restructuring agreement.",
+          "publisher": "Benzinga",
+          "timestamp": "1691097501000",
+          "newsUrl": "https://www.benzinga.com/news/23/08/33562053/tupperware-stock-is-exploding-higher-whats-going-on",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/eXpL46LKdTeBjpUMlOLFSJA9Swxab1g89Bs4_UzNB5GAs7WPGmxkDf4wyt-txarUPsSZ5n2G7-I7LFHNDmea74LAKoxtH0XC1ZWf3lvT4E_g0urcHu6v7KMMAaQZj_wKxm9xLS1V-gddWwSk7oQ6rbCHU_mIM5jduqor-nIAdWmzlt2FJY3AMrgWcy0azRrk9A",
+            "original": "https://cdn.benzinga.com/files/images/story/2023/08/03/stock-market-g6ae2a72f4_1280.jpg?width=1200&height=800&fit=crop"
+          }
+        },
+        {
+          "title": "Meme stock Tupperware jumps as debt restructuring deal fires up retail army",
+          "snippet": "(Reuters) -Shares of Tupperware Brands surged 44% on Friday, after the kitchen storage container maker finalized a debt restructuring deal as it attempts a ...",
+          "publisher": "AOL",
+          "timestamp": "1691145400000",
+          "newsUrl": "https://www.aol.com/news/meme-stock-tupperware-jumps-debt-103640666.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/W7VOKXBpbPSXyEDzaJ3y03p680p9MgRMBJc2bB3UCpI_N4lznPwpX2mIQDtaFCMtuUb9JOoUu15E2yocXvsDEM2LbkZz0WSZZLBBI7PlpZ39grWpnEE-Qn2ZzqP4QXaqiE3bOTplm33O1xFGDT-lL0xAm4ileV1-OoV0tZgcPTy5TzeNmDRpyqSMJO6lAhcFVVsDC1pAp-gmieSW8pNwuSiJqdyPZ4oeJvJEFEKst_JJaLkUx12mG4jbpjt8w-eHEsQxt7acIxwIqw",
+            "original": "https://s.yimg.com/ny/api/res/1.2/5kPtqKtgCjiZvRuc8xCEeA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyNw--/https://media.zenfs.com/en/aol_reuters_29/d6a01040a8da121c6804feaecbee409c"
+          }
+        },
+        {
+          "title": "Tupperware stock soars 90% after debt restructuring agreement",
+          "snippet": "Tupperware has finalized an agreement with its lenders to restructure its debt obligations, the company said Thursday.",
+          "publisher": "MarketWatch",
+          "timestamp": "1691096640000",
+          "newsUrl": "https://www.marketwatch.com/story/tupperwares-second-quarter-report-will-be-filed-late-the-company-says-602d0514",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/Y7HWerPGFivPsKqkPY0LxwhBInihw9d_3Y3jsbLcG6btVB9TOrgUXP9TVuiLjK8axxAYmpL3IQ6u-PiWISp5BFTuIYxdIE8HFryDcYsc",
+            "original": "https://images.mktw.net/im-827611?width=1280&size=1"
+          }
+        },
+        {
+          "title": "Tupperware Stock Surges More Than 50% Postmarket",
+          "snippet": "Tupperware shares surged more than 50% in after-hour trading Thursday after the struggling maker of food containers announced a debt restructuring.",
+          "publisher": "The Wall Street Journal",
+          "timestamp": "1691099820000",
+          "newsUrl": "https://www.wsj.com/livecoverage/stock-market-today-dow-jones-08-03-2023/card/tupperware-stock-surges-more-than-50-afterhours-WgxqVdWqnjYcV6n9n6ZB",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/Dfbs_xBrvqSLyhlLISb21Ru6LE9Ih0e9ZiXkL8DRzSKhSPrTLlgA3IgUIsYpqM66BKqGfX1Gj7fdlbOvhAJYiBPSNV5J",
+            "original": "https://images.wsj.net/im-829550?width=600"
+          }
+        },
+        {
+          "title": "Tupperware shares soar on agreement with lenders to restructure debt",
+          "snippet": "(Reuters) - Tupperware Brands said on Thursday it has finalized an agreement with its lenders to restructure its debt obligations in an effort to turnaround ...",
+          "publisher": "Yahoo Canada Finance",
+          "timestamp": "1691098792000",
+          "newsUrl": "https://ca.finance.yahoo.com/news/tupperware-shares-soar-agreement-lenders-213952634.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/d5huvWpoCWQGJNlAlngdV5gPUvq21M1kUDANIxh4LSW7bDEb7aKFATgpOfG-pgIeItQTfR0e4nJsn8u-JLzq9FuNOQN8yRHO7oPVr9Lfv-DRKctpor5QDMHgelQV_VfilmEls_edHm0HaCuVTKVfwolbhS0SK79PcqnmgexGMpFVcICdZ5oGQp__NAlbJeZfI8SckPASxP7ogn3DUZeIqcrE9tMtHvFe9SiS1oM54slZf9HdHZ2WLfECF4m3D027iXWDX6T8oA",
+            "original": "https://s.yimg.com/ny/api/res/1.2/k8AvIcmY4qskC_JsC90qrA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQxOQ--/https://media.zenfs.com/en/reuters.com/1ebe0ff8ad55c5be4620754171ff7bf0"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Fortinet Stock Plunges on Macro Warning. Palo Alto, CrowdStrike Also Decline.",
+      "snippet": "Fortinet FTNT +1.94% stock plunged early Friday and dragged other cybersecurity names lower after the company said deals were being delayed due to ...",
+      "publisher": "Barron's",
+      "timestamp": "1691161020000",
+      "newsUrl": "https://www.barrons.com/articles/fortinet-stock-earnings-palo-alto-crowdstrike-zscaler-95d8be10",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/jhIZ0H016mES9sucw1NkhTDUxf9CkiUFqSfFSi_DB3b_Fx43WQdq7y7gBsI2GA95tDbzgGj3jzpDH-7dsV8wNvjuQgCQVriA0-e6B-s5krux",
+        "original": "https://images.barrons.com/im-459099?width=1280&size=1"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "SQ Stock: Square Earnings Top Estimates, Updated Guidance Disappoints",
+      "snippet": "Block reported results that topped views but the Square earnings outlook for a key metric disappointed investors. SQ stock fell.",
+      "publisher": "Investor's Business Daily",
+      "timestamp": "1691162160000",
+      "newsUrl": "https://www.investors.com/news/technology/sq-stock-square-earnings-q22023/",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/RfVICOgvz7szaoJ3poRDMQjiIxsmSCF4plbMpBM7viDYGwRR7ckg8j-G681cnI0QJ6pxIVNUvtct4tXoqlviRAue-s_uGsI50uxvmbsHxmPHm4_XA8ZeJP-uTmuaAvno8eKE9hlmstUuxD8",
+        "original": "https://www.investors.com/wp-content/uploads/2018/02/stock-square-10-company.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Two Greater Cincinnati restaurants named best in the Midwest by Yelp",
+      "snippet": "Phoenician Taverna in Mason and Pickles and Bones Barbecue in Milford were named among the top 100 Midwest restaurants of 2023 by Yelp.",
+      "publisher": "The Cincinnati Enquirer",
+      "timestamp": "1691161715000",
+      "newsUrl": "https://www.cincinnati.com/story/entertainment/dining/2023/08/04/greater-cincinnati-restaurants-named-best-in-the-midwest-yelp-top-100-2023/70528052007/",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/AbhggAY-j94bOaRNpHnViuXsqai-_QCwVdNUL4_Yy4SXtkjPbvWnNBlC07mFlTn65JiyeZwYmuWy9RubtW4e45RnKtQ-4bHQIj5v_4Xj4fMktmh2BHbasoZDoTpZw8UdHKcl8BL5NtDPtimrk6ZOqmuMcz9XU8YwDOHzHP4uXBxnjfsu-gl28rjTgvcWdPneWLNqFgK20whV9CIsE5gu1uQXN8TRBNZ4PYESStAEh6gV",
+        "original": "https://www.cincinnati.com/gcdn/presto/2021/07/06/PCIN/a6fb49ad-1ae6-4e81-859a-2a7f773de3ab-lamb.png?width=1200&disable=upscale&format=pjpg&auto=webp"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Mapped: The Best U.S. States for Jobs by Worker Availability",
+      "snippet": "On average, there are 75 workers available for every 100 job openings across the country. Here's how it varies by state.",
+      "publisher": "Visual Capitalist",
+      "timestamp": "1691092506000",
+      "newsUrl": "https://www.visualcapitalist.com/unemployed-workers-vs-job-openings-by-us-state/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/cJsyQRnZRxV_rhKeKuWKMh7bifQbtBbinzAmVqCKTVeAxPCu0Uu4PIHvb7cISPwFc9RIPtWXiPXDYbPqBwgXw6IxORRfg5kCf6k1ZKLid7Y4d79Fa70cV4OglGARpWPmp4pJsgk4MVrqk9Oeh_iwOXTgbKzY",
+        "original": "https://www.visualcapitalist.com/wp-content/uploads/2023/08/best-worst-states-jobs-usa.jpg"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Weekly applications for U.S. unemployment benefits tick up from 5-month low",
+          "snippet": "WASHINGTON (AP) — The number of Americans seeking unemployment benefits rose slightly last week but remained at a historically low level that points to a ...",
+          "publisher": "PBS NewsHour",
+          "timestamp": "1691103244000",
+          "newsUrl": "https://www.pbs.org/newshour/economy/weekly-applications-for-u-s-unemployment-benefits-tick-up-from-5-month-low",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/2Uw7iJr7_Zn2CgcU5lPTB6BK4vqLuI0v2k0WaTXdLvbX8O4__7cdkUqJjTHDVVvLbhR9Lb8O0KOahtrA_YIuOx-DgKcCKXR2Hws8_7zI7dMN7hxLACRJiZd4XIHvJ8r-DHjYk-i1JtDQjgeIBuxPMA6qtV7fal-WCYudf1dAsI03bAmr--TJvJcSEabDmMjgUy5QmAFCk-7dDRQdRiwd67UUZNUrUR-btfyXfIePduvpQEOsWrNNnI_aelp2h37_oSYEkUdWZKEQ9JLtf9Lowx1c",
+            "original": "https://d3i6fh83elv35t.cloudfront.net/static/2022/02/now-hiring-sign-economy-inflation-unemployment-2021-05-24T000000Z_284883074_RC2AMN9EUR4K_RTRMADP_3_USA-FED-INFLATION-1024x683.jpg"
+          }
+        },
+        {
+          "title": "US added 187,000 jobs in July, lowest level since 2020",
+          "snippet": "Hiring in July cooled to its lowest levels in nearly three years as the Federal Reserve continues to weigh whether it has done enough to snuff out inflation ...",
+          "publisher": "New York Post ",
+          "timestamp": "1691152740000",
+          "newsUrl": "https://nypost.com/2023/08/04/us-adds-187000-jobs-in-july-lowest-level-since-2020/",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/Hy7JhYWuSUCaLtRnqIE8IOKyBfMtinaVyWGEeBPIKeHNX_-VC3QV5XUB6fX0M_wTXdTgjBGPsvR0uBeOUewWezUZrbAfzxaGXk2LhCs9AaSmJ9Hq4HXtGZo6i4vd5fcoKfp5uUZjomnmD89VIW5M5kpifKEfzhHtRDGeUfpx9yf0wJqCRAZwxZU",
+            "original": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000019101323.jpg?quality=75&strip=all&w=1200"
+          }
+        },
+        {
+          "title": "The Best And Worst US States For Jobseekers, Mapped",
+          "snippet": "There's more competition for employment in New York and California than anywhere else in the country.",
+          "publisher": "TechDigg",
+          "timestamp": "1691155819000",
+          "newsUrl": "https://digg.com/data-viz/link/the-best-and-worst-us-states-for-jobseekers-mapped-ewWQiH3K6v",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/WP4InfuBJ3E83vsJn2XczoB6BXZyCy59Gr01osapx97EK2uNE1q5H6EtJPHnZp2evPQpV7yHZEFcv5ZhnaX58xA7_7wmcnDvtha2r_mYuK7AHmPOgOkQ26L6zlxPkrwXZQ",
+            "original": "https://cdn.digg.com/submitted-links/160x160/1691151823-GREBVzlSXq.jpg"
+          }
+        },
+        {
+          "title": "The US was just downgraded, but the jobs report will likely be strong",
+          "snippet": "Despite Tuesday's credit rating downgrade amid concerns about the challenges facing the United States, markets and economists are expecting another solid ...",
+          "publisher": "Yahoo Finance",
+          "timestamp": "1691079375000",
+          "newsUrl": "https://finance.yahoo.com/news/expect-july-jobs-report-steady-114119497.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/25FNgPCecIqvMsW4aeunw_6wqTllVvbu-b2MdENB4e6f_Yez8Yw1-T_YEHDE0pHjG3AfHDG7kCGr-4kKPCdw9ic6StQ20WS3NCX20_qVzpFpIon90YRa8cE4FAn--FjgfkIjLBU",
+            "original": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+          }
+        },
+        {
+          "title": "US job growth declines but data suggests labour market still tight",
+          "snippet": "US economy needs to create at least 100000 jobs per month in order to meet with the growth in the working-age population.",
+          "publisher": "Geo News",
+          "timestamp": "1691163480000",
+          "newsUrl": "https://www.geo.tv/latest/503283-us-job-growth-declines-but-data-suggests-labour-market-still-tight",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/ZYs283JTxFfFkguvnBkhrXOHYeS5IWRRDFRN9L3CTekRabXlwAwfsL751zQb_Ar1lMUW9NHva_FAvil0eXo7w_uaarZuzT9npnbWMAKl-RGhm9DPXfN_pOUyDkTg1SjxrSJitM7rffjf",
+            "original": "https://www.geo.tv/assets/uploads/updates/2023-08-04/503283_080554_updates.jpg"
+          }
+        },
+        {
+          "title": "Weekly applications for US jobless aid tick up from five-month low",
+          "snippet": "The number of Americans seeking unemployment benefits rose slightly last week but remained at a historically low level that points to a robust job market.",
+          "publisher": "Greater Baton Rouge Business Report",
+          "timestamp": "1691074315000",
+          "newsUrl": "https://www.businessreport.com/business/weekly-applications-for-us-jobless-aid-tick-up-from-five-month-low",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/myrsDUCydApJIqKdtoTwFZbzMuu5BZRXvmvRITFDu21FVwaJVgFCkgMR3ZSh0zhYiagRxrNmy81jaMRoLJJrmGwAbJNoJxV2N9fvQl9-I5BrngKFGZU8TLNWDTse",
+            "original": "https://s25562.pcdn.co/wp-content/uploads/2020/02/unemployment.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Amgen's hyped Humira biosimilar generates just $19M in Q2 sales",
+      "snippet": "Amgen reported $19 million in second-quarter U.S. sales of its hyped Humira biosimilar Amjevita, a 63% drop from the first quarter.",
+      "publisher": "FiercePharma",
+      "timestamp": "1691152504000",
+      "newsUrl": "https://www.fiercepharma.com/pharma/amgens-hyped-humira-knockoff-fritters-away-its-exclusivity-advantage",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/HjIyMZrXeq3Iw3NnAaqFyh87tyU0D8wwXgNFRvM2tADcyPkw1moF1YFG_bj0AjNlFWrq6Ec27DD98cXqS94Nu6ywQR0tvJ7gjUUqNzlU30LE6CobWRkFYyZZCNa7TUjaY2vGKDX8QkmH1WmdXLhC9cZH7iyr6pOXIeg2pOPa4A",
+        "original": "https://qtxasset.com/quartz/qcloud5/media/image/AMGEN.jpg?VersionId=4pvTAO2xaIbGThjluXow7T.dPpQLb4Or"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "As sales crater, Moderna sees hope in private COVID vaccine market and RSV launch",
+      "snippet": "The company raised its forecast for COVID-19 sales to between $6 billion and $8 billion, up from a prior estimate of $5 billion.",
+      "publisher": "FiercePharma",
+      "timestamp": "1691074974000",
+      "newsUrl": "https://www.fiercepharma.com/pharma/covid-19-sales-continue-sink-moderna-sees-hope-private-market-raises-spikevax-guidance",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/ewFLrDYIUIqrARqZ7pNQrzlDtrYBaMvwogYlwq7Bi18sovNZyba_q3SfoIOvqbrdv6fIGGCIDaZqSlGztXfXkC_u6hrlgGRHar2l8YXGgEoSNhnTL1guZy9zRQHnIu6M-pJmOwzz4m7KhtD-vQhJr5rB9MNHu1-Gci9MUr4knA7pBT29syc1S9yRAjE",
+        "original": "https://qtxasset.com/quartz/qcloud5/media/image/MODERNA%20BUILDING.jpg?VersionId=Om64DqVm8bbrLn0mIZq7RAZQaaMcsM.W"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "UAW Demands 40% Pay Hike in Labor Talks With Detroit Automakers - WSJ",
+      "snippet": "The United Auto Workers union is pressing the Detroit car companies to give its factory workers a 40% pay hike in the next labor contract, an increase that ...",
+      "publisher": "The Wall Street Journal",
+      "timestamp": "1691110080000",
+      "newsUrl": "https://www.wsj.com/articles/uaw-demands-40-pay-hike-in-labor-talks-with-detroit-automakers-d5daa557",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/r2Ee6S4kN6zNYgTi8Ym1pWeniDmyBoZALvUQEFFLoK4831QVLYglv3j-GmMl2_mO_95xOOYpqaonK3f7R3ojGyExZqqPqvHRasZJfTqOSW4bfJezt7g",
+        "original": "https://images.wsj.net/im-829574?width=1280&size=1.33333333"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "GM criticizes autoworkers union's contract demands",
+          "snippet": "General Motors (GM) on Thursday said it expected to offer unionized workers higher wages, but granting the United Auto Workers' (UAW) ambitious contract ...",
+          "publisher": "Reuters",
+          "timestamp": "1691105520000",
+          "newsUrl": "https://www.reuters.com/business/autos-transportation/gm-criticizes-autoworkers-unions-contract-demands-2023-08-03/",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/30pKx91DJrnaS9RvJdW1UNxBqHgbPNqN_Bkt4_yB8Y4CjVdmRWvdkOT7b9AtmeUHLJkyiUasOKcLAeFYzzeRjF6MqPprrwmuwxYqt6sA9-WcOfoOqiZzWrksLXPRH6f6Ci_Ak1pYg3xxxoDOBMUwP01ZCelKPtg",
+            "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/D7QMVR36LRJHVCTELR35HL32DI.jpg"
+          }
+        },
+        {
+          "title": "UAW Wants 40 Percent Raise, Shorter Work Weeks In New Contract",
+          "snippet": "The auto workers' union wants a 40 percent raise in its next contracts, and a four-day work week.",
+          "publisher": "Jalopnik",
+          "timestamp": "1691160000000",
+          "newsUrl": "https://jalopnik.com/uaw-wants-40-percent-raise-shorter-weeks-new-contract-1850707441",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/B3wxlHs3-THBfUn8ZU4btRiZEQP74OCQMO2BkllZCd-5Wlonf7bOiRtF3trfmOvQpGMAfRfmKXDcgiuvrHy-0_n4YQor2J7TexpDCCRr4AESXZ2djK2SJrpQ7zTQLXsmSSvSPwfS2UuBjUNY5BJMEHUNog85nEFBLf8oyclZBVTxOpwlq4FRHSRsbNz17pBoXVE",
+            "original": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,q_60,w_645/4bf78640724fdbbdd5a28a01e22f7908.jpg"
+          }
+        },
+        {
+          "title": "UAW demands 46% pay hike in talks with Detroit Three automakers",
+          "snippet": "The United Auto Workers is seeking a 46% wage increase over four years as a part of its negotiations with the Detroit Three automakers, according to a page ...",
+          "publisher": "Detroit News",
+          "timestamp": "1691108827000",
+          "newsUrl": "https://www.detroitnews.com/story/business/autos/2023/08/03/uaw-demands-46-percent-pay-hike-in-talks-with-detroit-three-automakers/70525605007/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/k_YXdj0P62o5Eq00qr4cT1Vhejfd9RiEtR9puSDr_NCUXdytpIxwEps2L6yEHoxLSHqFki-bTEot5KxX9J48ktneCViu9XSnKvVTcNkUM_S5qHx5SlYOM_Do4rYwOlPmBRLV8dHHbthoHLzRz-CnsOzkHZhbdcjaHdqfMI9a8BM2JY_8vgBHBsyAlbSYFH5K2nkgwKIPYiCQ98M8Okl4hF3xx4pGqO5oLDCs",
+            "original": "https://www.detroitnews.com/gcdn/presto/2023/07/12/PDTN/4e78efe5-1f60-4772-9d71-6f7e288b911b-e1fa9692-5294-4e94-9d89-b559009710e6_thumbnail.png"
+          }
+        },
+        {
+          "title": "General Motors Calls Out Union Over Contract Demands: Report - Stellantis (NYSE:STLA), Ford Motor (NYSE:F",
+          "snippet": "General Motors Co (NYSE: GM) has reportedly raised concerns about approving the United Auto Workers' (UAW) contract demands, including a pay rise.",
+          "publisher": "Benzinga",
+          "timestamp": "1691151716000",
+          "newsUrl": "https://www.benzinga.com/markets/equities/23/08/33570231/general-motors-calls-out-union-over-contract-demands-report",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/odryMoROWMGim_tW6Bmo2hUE-AW7WTRHZ4DNJPzSFA9PnEECAM7YCBFK77to305lc_yzr-QJs0x8kD3aD9bQEd-7Bzs-YIJAy1eP1MhWz16YkJIxyiRW_KyFDU5voutNRyoV4WU_VN9qljp9HUfICjVsB_ZVNQ0",
+            "original": "https://cdn.benzinga.com/files/images/story/2023/08/04/gm.png?width=1200&height=800&fit=crop"
+          }
+        },
+        {
+          "title": "GM to raise UAW worker wages, but other demands 'threaten' its future",
+          "snippet": "General Motors is confirming it will raise wages for UAW members, but other UAW demands in ongoing contract negotiations would \"threaten\" the company's ...",
+          "publisher": "Detroit Free Press",
+          "timestamp": "1691099909000",
+          "newsUrl": "https://www.freep.com/story/money/cars/general-motors/2023/08/03/gm-uaw-wage-increase-contract-other-demands-threat/70524643007/",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/G6yOne9knXvH3Zhy-i8xA4UbAxQN5UUl7Kh8eAQvK5qiuq_W2UbI3UY8DaQDedaWlZUT393MLEnr62V2GmK2OKYOJrcXbPx8VC-wLQIY9oHZhmgw6pIfc8XHAqT6AEQ1gQ3d4XoZkuvduTxtLDJHZciN2Pbjte8Y0-v-0Udutk4",
+            "original": "https://www.freep.com/gcdn/presto/2023/03/23/PDTF/ce683da5-e077-42ce-82fe-96f811aef422-GMIMG_7361.jpg"
+          }
+        },
+        {
+          "title": "UAW wants double digit pay increases in contract talks with Detroit",
+          "snippet": "Autoworker contract talks with Detroit's biggest car companies are off to a tense start this week after the workers' union demanded a 40 percent pay ...",
+          "publisher": "The Washington Post",
+          "timestamp": "1691164204000",
+          "newsUrl": "https://www.washingtonpost.com/business/2023/08/04/uaw-double-digit-pay-increase/",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/ltjOUONulw13KSAfcOH3MO02IgdSRIY19cOozIrsKw_aEdEKjODvZVa15HCurJROy8YRWGlqLZcbm0Jd2y9OvXc-IV6B4Ft4cEjUCm5Uhpvhbtj3FVi9fiWm65vgHekPPUo62xBO2kWSeBWbHv_ooapR9IBjPcp8hVNlnawbvqtBdZAsVyfZuzQ-8QrI5IiRMx6Cx9zmkCVzYqTL0C_Wfd89xxaN_5THU1Li",
+            "original": "https://www.washingtonpost.com/resizer/sM75dkCPqu9yyFApDpFzH5p3syA=/arc-anglerfish-washpost-prod-washpost/public/C7TXA7ZO2344S2ENWVRK7MQ2NU.JPG"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Man is charged with cheating Home Depot stores out of $300,000 with door-return scam",
+      "snippet": "A Connecticut man was given nearly $300000 in fraudulent Home Depot credit by walking into stores in several states, taking expensive doors and then ...",
+      "publisher": "WOODTV.com",
+      "timestamp": "1691093792000",
+      "newsUrl": "https://www.woodtv.com/news/national/man-is-charged-with-cheating-home-depot-stores-out-of-300000-with-door-return-scam/",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/2IzVhSw50M-Ei56fR99HXoyUU5k_asN39_I8JVH_M63w1R3TBWbHCVVooPC1dMDK2ttLGq9KgP1uyPEM7tqOyX7vzp2309FBnM7WuHnJ3V21zE1rofnVodbKoE5yqKn3h-175ud40ZZoOHS1oTrMtg_8IrfAiXUqfco",
+        "original": "https://www.woodtv.com/wp-content/uploads/sites/51/2023/02/9a53ce3d2765481e85f1bb6273bf0de8.jpg"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Popular Return Policy Helps Man Steal $300K From Home Depot",
+          "snippet": "Alexandre Henrique Costa-Mota of Connecticut received almost $300000 in Home Depot store credit via a fraudulent door-return scheme.",
+          "publisher": "Entrepreneur",
+          "timestamp": "1691164800000",
+          "newsUrl": "https://www.entrepreneur.com/business-news/popular-return-policy-helps-man-steal-300k-from-home-depot/456968",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/j-2QLqIZwtQh9_hkXefGL1u33H5Ykj9aMmDailgj5mFBDl1pVjYc8d7_pfPQy1ZkfOvywSEsEjP81mYTB-kLHe2hXM5fwyWzwqFqeK-WUpbvYLe58kUghSBQD5MOlwiRrEeSET3qyAQXivTnJKAz9NEhrIu_prTqqMkwxTkpblAJN8BT0AhqeeA1ZA",
+            "original": "https://assets.entrepreneur.com/content/3x2/2000/1691162997-home-depot-scam-1258917469.jpg?format=pjeg&auto=webp"
+          }
+        },
+        {
+          "title": "Connecticut man allegedly cheated Home Depot with $300,000 door-return scam",
+          "snippet": "A Connecticut man is accused of defrauding Home Depot stores of nearly $300000 with a no-receipt return scheme involving stores in at least eight states.",
+          "publisher": "Fox Business",
+          "timestamp": "1691166069000",
+          "newsUrl": "https://www.foxbusiness.com/retail/connecticut-man-allegedly-cheated-home-depot-300000-door-return-scam",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/o1EiKFqp_PiKIzpcYgI8so6rTmPamw4SqBso9wwyE4tbG1xLqt6D63GBAXxrsbJHsFmi_VmGhrZKGqu9Ti3fz_X8DNOyvoSHyWmIerg4YO9jPUC15S8aeh_cdxEakXTBCOY7V7Dnh5C3mZv9319U3Uo1E74qj2NyZqjEbPCNyXY_VloMG7P9P3JDdJlHzRWNYg",
+            "original": "https://static.foxbusiness.com/foxbusiness.com/content/uploads/2023/08/the-home-depot-store-front-AP23215664668045.jpg"
+          }
+        },
+        {
+          "title": "West Hartford Man Indicted In $297K Home Depot Fraud Scheme",
+          "snippet": "West Hartford Man Indicted In $297K Home Depot Fraud Scheme - West Hartford, CT - A federal prosecutor said authorities have closed the doors on a West ...",
+          "publisher": "Patch",
+          "timestamp": "1691066984000",
+          "newsUrl": "https://patch.com/connecticut/westhartford/west-hartford-man-indicted-297k-home-depot-fraud-scheme",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/3M4nZbGq-Sxx9L5ceWat3UXwsnqu0UqMK0_dgas2EF0Em4FhCWPZtHGK6hh41asyYm21_v5qOXldGdXw1Mwhx2v1Gj9CGDsX6MnQit9hevyF8hOvaTOfiJyOlztgYD9KCLNOXkmdTcy7ARdFKjbjtyN-YDDyIFHmtB6Krb9eG1tdGs8X-vnwSTAJ3EGCubTFsDJDLG8G5BKko7ZdlL0ghGYXkQ",
+            "original": "https://patch.com/img/cdn20/users/103600/20230803/084943/styles/patch_image/public/screen-shot-2023-08-03-at-83312-am___03083348002.png"
+          }
+        },
+        {
+          "title": "A man is accused of conning Home Depot of $300,000 by taking a bunch of doors without buying them, then gettin",
+          "snippet": "A 26-year-old man is accused of cheating Home Depot of $300000 worth of store credit.He'd pretend to be a contractor, and took Andersen doors from 61 ...",
+          "publisher": "Business Insider India",
+          "timestamp": "1691119860000",
+          "newsUrl": "https://www.businessinsider.in/international/news/a-man-is-accused-of-conning-home-depot-of-300000-by-taking-a-bunch-of-doors-without-buying-them-then-getting-refunds-for-them-in-store-credit/articleshow/102412223.cms",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/jYyzMYnavscaUMvk6Isx7vuMHMUjeAYUUWaK9FtZ7RGKZxHtvH_pm8XGtiOkIgh6ltq6HBbDMRiV3yPu7J7etz7k4llEqmbeBMVVhYGFgKRQ4YHhxbAOrimgFDDwPBxvHHqG19snIqhWv-LcojpVIq4yH4N6PrZOzRcNEGB6BgQ_WFI0",
+            "original": "https://www.businessinsider.in/thumb/msid-102411231,width-1200,height-900/img6480e3910821fb0018105503.jpg"
+          }
+        },
+        {
+          "title": "Multi-state Home Depot fraudster charged",
+          "snippet": "A Connecticut man was charged with cheating Home Depot stores out of $300000 with door-return scams.",
+          "publisher": "WKBN.com",
+          "timestamp": "1691085924000",
+          "newsUrl": "https://www.wkbn.com/news/local-news/multi-state-home-depot-fraudster-charged/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/fRjgWgzLTCkVbsa-hrrK85jmMuzBKx2sraa9UXkrODO2YiURPJNxs16wtUPHm602hyuW6qZQWb17ByVzbRBJBkL14p4Du0MPDP1V9EnHJgdXwqkxVqH4HELnCVPY9SvBc1NY_7bIZszSlj2Uy5IL",
+            "original": "https://www.wkbn.com/wp-content/uploads/sites/48/2023/07/police-lights-2.jpg?strip=1"
+          }
+        },
+        {
+          "title": "Feds allege CT man defrauded Home Depot for $300K with return scheme involving doors",
+          "snippet": "A Connecticut man has been arraigned in federal court for an alleged scheme to use doors to collect fraudulent store credits.",
+          "publisher": "Connecticut Public",
+          "timestamp": "1691085900000",
+          "newsUrl": "https://www.ctpublic.org/news/2023-08-03/feds-allege-ct-man-defrauded-home-depot-for-300k-with-return-scheme-involving-doors",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/gGC9IwFaNGOthGJBpdvNjOcFU8kC8ugrDjnU6hUKIqgPVmg9Dp8pYb4pzX8Xu9ShVq2YqNkHjXVH0_jJ62ZIH6WYwnM49OTtX7H0JPrOlYv2sj6aK6tQwZxKrzBopxSYsqfw-Spnc076kt9-GjE_qAq2FfS914E",
+            "original": "https://npr.brightspotcdn.com/d7/20/5681f65c46a384244c28c52d43cd/gettyimages-1238688540x.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Nikola Corporation Reports Second Quarter 2023 Results",
+      "snippet": "Executing on business plan, increasing cash position, and decreasing cash use; Continuing to build sales momentum with 45 wholesales and 66 retail ...",
+      "publisher": "Nikola Motor",
+      "timestamp": "1691150419000",
+      "newsUrl": "https://www.nikolamotor.com/press_releases/nikola-corporation-reports-second-quarter-2023-results/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/MKsPmh9flvPFJ8wXy-gdJLh_dIk4JWLX3BG-JHblmudsc_PbUoXlCItlM_i2yBZoDUPEhqIWspK4hDtsgztuiNKQ_7fvGbB55jHfOaI54dWz86YZvAERQTb8NG8fpOFHFA84g0rcoBGVbz14",
+        "original": "http://www.nikolamotor.com/wp-content/uploads/2023/08/230223_nikola_hq-scaled.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Airbnb forecasts upbeat revenue as international travel rebounds",
+      "snippet": "Airbnb forecast third-quarter revenue above market estimates on Thursday, but industry fears of softening U.S. domestic demand sent the vacation rental ...",
+      "publisher": "Reuters",
+      "timestamp": "1691123520000",
+      "newsUrl": "https://www.reuters.com/business/airbnb-forecasts-q3-revenue-above-estimates-rebound-international-travel-2023-08-03/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/3aOGqdk6dFYwI4YKNzGXR07HSQFGIJidMFN3tHbmeixtruh-jwnfOZ3GUyR1ERWLlg_0EnImaUEQQH7T1okPhux0c8LjfXsCWSSBCefm_yKW4Ry6frs-SR_3CpvpPlQmu_3qPgbzXd-0hHAgB7T-ALv_298LGFAEp19yKLuCvKNDZFRwHx8cYLx1YIP3ur5cRBVoMGQG-hJh3mccRiWGUwrpA95jzG0QZGPrZ8JWrZ8JJFaanEEokb9PKFDV6Cu1k6j65RGkMYE",
+        "original": "https://www.reuters.com/resizer/veyp2HKd8bqnlBK77lEJlUkTmsY=/1920x0/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/LRUJRQMILBPONDBOGR3XLSXYRU.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Top CD Rates Today: Two Ways to Earn Top 5.75% APY",
+      "snippet": "Today's best CD rate is 5.75% APY, offered by both Andrews Federal Credit Union and Citizens State Bank. We track CD rates every morning to bring you the ...",
+      "publisher": "Investopedia",
+      "timestamp": "1691092931000",
+      "newsUrl": "https://www.investopedia.com/top-cd-rates-august-3-2023-7569451",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/xWUCK9kFG6mZqejLiGdoS9Taa5YWITPaW0RRVm52gIE4O51-MbM5G9j7n1iE_pG6guM_Aft9PDQKPT6z6Rw9zBNyEzXm8guA5J3c36SsMEWUSDlAFkk2eHSAlf5ZOdh4AKLPrqp-xTREdmdKabj_k0K6pE0x2A_Ay9WNIl2hLhmKxml5m11xEM8eQNa4l51X_44iRPxI4iqwoJukD0R37SnREMVqV-uZGKJs5lao2l3igOyAKjmFmjYlpijOxmOX0Q",
+        "original": "https://www.investopedia.com/thmb/ZyFzJkuYIcG4rsMYkgObHnjngfU=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/August3-e242a23633ee4554b600ab09757edfb7.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "How Much Should I Withdraw From My Retirement Account? Edward Jones Says Start With These Percentages",
+      "snippet": "One of the most important decisions in retirement is choosing how much to withdraw from your savings. You need to take out enough to meet your spending ...",
+      "publisher": "Yahoo Finance",
+      "timestamp": "1691145000000",
+      "newsUrl": "https://finance.yahoo.com/news/much-withdraw-retirement-account-edward-103000666.html",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/25FNgPCecIqvMsW4aeunw_6wqTllVvbu-b2MdENB4e6f_Yez8Yw1-T_YEHDE0pHjG3AfHDG7kCGr-4kKPCdw9ic6StQ20WS3NCX20_qVzpFpIon90YRa8cE4FAn--FjgfkIjLBU",
+        "original": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Adidas brings in $437M from Yeezy sneaker sales, boosting Q2",
+      "snippet": "Adidas brought in $437 million from the first release of Yeezy sneakers left over after breaking ties with Ye, the rapper formerly known as Kanye West.",
+      "publisher": "New York Post ",
+      "timestamp": "1691080800000",
+      "newsUrl": "https://nypost.com/2023/08/03/adidas-brings-in-437m-from-the-first-yeezy-sneaker-sale/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/AetGYTqMs5DqIj8yvtufWsOvbxa3kuKz3gt9PffzmuwaILKhbNsOz3_GX7UbZX5OQydQttbmPIEe0-xu7st2W5WjzHZSOVaNMsFLTm5q5EFYbws4mcVSEJIp_3kXtCqKMel2vHC9zyEJ1DJJ11tUmtg8T6_ob0dYXUhr4zDvvl87vXDpQYpSvdcGkpdtaJcUt3NprMm-6nloRg",
+        "original": "https://nypost.com/wp-content/uploads/sites/2/2023/08/adidas-kanye-west-bjorn-gulden.jpg?quality=75&strip=all&1691062449&w=1200"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Max Will “Soon” Add News & Sports To Its Streaming Mix, Warner Bros. Discovery CEO David Zaslav Says, Though No Timeline Is Given",
+      "snippet": "Sports and news programming will be coming \"soon\" to Max, according to Warner Bros. Discovery CEO David Zaslav.",
+      "publisher": "Deadline",
+      "timestamp": "1691071800000",
+      "newsUrl": "https://deadline.com/2023/08/max-streaming-news-and-sports-warner-bros-discovery-ceo-david-zaslav-1235453927/",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/ZJSRZ4p-ZLbjeJinQLXCC3abVWsfb6ZGONkwEVEZgdJJ-6z7_vQTDp7al--BucJCog1xd0I5HWMNWs-LI9KKxT6pFA9kyBsWL1W82pZoFsxEBQQXGOl6oJTLrSB_ZQ8GoJ-Uoh9RONL3ri0sUakX1tnYWLBFd6oHWp7MureOKqt1lutUJbGmmyDB8gGfOSnLKeHDdAtFS9PWUf_XxmsQ438NXh8",
+        "original": "https://deadline.com/wp-content/uploads/2022/05/Warner-Bros.-Discovery-President-_-CEO-David-Zaslav-at-the-2022-Upfront-Presentation.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Yellow’s Competitors Likely to Seek Carrier’s LTL Business",
+      "snippet": "Less-than-truckload carrier Yellow Corp.'s ceasing of operations on July 30 after nearly 100 years in business is causing an upheaval for both its customers ...",
+      "publisher": "Transport Topics",
+      "timestamp": "1691094504000",
+      "newsUrl": "https://www.ttnews.com/articles/yellow-competitors-business",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/iTFGIswBVujDX8P7druzTOpv4I1TKAuNG6GWGdYe2NlTaTd-thwYW0gvjO5GvNyx3a5r76WzPuEjz8ilXGs3Io4DYXe1PvTgATfZLn5qhivIr6FO4Sp9UYWGmHNDfm2_Xb8ZQtXTOq3_1ANvXreZ85kuMj4kyUt2dXBcpNpBvIHeQKLt",
+        "original": "https://www.ttnews.com/sites/default/files/styles/image_660_367_copy/public/2023-08/Yellow-Truck-1200.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "A fifth of US workers have jobs with 'high exposure' to AI",
+      "snippet": "About one-in-five U.S. workers have jobs with key tasks that are more likely to be aided or replaced by AI, according to a recent report from Pew Research ...",
+      "publisher": "USA TODAY",
+      "timestamp": "1691140744000",
+      "newsUrl": "https://www.usatoday.com/story/money/2023/08/04/jobs-most-exposed-ai/70523057007/",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/QY5XHIfcPKyC6FmXVAgb9cPAjgexgedaFNb_Wj5R0CSgdO9qR_vYrg_tZhZcczR9FnN047WxpUgW0E23q1bodmlTWuoqqAh733K0Ozbj8AYrMmoUZFkobRCw1s3usQ1zK8dcBmYh4dc6hl0_uDXD1YWGFpVqdFQJlR3lT4oHDBP8Okgy_u__Lak63uNMSnmrq-gSVyXLkw4JT7h23PsH8tPrKJ_9RA",
+        "original": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/03/USAT/70523116007-ap-china-world-artifiical-intelligence-conference.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Amazon Fresh is adding self-checkout after trying Just Walk Out",
+      "snippet": "Amazon Fresh is adding self-checkouts to some stores. It comes after its Just Walk Out technology hasn't gained expected traction.",
+      "publisher": "Business Insider",
+      "timestamp": "1691088180000",
+      "newsUrl": "https://www.businessinsider.com/amazon-fresh-adding-self-checkout-after-trying-just-walk-out-2023-8",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/i-IjmETsYsumMz3E96-0ktzmyIeX5cyrRDeQP4CQPGx6WvDAwi5sqx3VqJxmuoyf2bQAVH0HGoJaMHN4I49e-oGc-0UGmgvAQ7kegbOm3WhlQsvu0LtZ5I1ylXS50jZM",
+        "original": "https://i.insider.com/64cbcf2e0b651c001939f81e?width=1136&format=jpeg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Oil prices climb as recession worries ease",
+      "snippet": "Oil prices are moving up — they surged 17% in July, and analysts are now seriously talking about $100 oil again. Why it matters: It's a sign the market is ...",
+      "publisher": "Axios",
+      "timestamp": "1691107811000",
+      "newsUrl": "https://www.axios.com/2023/08/03/oil-prices-us-recession",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/vkAAtbSIzyyDkiDYtVyAXwfw32hj2rRbcjgnKYmgkzwfRJM1BIN2GwIIWAU3Ha6URf_B0lFlXtZLO68RvQlpR860lIGUvQL7HaGJHx2LZCt6sU19gYmC6Sp7ns38NFpnzF2kEqXcgQ0ezjM_uSKfa97Wn17PSLepiDjxFWU",
+        "original": "https://images.axios.com/sUabuKF6Amme9h3HzpR_W708xWk=/1920x1920/smart/2023/08/03/1691029187737.png"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "No rate hikes or cuts — Commerzbank CFO says the European Central Bank has likely hit pause",
+      "snippet": "The European Central Bank has likely pressed pause on its rate hiking cycle, the chief financial officer of Commerzbank told CNBC on Friday.",
+      "publisher": "CNBC",
+      "timestamp": "1691148951000",
+      "newsUrl": "https://www.cnbc.com/2023/08/04/commerzbank-cfo-says-the-european-central-bank-has-hit-pause-.html",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/vRJlwrrnCvIhBJf5GX2IgK_Kr7oizibjbIM2X9Zq5Qc8BVloD53AOL6Uu1K51D9MXBnVrKnIg3Myb90pBPsvchcgFX_YqzOFaljXWVkZ1e_BdNDVyxDg3oLtuXsGCYZmgOAJlb36hpZd2hg27wpl5k7uXFhUiEtl2ekdx8W6lAUP_wRjkY_HqV4E4hiQHzDZxuQhRbWmU87zFA",
+        "original": "https://image.cnbcfm.com/api/v1/image/107281962-1691149691085-gettyimages-1246865715-AFP_338P9GV.jpeg?v=1691149752&w=1600&h=900"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Fisker unveils electric pickup truck even as supply chain bottleneck lingers",
+      "snippet": "Electric vehicle (EV) maker Fisker Inc unveiled a pickup truck on Thursday, weeks after starting deliveries of its flagship sport utility vehicle (SUV) and ...",
+      "publisher": "Reuters",
+      "timestamp": "1691162281000",
+      "newsUrl": "https://www.reuters.com/business/autos-transportation/fisker-unveils-electric-pickup-truck-even-supply-chain-bottleneck-lingers-2023-08-04/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/efd7RkbuRD5D1Nf5ajyw11xJInAtro-nKzv0rR-1hUWRXwPizz_Q_gpVYaf52KxRFEearpDKRtaaibEu_wQ1c3pyE_Ajk4Z1ERBsMdDh-yGWBqn4ihwGVB-Ls0IUkLvTa6B3S7SVC1o5cfCvC2peCUt--jkZ5Io",
+        "original": "https://cloudfront-us-east-2.images.arcpublishing.com/reuters/4STWKGMMFNJPNOEFYKEFH4JGDA.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "These states rank dead last in pay growth",
+      "snippet": "When ranked up against the rest of the nation, workers in five states had the least success growing their paycheck.",
+      "publisher": "The Hill",
+      "timestamp": "1691143241000",
+      "newsUrl": "https://thehill.com/changing-america/respect/poverty/4136169-these-states-rank-dead-last-in-pay-growth/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/OOVh9kclGslsjzIzxjyHrK5z86OEOYGXk2f6-N8S4WZd-CvbDmZ6iUDR6e5ptvxNeHY7GUot8mYQG6AlU1azBMyjGsqJZxYdZA2lrqu1srX2JRQpkyAeNI_chhNdGMn_yS48qDekuUQe8CDzUc4f5ZiSCsAsLQ",
+        "original": "https://thehill.com/wp-content/uploads/sites/2/2023/08/GettyImages-1399683479-1.jpg?strip=1"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Spirit to ground 7 planes over engine issue",
+      "snippet": "Spirit Airlines CEO Ted Christie said Thursday that the carrier has to ground seven Airbus A320neo planes through the end of the year over an issue with ...",
+      "publisher": "New York Post ",
+      "timestamp": "1691141940000",
+      "newsUrl": "https://nypost.com/2023/08/04/spirit-to-ground-7-planes-over-engine-issue/",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/_DWn3CuZRHoYo429_fc12G2amrFmGhHmyNho-g6snNvExv9e4ce9kXOPL6k5DZBIUZJXIzeu7xgjxNAbFKO4vH3DgbHBZgL2fNGoT2anoolrF3JeeOXjlJ9iTFVdjBuqoY_16WueCX8cLMgGpThr6y1VehQ1rp7F41tOKL1jSp3f4nF30ALuTQFO9Ctwar0takNUGVT3aKA7GD9WMSoWZMbslM-apw",
+        "original": "https://nypost.com/wp-content/uploads/sites/2/2023/08/newspress-collage-ukcc7bhgv-1691139836107.jpg?quality=75&strip=all&1691125450&w=1200"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Coinbase beats Q2 estimates amid BlackRock custody deal, institutional focus",
+      "snippet": "Coinbase's quarterly earnings are in for Q2 2023, with revenue beating estimates.",
+      "publisher": "Cointelegraph",
+      "timestamp": "1691115624000",
+      "newsUrl": "https://cointelegraph.com/news/coinbase-q2-profits-blackrock-custody-institution",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/Qs-t-GGVxQTGiC9WMUaefiilID2XYj5YwobF1DLbsN6J_VYdbmdpCFUPRp04J3dQA8E72b7t5TpLAacsLwgQzRYOs6ajeFlU9AeMeMdlFSbskTXMSY9nvvXuSt2xUrWQLZnREm87f1aC3OPIk9sjG7IzMiYc1VgERs51IOSRrB8auObP1HcIwsrM5FRYRC19gJYJXfOfKVGIHZOVntWWMsOt5fRtwdgeJNTurLAk0xQpw9WD-oQhtR08WcP_0ORyHQ",
+        "original": "https://images.cointelegraph.com/images/1434_aHR0cHM6Ly9zMy5jb2ludGVsZWdyYXBoLmNvbS91cGxvYWRzLzIwMjMtMDgvZjcwY2Y2YTAtODUwMC00ZThjLTkzMGMtODU1NzAwNTA2MjU3LmpwZw==.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "XRP Loses Over $2.3 Billion Market Cap Amid Recent Court Ruling",
+      "snippet": "XRP market capitalization has lost over $2 billion in seven days following a court ruling that could impact its legal status.",
+      "publisher": "The Crypto Basic",
+      "timestamp": "1691146223000",
+      "newsUrl": "https://thecryptobasic.com/2023/08/04/xrp-loses-over-2-3-billion-market-cap-amid-recent-court-ruling/",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/clkSKJOpvr7RXUYdidxOqjaPHBrcpsbGqiKx2AZ4-sHDGq9v4UAbBawKlUJ51q5T-aiXTQX7Z_JYBDKEDr0YAyrua2rKL2n3qXKDhw_34UajUl196JLDxuQ6C-dtYzzjVtVusA",
+        "original": "https://thecryptobasic.com/wp-content/uploads/2023/08/XRP-price-falls.png"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Google Search update brings revamped UI, personal info removal tool enhancements, and more",
+      "snippet": "Google is now making it easier than ever to remove personal and private information from its search results.",
+      "publisher": "XDA Developers",
+      "timestamp": "1691096640000",
+      "newsUrl": "https://www.xda-developers.com/google-search-revamped-ui-new-features/",
+      "hasSubnews": false
+    },
+    {
+      "title": "Louisiana Woman Sues Ozempic and Mounjaro Manufacturers",
+      "snippet": "A Louisiana woman is suing Novo Nordisk and Eli Lilly—the pharmaceutical companies behind Ozempic and Mounjaro, respectively—alleging they failed to warn ...",
+      "publisher": "The Cut",
+      "timestamp": "1691093336000",
+      "newsUrl": "https://www.thecut.com/2023/08/louisiana-woman-sues-ozempic-and-mounjaro-manufacturers.html",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/ruO5yCh37fLcUQFtoaYl5HnMbXwDjbul4YOFUqB0kpTCb-T9hr8QHT-y9NM5raXT8gG8jW7uCygN9JvFxeYLV2OwM3OwEQyLGghvEzTwK3g2ZaPMAJU3w7RvV1yPZgN0Cfl36dpWshILmtoGm2mANq64OU-NRtFu1UVq5HpCQGNdEA",
+        "original": "https://pyxis.nymag.com/v1/imgs/5ee/05b/be64d06761e56168db31d48819452d3b82-ozempic.1x.rsquare.w1400.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "How Brightline is changing passenger rail in the U.S.",
+      "snippet": "Brightline is looking to connect the U.S. with passenger rail, starting with its Florida project, and moving on to create a high-speed line on the west ...",
+      "publisher": "CNBC",
+      "timestamp": "1691150401000",
+      "newsUrl": "https://www.cnbc.com/2023/08/04/how-brightline-is-changing-passenger-rail-in-the-us.html",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/QQfePz9aYnnL7ZQ--qiWZLigAUKAoSiRUIIXebtIh8-HCqa_8g9LbhQS3YhUp3Tm2lCc44z9HXzUhZzQgoQj7RtmUxwrMH-eSRxIUwIBi8ISpU2IgBYiLyIT8NyUl04nLlTvA-_z-ajbwbIdti4KXtYNGGfaD3SWB-yacb0mpWN8rox-PI_9HLAz9uM9rA",
+        "original": "https://image.cnbcfm.com/api/v1/image/107281410-1691078616810-GettyImages-1238655878.jpeg?v=1691150401&w=1600&h=900"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "American Travelers Are Shunning the U.S. for Europe",
+      "snippet": "Domestic ticket fares fall as tourists favor longer trips abroad.",
+      "publisher": "The Wall Street Journal",
+      "timestamp": "1691121900000",
+      "newsUrl": "https://www.wsj.com/articles/american-travelers-are-shunning-the-u-s-for-europe-5b5e08ea",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/oMKNKVhbmmCFIfcSaLN4YWXze1ew_HRCUeeX67DzC3xToqeC6Va-fawQxKmT3gvm1DBF1oL3qa0KXjFnFYVIm2VYl4j9Q1fO4fqoC44",
+        "original": "https://images.wsj.net/im-829558?width=1280&size=1"
+      },
+      "hasSubnews": false
+    }
+  ]
+}

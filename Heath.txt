@@ -1,0 +1,1202 @@
+﻿{
+  "status": "success",
+  "items": [
+    {
+      "title": "CDC advisers vote to recommend new preventive RSV shot for all infants",
+      "snippet": "All infants under 8 months of age should get a new antibody shot to protect against hospitalization with respiratory syncytial virus, or RSV, according to a ...",
+      "publisher": "CNN",
+      "timestamp": "1691150640000",
+      "newsUrl": "https://www.cnn.com/2023/08/03/health/rsv-infant-nirsevimab-beyfortus-acip/index.html",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/Rt1B0KZ6Rir8cGQXoXpNWlBjMbhL1xw6DXQmC_v2HknnDX3AxA05e-M8ekv3S4n_xe3xAGQwjgw4rXEBvEp0qbVGYr0RwU9-KaT0hgGH0qq2x7vhdwtuoUFT91MXmCBFEk87l0T8KEGJMi1Rted-UAdQ4-uY3EPslsFIxgb8",
+        "original": "https://media.cnn.com/api/v1/images/stellar/prod/230717142758-nirsevimab-rsv-infants.jpg?c=original"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Second deadly TB outbreak linked to tainted bone grafts",
+      "snippet": "Tuberculosis linked to contaminated bone graft material has killed one person and infected at least four others — the second TB outbreak involving Aziyo ...",
+      "publisher": "The Washington Post",
+      "timestamp": "1691154000000",
+      "newsUrl": "https://www.washingtonpost.com/health/2023/08/04/tb-outbreak-tuberculosis-bone-graft/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/r9LqSVhwybf61CYiM2IJbvSxoz6Nmtg_H5aGUSNIxNia2lYQVUxj-apNVJfdptofXTanXXPBP4_0YHS0rHtC2gNfwUTC8vjHBpsnTCiL0fTSgQVviqZc5f-xyl6zpB1ztEGIBACow9Y3kwei0HhWpJDDpG2oIZJWCa-nNPdQTrE",
+        "original": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/VLZK2ZZX4RA33F2PFBKTAOWPRQ.jpeg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "COVID cases are rising. But U.S. lacks tools to manage waves",
+      "snippet": "A recent uptick in COVID-19 cases and hospitalizations is hinting at how the virus will keep raising a predictable seasonal threat. But experts warn the ...",
+      "publisher": "Axios",
+      "timestamp": "1691143702000",
+      "newsUrl": "https://www.axios.com/2023/08/04/covid-uptick-cases-hospitalization-future",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/zr3owje_KRNYMX9AsCPOA35Gxzyx9Q7FifPlHmc25yTd6NrkuP4uaOzXpVtuAXE8g3gje_LTUy0OGvE6XRL0gdNeH6WOsaM5tyAuXpeQmwYo-U2FMvKE92ROI2BHDo3R2yLRAxvEA75riRVG3sDPCwwp0hKtQk6wCJRpK_uERdGDGoHWs5sy",
+        "original": "https://images.axios.com/0MK8az5mWA5svsqDrj-59lejDtw=/575x0:1655x1080/1920x1920/2023/08/03/1691086387054.jpg"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Officials urge caution amid COVID-19 uptick in New York",
+          "snippet": "City and state officials are urging New Yorkers to exercise caution amid an uptick in COVID-19 hospitalizations across the state. Data from Aug.",
+          "publisher": "Spectrum News NY1",
+          "timestamp": "1691160960000",
+          "newsUrl": "https://www.ny1.com/nyc/all-boroughs/news/2023/08/04/officials-urge-caution-amid-covid-19-uptick-in-new-york"
+        },
+        {
+          "title": "Santa Cruz County implements new guidelines for COVID death counts",
+          "snippet": "State officials went through the county's record of death certificates dating back to Jan. 1 of this year and found that 44 additional deaths met this new ...",
+          "publisher": "Santa Cruz Sentinel",
+          "timestamp": "1691103204000",
+          "newsUrl": "https://www.santacruzsentinel.com/2023/08/03/santa-cruz-county-implements-new-guidelines-for-covid-death-counts/",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/VMKyN26LLjR8beJh9yGbCoz5H2HJbuDnYbRUlMMubuyT2wVjXNhJho5L_4E-NxjIC-4zFbvNyOQQSzad1GhF9MmL4iSyfch1TEPmEv8DRZZqvz62BcJ15JE0QNh9q44icM63mbH2xgIQrExJZTTMPouAGGkR4GMLqs7RSSKdekCefw",
+            "original": "https://www.santacruzsentinel.com/wp-content/uploads/2020/04/TEASER_coronavirus_SANTA_CRUZ-1.jpg?w=1024"
+          }
+        },
+        {
+          "title": "Doctors report “summer surge” of COVID-19 cases in North Carolina",
+          "snippet": "The Centers for Disease Control and Prevention is expected to release a new Covid-19 booster shot in the next few months.",
+          "publisher": "WITN",
+          "timestamp": "1691106360000",
+          "newsUrl": "https://www.witn.com/2023/08/03/doctors-report-summer-surge-covid-19-cases-north-carolina/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/pQcUd5AenLI_DnKyrR2vbl_ZIKC0sZ5nwVKGrBbpaf2FYOI_PHfslpqCqAdTfig18KNrnqhyZgrhOtL5DgoU_kmGFXnDP0nMMUQcCiINSHi2o7Ujy7pns-lyoFbfLsuSjGcZ62Wkz74ZSkuvW1Gpu2BAGjiOOgLsT29fFGhERMWoqRl-qBy_F7-tgIKgDwKOU1gXe7g3rmSjLNtj8BY-TPkIDNXGQuMkHjkgALAmocc7oprtO2K952ZmnRX1eA3z6l83x_Ent1kkP1UfdbaFBq2JPwTCBMJ84ISlsCfWUSuZxw",
+            "original": "https://gray-witn-prod.cdn.arcpublishing.com/resizer/zUZYWrxMFmbhE4PpgZO6j6wRb9s=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/VN2AQZG7XVDZRGWUKKCVPDQRW4.png"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Very Normal! Leprosy Cases Surging in Florida, Government Says",
+      "snippet": "Florida has had a recent surge of leprosy cases and the disease may have become endemic to the state, according to the CDC.",
+      "publisher": "Futurism",
+      "timestamp": "1691091994000",
+      "newsUrl": "https://futurism.com/neoscope/leprosy-cases-surging-in-florida",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/EVdAE0V3ISManJa1QffDLGI01erjeBETPbqBA5uG71ULznB73K7tn-uc0w22foVsjnrtqAFAvZx9m_V-XQMX678P348F_RXueYBUnROSQT-SU4a7cYVo4QqjH_O0yl2VTDdBzQO1",
+        "original": "https://wp-assets.futurism.com/2023/08/leprosy-cases-surging-in-florida.jpg"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Disney World Park Area Sees Rise of Leprosy Cases",
+          "snippet": "Leprosy near Florida theme parks, including Walt Disney World, is becoming an growing concern for travelers, Disney fans, and health workers.",
+          "publisher": "Inside the Magic",
+          "timestamp": "1691159722000",
+          "newsUrl": "https://insidethemagic.net/2023/08/disney-world-park-area-sees-a-rise-of-leprosy-cases-cm1/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/Hhqi0wpdgW-dFmn96n-2DrTbeq20rp2U6PU44OXL_wp0yvuSCFUVQpbumwq7giKona4BZCJcvlTDR5j2vBWsZ5PibNZr5b8Vuil0xTo-cngfjvVxKG3GlrR1eWqoh7lHI9N8PByUtD8ztHCt8JfsW7TE8Po7aFCo0K4",
+            "original": "https://insidethemagic.net/wp-content/uploads/2023/08/Untitled-design-2023-08-04T113923.926.jpg"
+          }
+        },
+        {
+          "title": "Q&A: is leprosy back in the US?",
+          "snippet": "The CDC warned this week that cases of leprosy have surged in Florida, stoking primal fears of an infectious disease that have existed for thousands of ...",
+          "publisher": "The Guardian",
+          "timestamp": "1691144580000",
+          "newsUrl": "https://www.theguardian.com/science/2023/aug/04/leprosy-us-florida-cases",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/tCuSvvgzyPcyzn2Nat3xZDDBW4-Q-H5WTJX4noekgn3QS_AC2vWPc2_KAwoBDmhFKyGThCjV91trGuz5Y1-_MYGkeUZDSFnRIQw7nTBnhKwOh_y1JK_3j0bCkPpdH6jzoA0Xn5ArrmDc0K-gX1vW0pFK-cWSd5lFAV82b1ONYKhjfPX8u75cMLTN-4isSbqddvHTX39EY6il3GAZVUfTfCwbZzSD68pF4JyXGhJLuIRNRKSUm-QCAOShAngfINhEhW6CumYGxtjNrYfV40CkzuybfnjaCPEEA7QNEKQEX0AkXZbepV-HqkC9DVNdfJe8ICF6hoP8EK7mZ-1nlvwbg8-wGEHLy_CJnrfj1QBQRur295zu22P21D4Dtk6loEXYf-FN4GNFskFwRZRc_S_Yq_orB5jHvqaV35UBYJL8fkzCo1tTsZc73Pgg2lvbs5ROVPyolZqRuAap",
+            "original": "https://i.guim.co.uk/img/media/4de94f8ffa7975309402e84ee7cc38c199a0d358/225_0_6750_4050/master/6750.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=337554783217bde8d705458038ba5394"
+          }
+        },
+        {
+          "title": "CDC investigation finds the ancient disease leprosy may be endemic in Central Florida",
+          "snippet": "The spread of a disease that usually affects “persons who had immigrated from leprosy-endemic areas” raises significant concerns about the general state of ...",
+          "publisher": "WSWS",
+          "timestamp": "1691121061000",
+          "newsUrl": "https://www.wsws.org/en/articles/2023/08/04/zgjt-a04.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/fvzX69wcSM3FpDCJaWW-kywh3sl0Bge4O4v2VyIT_m1r9fpLKjqD8C0jcC_9IAlz8JacXqwBK4poCpnVLFB-K7IcnZsLiZjUo9LBFyBZsMNghtxUG8O3x8WyoCd-gjNS5wGPPgj41gH9rNp9gQ",
+            "original": "https://www.wsws.org/asset/25e6ffa6-dd49-4cb6-b3df-ba98b8fb325a?rendition=1600x900"
+          }
+        },
+        {
+          "title": "Florida diseases causing alarm include malaria, leprosy and amoeba",
+          "snippet": "Florida has been a mainstay in the news after multiple diseases and health concerns have sprung up across the state, what are they?",
+          "publisher": "Pensacola News Journal",
+          "timestamp": "1691089826000",
+          "newsUrl": "https://www.pnj.com/story/news/local/2023/08/03/florida-leprosy-covid-malaria-brain-eating-amoeba-cause-disease-alarm/70519412007/",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/4Ip4UOYPPoANZRT7mu3QNyJOM3hBaCLrM8uUSqHyv8W_XGBX5evd-YZsr_sUMI4Hb8Rp4Oaigv9KeMBCzeaRFr0HhHrHnuYu4hHRva9dp-Y3e63PuR-Z33PFy9m3Mto1KIu30qOshb0YoVjQSTyA1dQczqGBzCK6CjOu8ZW8AbgUE9HYl-0v62g0FMp9CXR7eD0fBUflxu6c18ES0M2DLs_uEWmA7rlzYV_PqBgrAi9Z7nIp",
+            "original": "https://www.pnj.com/gcdn/authoring/video-thumbnails/45965946-b13b-4578-a35e-bfa54defa3d1_poster.jpg?width=1280&height=720&fit=crop&format=pjpg&auto=webp"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Three Shots for Fall: What You Need to Know",
+      "snippet": "Here's what we know about who should get the flu, Covid and R.S.V. vaccines, and when.",
+      "publisher": "The New York Times",
+      "timestamp": "1691162006000",
+      "newsUrl": "https://www.nytimes.com/article/flu-covid-rsv-vaccines.html",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/byTYsw6JUWxTv7DFZepy1hXrJsGzPQuUrBkQxAtadBPDaQL2GcltJD8mAGfuUFUbEcBX4hog8eMcimqS5hfpcYsryxWRI-quTBhAY9ZyZe7XUBsjYMt0AQkaqVvTIB6Z2ZJZwstvXNif8Ez-iaAJSYOm1Gzjh0BlaQ9ofZX0IzzRmEX9ThXqyCDW-U0",
+        "original": "https://static01.nyt.com/images/2023/06/30/science/00vaccines-advice/00vaccines-advice-videoSixteenByNine3000.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Ozempic, Mounjaro manufacturers sued over risk of stomach paralysis",
+      "snippet": "(The Hill) – A Louisiana woman sued the manufacturers of popular weight loss drugs Ozempic and Mounjaro on Wednesday, alleging that the drug makers failed ...",
+      "publisher": "KCAU 9",
+      "timestamp": "1691025791000",
+      "newsUrl": "https://www.siouxlandproud.com/news/national-news/ozempic-mounjaro-manufacturers-sued-over-risk-of-stomach-paralysis/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/oCEh95PkG0udADSxN1i8hEjlPYRUVCiHCXc1rXGrSbZgZlxcfusYsv9um_YE6yU9GO9bQ9aMQV5CKND5dRyIbzrwRCvqOzB0LI_6tLvnRuELu92tG-DghsqEqR-NcATwNnlpkDI-gRQf4uhBbl0G1hyDP4kxMjdLzUQu05QACDN5nMbtwIRJP3lxPQXMlYQ",
+        "original": "https://www.siouxlandproud.com/wp-content/uploads/sites/68/2023/08/GettyImages-1247410202-e1687819201214.jpg?strip=1"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Woman sues drug makers of Ozempic and Mounjaro over severe gastrointestinal issues",
+          "snippet": "In a lawsuit filed on Wednesday, a Louisiana woman is claiming she has suffered severe injuries due to her use of Ozempic and Mounjaro, ...",
+          "publisher": "CNN",
+          "timestamp": "1691070300000",
+          "newsUrl": "https://www.cnn.com/2023/08/03/business/ozempic-mounjoro-lawsuit/index.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/tfTNLTaaz7NI60963GKZ4pzrkD7BgLgfaHclscp56WG6oLGpvfl7zwfLggtNQlGqHQqnPIaq2POprVIfkL37EildKI8wLTnIMf88FS8oCaIarxJGxAL1BRQPvZoSaS0m2w9kxJeGJMj1h7jcFo0nnEvOb3s",
+            "original": "https://media.cnn.com/api/v1/images/stellar/prod/230803064549-ozempic-file.jpg?c=original"
+          }
+        },
+        {
+          "title": "Woman sues makers of Ozempic and Mounjaro for severe stomach problems",
+          "snippet": "A Louisiana woman has filed a lawsuit against the makers of Ozempic and Moujaro, claiming they have downplayed the severity of the side effects of these ...",
+          "publisher": "Washington Examiner",
+          "timestamp": "1691096580000",
+          "newsUrl": "https://www.washingtonexaminer.com/policy/healthcare/woman-sues-makers-of-ozempic-and-mounjaro-for-severe-stomach-problems",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/kCQ70YoyBomq66BOlfUOG5AfrzM7jFFH2s48st4OJ9Kr5AaWIZ3MQoDwMp2GLvfQ49-B0WSbjOHKYDtOkN1nXBG9-i3rRe531ygGx1aKmbiU1dA1dU3bFeHHi2OKIvDsYKFzCrWLEipsS-GgP3tvThgQFGwGn-R4F2ijqqh-bJd0NSCDrpHqXqNPK9SP8VJYNQeIVVA7xS_BYaifL_j_GTZBgm3wdFUmpsPooNk5U1dQKl75S2jsaHrEZOfyIVSuiJsFAqYn8GmNjme2qw4WmK62_e1VUJ0t_YGzMJnyETOshhWAoRMHzzUUsKNh2igIUz43r8W6ZvOpxHr0v-E7jfAHJrMVgl56SicF3S8p-1U",
+            "original": "https://mediadc.brightspotcdn.com/dims4/default/aed6e0a/2147483647/strip/true/crop/3355x1887+0+174/resize/1200x675!/quality/90/?url=http%3A%2F%2Fmediadc-brightspot.s3.amazonaws.com%2F08%2Fff%2F32bf6f8e41d8bf771fece8618050%2Fap23195650522833.jpg"
+          }
+        },
+        {
+          "title": "Ozempic and Mounjaro drug manufacturers sued over side effects",
+          "snippet": "A woman is suing the makers of Ozempic and Mounjaro after experiencing gastrointestinal side effects. CNN's Meg Tirrell has the story.",
+          "publisher": "CNN",
+          "timestamp": "1691087623000",
+          "newsUrl": "https://www.cnn.com/videos/us/2023/08/03/exp-health-diet-ozempic-lawsuit-weight-loss-fst-080312pseg1-cnni-us.cnn",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/ZVLmUk46wTWOlybYBYzzGziQm2u-Fw75O8q5L139pS3wwaq72b72QVgTodRJLHEeGCbbixLkGUeXK6LNo8bebDjxIc_EeCa9_olpEF2wLYOfA6L_xe10Hh-FE2ICQz0dclty36JByk4Lpm4HY1u61Rkh1HY4HVBmSqpYrUgTr3aDHfPffiZgmi54nWB6EXATG96w2LSWV_a5HyZSesrlgDky5j1TXxC_9d3QzxzjMeqdT-zzlQ",
+            "original": "https://media.cnn.com/api/v1/images/stellar/prod/230803142101-exp-health-diet-ozempic-lawsuit-weight-loss-fst-080312pseg1-cnni-us-00004228.png?c=original"
+          }
+        },
+        {
+          "title": "Woman sues Ozempic, Mounjaro makers over risk of severe stomach issues",
+          "snippet": "A Louisiana woman is suing the makers of Ozempic and Mounjaro, accusing the pharmaceuticals of failing to warn her and other patients of the risk of severe ...",
+          "publisher": "UPI News",
+          "timestamp": "1691040876000",
+          "newsUrl": "https://www.upi.com/Top_News/US/2023/08/03/woman-sues-Novo-Nordisk-and-Eli-Lilly/2601691036737/",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/AQZR0_6-F0GpQb3UztyhvO1r8ejfe2g3OrR9e6IbF_DYDeQVx9uqq3Msn0TG0tubgD8CHEc3NkjL-PC8r1MxVAxXR06S7KgpLO90UQWD0KwkXZb2fhaZ5uOI8XnvIwDUtlFWzdfFCpMtXraV2DoVxRnF1oObIpcxTbGV4V9PJ3nWl9-Y9GINnMkWhJK8LRXVip8yPt-zF4pQKSU43VgwVq6tp8eGPUOv2joK8ioY1MwWNGkWYXv4PvSfCLNGivRsCWJmP7tFL4FppeKfdw",
+            "original": "https://cdnph.upi.com/ph/st/th/2601691036737/2023/upi_com/e632e8f1ed6629c0353a9ff72f2c5bdb/v1.2/Woman-sues-Ozempic-Mounjaro-makers-over-risk-of-severe-stomach-issues.jpg?lg=5&=1"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Nearly half of US adults interested in using weight-loss drugs, new KFF poll finds",
+      "snippet": "Most adults in the United States have heard about a new class of drugs being used for weight loss – including Ozempic, Wegovy and Mounjaro – and nearly half ...",
+      "publisher": "CNN",
+      "timestamp": "1691139600000",
+      "newsUrl": "https://www.cnn.com/2023/08/04/health/nearly-half-of-us-adults-interested-in-using-weight-loss-drugs/index.html",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/n1rHj7-yLsJ-w6q708R0X_LK0zhPjTlocW3jcZJMQNQbRo-0lUXlXOTZl98-qFt8OA1o4DsP-C1ua8XTw3JLeiCltWfhE62ErUEe8Sr798Gse3WAx_xRT8PDqKmFm91UyVaztIFmAySbbsrHhxtwRLf7BMLIvhlLSa4QxJjVeZBE30Q301p-nA-_H445jZbXixQuT2yw",
+        "original": "https://media.cnn.com/api/v1/images/stellar/prod/211222102206-weight-scale-doctors-office-stock.jpg?q=h_1688,w_3000,x_0,y_0"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Here’s What Vaccines Your Child Will Need Before School Starts",
+      "snippet": "While school vaccination requirements vary by state, many vaccines are universally required—here's what to make sure your child has in each state.",
+      "publisher": "Forbes",
+      "timestamp": "1691075370000",
+      "newsUrl": "https://www.forbes.com/sites/willskipworth/2023/08/03/heres-what-vaccines-your-child-will-need-before-school-starts/",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/2JgMccue_PjbRQgGYgyyeTfs3w5_1bHEzYW3r9m7Til4u6e7-JDWIHRvNADbbze1GwtP8PDDV1yKpemNVOibaK97IopqNpjIeBZZ_7_97h_-YSd3tMJuTJvbqJO2ZSCMCvCsfN5gjJZvKDeEIpYIN4d0SXbx00HyNCTloUaMYQLu_FyC01SAdK-yy3rRJfecs1llReSsWr7PhkGQ_hdOqV9JGw",
+        "original": "https://imageio.forbes.com/specials-images/imageserve/64cbc2d15dde679d7f960eaa/0x0.jpg?format=jpg&crop=5024,2824,x0,y74,safe&width=1200"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Wisconsin's 'death grip with alcohol' is killing more residents",
+      "snippet": "Excessive alcohol use is taking a heavy toll in a state that celebrates its drinking culture.",
+      "publisher": "Milwaukee Journal Sentinel",
+      "timestamp": "1691147012000",
+      "newsUrl": "https://www.jsonline.com/story/news/local/wisconsin/2023/08/04/wisconsins-death-grip-with-alcohol-is-killing-more-residents/70523820007/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/paka_ZYnbz2zGeJfih8HCWAfWlWhVSc2-qhuao5ZJqRHbGu-s2H4900oEAl_Y1xZfmjYpu81xjuh1sCtsF4r2cbOq-D4E3k9vueBsuiJ6xKm251AfeypQMrGlpmRgn0aedwjtAmmo6b4BxMt6m8s_E8vwaj33gHLd8ioEFUN",
+        "original": "https://www.jsonline.com/gcdn/authoring/authoring-images/2023/08/03/PMJS/70523900007-lockwood-1.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Who is Jeanne Marrazzo? Inside Anthony Fauci’s replacement as NIAID director",
+      "snippet": "Jeanne Marrazzo's appointment as NIAID director raises hopes the US will take steps to address America's burgeoning STI crisis.",
+      "publisher": "Vox.com",
+      "timestamp": "1691090700000",
+      "newsUrl": "https://www.vox.com/2023/8/3/23818831/marrazzo-jeanne-niaid-fauci-replacement-sti-infectious-diseases",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/LCklnl8ERlx3QiQi6-ea8cDvItjhPAcK9qepMUuLi4bOOifrxBBicm8evENCbjyqiFueP397BNd3mq8owwPijzn-_Xna0tU08UkJd7VsAO_lRUJVSmOnggU0FHPyp5JMemmvfox5etYJmJU6TbG5ctunPEBY42w-ESKwroyns-Sv4ULJapEX8zwrjMNxlVzKUCWEGBbXAp7i4X-6zC6tqI6DphUpCTztwQEu0DJkYma6P0D5Q_vOfA",
+        "original": "https://cdn.vox-cdn.com/thumbor/lNaQja11OkRaa2ElCfTx8DwE_ao=/1400x1400/filters:format(png)/cdn.vox-cdn.com/uploads/chorus_asset/file/24828259/marrazouab.png"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "NIH selects Dr. Jeanne Marrazzo to succeed Fauci as top infectious disease expert",
+          "snippet": "The National Institutes of Health picked Dr. Jeanne Marrazzo to head the National Institute of Allergy and Infectious Diseases on Wednesday.",
+          "publisher": "Fox News",
+          "timestamp": "1691078640000",
+          "newsUrl": "https://www.foxnews.com/health/nih-selects-jeanne-marrazzo-succeed-fauci-infectious-disease-expert",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/yuYi-VMudIDt0rzpYcXvrGWzD5FWmub69FSOOFL9rTfoZ_tLPyKAUslFo8HAZw06k8KxmqL92u1uF3l2uAo0Op-ZXYdjTmeXihCXukTOGwlfAQmciCoZ2yrtBcncupzNQuX48QX5DsQUlJk1VRkXLFqLWwbQ7JIgcG6Qf5xvmWVeQECYHGMR2gZSYGyXTk2p",
+            "original": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/Jeanne-Marrazzo.jpg?ve=1&tl=1"
+          }
+        },
+        {
+          "title": "The challenge's ahead for Fauci's replacement - The Washington Post",
+          "snippet": "Jeanne Marrazzo is the new head of the National Institute of Allergy and Infectious Diseases.",
+          "publisher": "The Washington Post",
+          "timestamp": "1691075100000",
+          "newsUrl": "https://www.washingtonpost.com/politics/2023/08/03/challenge-ahead-fauci-replacement/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/TvPXbZebssNNNmtLFt-6KklvZVBrue9WWurTlOhN06fws9C2CZ-Wef8c4YLlwqxWuPu_dpvJ2maCgTBR3ugAYW1YNhL19ujF-t8_wcLyidWXB2KWUcFsriqZ9EJwnj4DwOzkWNZie98Ee3Sj7ZZ4mc4oSx_A-fD1B1zeQUiikYHVGYGtyJnGn-2Nne7jRIO9pHhC5LpoOXkOUJSu81VXe2JbQOqI_JnmJyVf",
+            "original": "https://www.washingtonpost.com/resizer/tCXIM5iKd-Y7p1ktSH7cw3pnMH4=/arc-anglerfish-washpost-prod-washpost/public/Y6IT754Q5YFCBKZ7D7JJPOF7WI.jpg"
+          }
+        },
+        {
+          "title": "Jeanne Marrazzo to be Anthony Fauci's replacement as NIAID director",
+          "snippet": "A health expert at the University of Alabama has been named the next director of the National Institute of Allergy and Infectious Diseases (NIAID), ...",
+          "publisher": "USA TODAY",
+          "timestamp": "1691067572000",
+          "newsUrl": "https://www.usatoday.com/story/news/health/2023/08/03/jeanne-marrazzo-replace-anthony-fauci-niaid-director/70519312007/",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/5EoA9JHHdjLk7Lar8XyyQaYAtQND9f35gVBd9kLbU1mcToD2SsC3VwMRXUzUUnm7CkJ7kVmAGCDUqqiBbAcjVUNDilyqaJaQLtW813nGN-WHqAIn9T4VpBM5D2AgXpDgLZ7wn0k1y1OBL0PenZGPHGOX9uxhUo5t1HaUclJhusR-8dL_6s_Z",
+            "original": "https://www.usatoday.com/gcdn/authoring/authoring-images/2023/08/03/USAT/70519344007-new-health-director.png"
+          }
+        },
+        {
+          "title": "UAB's infectious disease expert named as director of National Institute of Allergy and Inf",
+          "snippet": "BIRMINGHAM, Ala. (WBMA) — The University of Alabama at Birmingham's Director of the Division of Infectious Diseases Jeanne M. Marrazzo, M.D. was named as ...",
+          "publisher": "Alabama's News Leader",
+          "timestamp": "1691009878000",
+          "newsUrl": "https://abc3340.com/news/local/alabama-jefferson-county-university-of-alabama-at-birmingham-division-of-infectious-diseases-jeanne-m-marrazzo-md-anthony-fauci-nihs-national-institute-of-allergy-and-infectious-diseases",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/EqxNLiUfhb8By1GoSFq_CfpRHKd_pEVKz0eGxCsqA5pZhdNYykBI1je8GmwRjuTRmCKr3vH_VAJUAFc8WuebM-4pmm6nzBklTKWpdde0HJKMGAaypp9Dmx_KGP7zs8EU0L2xpNzk_g3ntNzZrkXNH4XVHn0dcfGmdSiyW_xNlDO9_30g4Lq7-uD8hZk2170sITfA1FEDCw",
+            "original": "https://abc3340.com/resources/media2/16x9/full/1015/center/80/c2ed6a33-20e0-4df9-aee1-0be83d143e6e-large16x9_MARRAZZOPIC.JPG"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Star student killed by brain-eating amoeba: 'Her mental state changed so drastically'",
+      "snippet": "Star student Megan Ebenroth, 17, tragically passed away last month after contracting a rare, brain-eating amoeba while swimming in Georgia.",
+      "publisher": "New York Post ",
+      "timestamp": "1691157480000",
+      "newsUrl": "https://nypost.com/2023/08/04/star-student-dies-from-brain-eating-amoeba/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/9Tq5HaPhMsDGq884mOWLjUdRKPYW_0n6J3LhpEClmflQQ9rEF0n_LsSGv1-ugqud7OifRLuc0oo8kq_2xBsuVEz_Y1HEwH7MAoAegnRndRe4Myl4Av9a6ZzEg4miUy9xGGcDlb1EEwWCOXHQ-F4mWIeRf6p1YBwBS88c22CeX2zW8nV3lbv0vdo",
+        "original": "https://nypost.com/wp-content/uploads/sites/2/2023/08/NYPICHPDPICT000019101413.jpg?quality=75&strip=all&w=1200"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Teen dies from brain-eating amoeba after swimming in a lake. Should you be worried? Here's what you need to know.",
+          "snippet": "A Georgia high school student, 17, died after contracting a brain eating amoeba — but it's not common, according to experts.",
+          "publisher": "Yahoo Life",
+          "timestamp": "1691099743000",
+          "newsUrl": "https://www.yahoo.com/lifestyle/teen-dies-brain-eating-amoeba-215543534.html",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/NwIOyinGEhek_zkm5p27bGnF0kOGtOao5mGXtDybhmsBZSwbHObC6Ku4gOpjRC_Z9G_1xUX6jw_VvQ869g7tBmqjlaR9SSlZztA-y8n-tzhJj6_EeUgjmF8z98ZTuIr_eP8pluJOa4fRu64CFyimXau_cv5ApTdFCOnleD6-HBI2-bDmj_7pzzV1eg_BL8IR1_vgvuh77Lo1g07jjlOD95QnKrzKdpOZxbZ6_pmk44jwg9Sd4uyL_oTSPwyS3N3tFxwGYJWO80Bacs495As-tH6KH8up61Lyjw",
+            "original": "https://s.yimg.com/ny/api/res/1.2/O1l_yUgkv5NztGMJZv9gZg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTM2MA--/https://s.yimg.com/os/creatr-uploaded-images/2023-08/f9eea220-3237-11ee-9feb-fff8a9507a3d"
+          }
+        },
+        {
+          "title": "Georgia teen girl identified as resident who died of brain-eating amoeba after swimming in lake",
+          "snippet": "Megan Ebenroth, 17, has been identified in media reports as the Georgia resident who died in after becoming infected with a rare brain-eating amoeba.",
+          "publisher": "Fox News",
+          "timestamp": "1691079180000",
+          "newsUrl": "https://www.foxnews.com/us/georgia-teen-girl-identified-resident-died-brain-eating-amoeba-swimming-lake",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/TpGWhj4-QonsPkFE6-SlGDYhbgA8O93r_cx4mvSvGLx9SWakkmKi3DQ_SF3rHBtL-uSy1yd04cA2WKbAC3jax9tLvopQviFYeKRjxlQ-FIQjobBwtSbN2UWxh8cSHTrgYolcWmCza3pasTT_1b450Y_lUvsYLqO3KTbyqhtRsTwjWbxO6vllhiuQ1NayzpQ",
+            "original": "https://a57.foxnews.com/static.foxnews.com/foxnews.com/content/uploads/2023/08/1200/675/Megan-Ebenroth.jpg?ve=1&tl=1"
+          }
+        },
+        {
+          "title": "'Extraordinary' teen killed by brain-eating amoeba in Georgia",
+          "snippet": "Straight A senior Megan Ebenroth, 17, died of a brain infection 11 days after contracting the Naegleria fowleri infection.",
+          "publisher": "The Independent",
+          "timestamp": "1691143871000",
+          "newsUrl": "https://www.independent.co.uk/news/world/americas/megan-ebenroth-georgia-killed-brain-eating-amoeba-b2387638.html",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/hETlO9su3CG-Vy4FRFAjM8yZ3WE7AR3k8hJpWrfjvYeeQEv9mzctcajOIxChbNREDwJw35HXlB8Z9DiX2V4gHEAsUNs9zbkHtO8ExEdshmSAd8sn3ziis7R_k0qbW95-ddwR-KA15wLsyFG7B4KapjxgTmDFHjf3CgbWlFk0GioRfCOxrmyuT1IDxVohm7yJJ4QuY6HzNgBU",
+            "original": "https://static.independent.co.uk/2023/08/03/20/Screenshot%202023-08-03%20at%203.10.24%20PM.png?width=1200&height=1200&fit=crop"
+          }
+        },
+        {
+          "title": "'Exercise that caution': Brain-eating amoeba kills Georgia teen. Here’s how you can stay safe",
+          "snippet": "MACON, Ga. — Last month a Georgia teenager died after contracting the Naegleria fowleri infection from swimming in a lake near her home in McDuffie County.",
+          "publisher": "13WMAZ.com",
+          "timestamp": "1691028600000",
+          "newsUrl": "https://www.13wmaz.com/article/news/local/chances-contracting-amoeba-killed-georgia-teen-low-megan-ebenroth-naegleria-fowleri-infection/93-f0e83c4f-a6ef-43d4-afde-4c852be540a1",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/25ZlEFS6NNIt1x8aa7VdqpwAnnsYdGQTzwTq-FbyfJpH4bXfGFra4LdXW80vKTfFmxvn31s3au73cNFfNHzjo-ZTTU_7NRR8mflyCnpV3l164zxx1UEmkufmSCNKcwmyZKkX67OBBap836uXqRnlr0NvIrRdshXeOmbyjxoIPSY33dR7nvr7oiHACO-nCGbcMb2yYzS_Ss1CyUQI1g",
+            "original": "https://media.13wmaz.com/assets/WMAZ/images/a7a17c2f-544c-4168-8d7c-7d39d2861806/a7a17c2f-544c-4168-8d7c-7d39d2861806_750x422.jpg"
+          }
+        },
+        {
+          "title": "17-Year-Old Georgia Girl Dies of Brain-Eating Amoeba After Swimming in Lake",
+          "snippet": "Megan Ebenroth, 17, died on July 22 after contacting the amoeba known as Naegleria fowleri while swimming in a freshwater lake in Georgia.",
+          "publisher": "PEOPLE",
+          "timestamp": "1691073120000",
+          "newsUrl": "https://people.com/17-year-old-georgia-girl-dies-brain-eating-amoeba-after-swimming-lake-7569123",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/3nNXWrqe3OnjkoraB8_HkOWGEqgq4CcV_xSUIrmRDKvIJb6k5O-atJY1PbK0ybHmVG20ge9Qyltz8Wg37PiNhhG6wAYtDmyfjTE5DflaoA7jvXaIP7QKVhelpxdxsa3ymgDGcxZ63N99O0E2_TDed48SRkuPIf5D21IfxuJSTWZbRcwEfSbaRey2DD6U6diPJxFVlkSv9j3B3hRUO_jM6bVx_vuQtrNHwnGGlkRxL4lrYisYBytsrHuhwWI1t1o7bTvDsVbYrhU9A_zzuyEwFVC5OpUvmjwzog",
+            "original": "https://people.com/thmb/Gp-uqRUBytGXPm9D978sa9eNNW0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc():focal(749x0:751x2)/Megan-Ebenroth08022368-c644f99430ff4aeab8bc68b9cd727b71.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "DNA From Beethoven's Hair Reveals Surprise Almost 200 Years Later",
+      "snippet": "One stormy Monday in March, 1827, the German composer Ludwig von Beethoven passed away after a protracted illness.",
+      "publisher": "ScienceAlert",
+      "timestamp": "1691133658000",
+      "newsUrl": "https://www.sciencealert.com/dna-from-beethovens-hair-reveals-surprise-almost-200-years-later",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/lHBC461kRfv6NLYY9HcyUahO7uJ5TbfuXU79Z_8G-NsgiYg-0qT4YzARsXUeJuLQm1TB2wrD0Kki4Vyopgp1wgTbh_jubXSjIY4rvDPeLk2jFWHqOu2Tef51xnPh3ZUAUzcIfUw",
+        "original": "https://www.sciencealert.com/images/2023/03/Beethoven_stieler_portrait.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Cyprus allows human COVID-19 medications to be used against deadly virus mutation in cats",
+      "snippet": "Veterinarians in Cyprus are lauding a government decision to allow its stock of human COVID-19 medication to be used against a feline virus that has killed ...",
+      "publisher": "The Associated Press",
+      "timestamp": "1691150520000",
+      "newsUrl": "https://apnews.com/article/cyprus-covid19-cats-virus-peritonitis-mutation-16484f95aace4ef91c8678094419db77",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/9L24cfnZTa4S4KnA7exmYznDr3a41Uas3rE_qAQeYuJSNFw__TcQIbPaOOFFlLN3pfbqVUiP_Qa6F5dloZXFNMvXyK_j3pAyYa_S2PiVo1enIoorK2rICD4_Z-ikvuIbOLO57NoohaDHU5HIZAanwFpCT6rCUXbzGT6dyKn_MFCbHH1EYE849YNUOGlur6j8HPDFDa7bc_UIC91Ljr0OCJ_opSug1hz9fBLbAgLa5dEhlP9H2R7SEBZaE_xcs37x-6Lzw0XzmBLiEJzsBI3g7NGr_IWJCIZhd6gqFwQhP_adbNsUXcyHw787vQX4_iY2_L3Xh_WDJdbTwzCL1gAyXQ",
+        "original": "https://dims.apnews.com/dims4/default/bb078e6/2147483647/strip/false/crop/5500x3667+0+0/resize/1486x991!/quality/90/?url=https%3A%2F%2Fassets.apnews.com%2F2e%2F41%2F52053cc1bfb78bfd5e7d18953eb6%2F2ec894acbe214771a359c5a607186b6a"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Loss of smell and taste is no longer a common covid symptom",
+      "snippet": "The findings mean that losing your sense of smell and taste is no longer a reliable sign that you have a covid infection.",
+      "publisher": "The Washington Post",
+      "timestamp": "1691067600000",
+      "newsUrl": "https://www.washingtonpost.com/health/2023/08/03/covid-loss-smell-taste/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/tx8lx_Sd264LdQzQwHhsE_lLJnFNubZO1qiMsOhZoR56hQZVHxq9qjzNQEJnrhRz9tytEYho5HCfZYSScv1GaOEGIvTouLOZXQTHAdL-XBPJYcYxhfMXogUMDLsCP79VL3HqjSK4VJ2C7XIQX-8DK2j1MlxG7lLrGww0yMq6bw",
+        "original": "https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/Y7L5WROESFBFEI37DWPSKXL7Z4.JPG"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Microbe stops mosquitoes from harboring malaria parasite",
+      "snippet": "Malaria kills more than half a million people every year, most of them children under age 5. Yet strategies to control the disease are riddled with ...",
+      "publisher": "Science",
+      "timestamp": "1691086195000",
+      "newsUrl": "https://www.science.org/content/article/microbe-stops-mosquitoes-harboring-malaria-parasite",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/uCb1WboXl4M3UUAlN5q3hb4uXSWw1EPkzOqZxrv5ZJ0RenGl1zTlcrfgCi7r9Gc95_gHTGlmMj7Wh5_i78Ykjv3jHE1L_GfG-4GHtJ_SyKAyyczTQUaA4VBF1pLyB82N9ROA7dqAKcO8O6zG3zBbyacx7CaU8S80QD1lhoVgFJJQlg",
+        "original": "https://www.science.org/do/10.1126/science.adk1267/full/_20230803_on_malaria_mosquito-1691091204580.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Turning the tide on obesity?",
+      "snippet": "Genetics, ultraprocessed foods, portion distortion, sweetened beverages, screen time, food addiction, intestinal microbiota, diet culture, weight stigma, ...",
+      "publisher": "Science",
+      "timestamp": "1691085607000",
+      "newsUrl": "https://www.science.org/doi/10.1126/science.adj9953",
+      "hasSubnews": false
+    },
+    {
+      "title": "Racial and ethnic health disparities are pervasive in the US, across most causes of death and in most counties, new study shows",
+      "snippet": "It's been more than two years since the US Centers for Disease Control and Prevention declared racism a public health threat, and a new study gives a stark ...",
+      "publisher": "CNN",
+      "timestamp": "1691101800000",
+      "newsUrl": "https://www.cnn.com/2023/08/03/health/racial-disparities-widespread-us-mortality/index.html",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/yRszDHHgnXKuguo2gP_n4Rri6h7Lpsx0mBWuJpH2Q-lfSxg3PimAyF3hv9htr00om206qyS2kkSiIpXPf0zqiyteb50UK8x9-g3H_r5itGcD9Q4owpNAbqil6YbFLMGI8hIRzaPS5m026J66y137VmMHn_-1eW1fxjgTNKQELBrMj8r5GD84ap-hSBU",
+        "original": "https://media.cnn.com/api/v1/images/stellar/prod/230803165950-01-ca-hospital-bed-062923-restricted.jpg?c=original"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Target for mosquitoes? Louisville expert says your smell and your breath could be to blame",
+      "snippet": "More mosquitoes have tested positive for West Nile virus in seven more zip codes in the Louisville area, so here's how you can avoid being bitten.",
+      "publisher": "WDRB",
+      "timestamp": "1691096400000",
+      "newsUrl": "https://www.wdrb.com/news/target-for-mosquitoes-louisville-expert-says-your-smell-and-your-breath-could-be-to-blame/article_bd75b396-321f-11ee-83b6-87f08c3ed255.html",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/o1R1wKdFf_CsIHN-OtOFf-zbAaOe3XkSKRF4Fy3C6eNIjI9Bl2kcYrLPX4cYa96W9-430aAMHx-hGWwH7VxZLOnzBQYB-y7Tv6w9Z1-8HU7j5JH0LHn9ulMsXdPnITuDWxIWmOygPNnuoAqWb-6Eesuv2q4nkgUHRdxJycdhCMDUYUOt3j_jMDtcRWo0nggv8ZiPDh20vKRVdSoS4vQOnzucdcGNRG-0vN_8Yv-0Cxy3WCWWC5mYEH7NVEI4wIZwi0TWf_6az09o8MI4hpp3678WCaCBlNnVLz7FDPuLgb5Jo4foVkBxI62QShOrB8nJwHtkuQ",
+        "original": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/a/f3/af3bc8fa-4f13-11ed-93ba-471e3a4815af/634ef2106ccb8.image.jpg?crop=1000%2C525%2C0%2C68&resize=1000%2C525&order=crop%2Cresize"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "AI Shows Big Promise in Detecting Breast Cancer",
+      "snippet": "The biggest study of its kind to date suggests that artificial intelligence has great potential to help detect breast cancer from mammograms, ...",
+      "publisher": "Newser",
+      "timestamp": "1691092680000",
+      "newsUrl": "https://www.newser.com/story/338479/ai-reads-mammograms-as-well-as-human-radiologists.html",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/7dNVfm8vXOd3WEeL4DiaAIfdn99VwmI1WBXg8hjEb8VPdlJa2DLMomn0_FF0epmqIh5RyTr4dsIOVoTlSUHbb_uuUKtn07ljiyoJXJZrqNr84UarUr-Ir88vH3iY9Q",
+        "original": "https://img1-azrcdn.newser.com/image/1485266-12-20230803152827.jpeg"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Dr. AI in the house? New study finds artificial intelligence tools outperformed human radiologists in detecting breast cancer signs",
+          "snippet": "An ongoing Swedish study assessing the effectiveness of artificial intelligence tools in detecting early signs of breast cancer is producing results showing ...",
+          "publisher": "Deseret News",
+          "timestamp": "1691094360000",
+          "newsUrl": "https://www.deseret.com/2023/8/3/23818768/new-study-finds-artificial-intelligence-outperformed-radiologists-in-detecting-breast-cancer",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/WX4ajLFd2I98v_BWRExr_xwMWeOdljVR0YuKmOyk5tl6eaEFHn_rcUSzA-fJKmDg8w8sVE-ez1nmbbLOOxI3B-q-U3r16pgwg9aG2LrV0m7-lGKHnpManfbsEQN1HkWu53Vb3xAoDm37RzWlfzKVYQzYjp4DsbTTaKogTDAZu7M2DywH9j8AuUX2GHU4wWFPjxd4UfzDfCZYgbxazEaqAKcklvbususgBKr8MhWIGOJPOcPfHXh3vbDrASaKOxeHx-1ZSR_X4mvw-4UbHPIiwmI6Z69BimddeZnNWrplgeWri1LkKIqrGSWuxcEUm2VhPuBfCX-JI13zlN-fYz-8L1o5s48AHcy0rFCCXdSIy4zJmJxlAcK0LGMslh2BD5eeh2SwVPTGA_FZwaFnqelsJguxVUrVIOzUcPCow8dV2BTX1V5epRpWgZm-u3BJjSYtmLtMLBSzVz5qBrWN4fklSxQbiRWjxunrm0WI88g2ydQqgxaVXmbuRBuY2XWQvRbsOto1",
+            "original": "https://deseret.brightspotcdn.com/dims4/default/721fc48/2147483647/strip/false/crop/3000x2221+0+0/resize/1486x1100!/quality/90/?url=https%3A%2F%2Fcdn.vox-cdn.com%2Fthumbor%2FVtpHvbzWiTl5SLtIecUc53k0jiE%3D%2F0x0%3A3000x2221%2F3000x2221%2Ffilters%3Afocal%281437x916%3A1438x917%29%2Fcdn.vox-cdn.com%2Fuploads%2Fchorus_asset%2Ffile%2F24570066%2Fmerlin_2973239.jpg"
+          }
+        },
+        {
+          "title": "Rebooting cancer screening with artificial intelligence",
+          "snippet": "Cancer screening typically relies on a reductionist, all-comer population approach, with screening eligibility based predominantly on age.",
+          "publisher": "The Lancet",
+          "timestamp": "1691162292000",
+          "newsUrl": "https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(23)01576-3/fulltext",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/5R_wxW2KBW6DvsFC9pnn8bAT1_ls3lLNFPb_aKKjE_ljd9VafQrZ2QQ8lDsy1s9VyHrFLDaWN8OySwvnhTbru2MYtq-aZ7NEc6QSw5DF4X-a8_8LufHRgPyxOM5La4zm2eAFjmW04UGF4ymjYgfHaQgzZko",
+            "original": "https://www.thelancet.com/cms/attachment/6177d4f4-caef-4b9d-8a79-352016a0cc19/fx1_lrg.jpg"
+          }
+        },
+        {
+          "title": "AI Improves Breast Cancer Detection. But Will That Save Lives?",
+          "snippet": "Radiologists can benefit from technology that flags risky mammograms, but it will take more to confirm that patients benefit.",
+          "publisher": "HT Tech",
+          "timestamp": "1691030836000",
+          "newsUrl": "https://tech.hindustantimes.com/opinion/ai-improves-breast-cancer-detection-but-will-that-save-lives-71690999551169.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/EivSFnX0Nkk3otkIAVjqp8K9tYl8PXKYr8HI3pBXMEiu6ITFRIZ6yRoPxIfi2cVFaVnrV1FrYuY0HQqslAP6aDTgO3ZMb2em0-uPaRYYQ86Pn3flBNhqoR0RX6v-R5RHVyqePizYfULTjg9oopR3Ew0SAMi6HqeDphCfQ_ANvvz1t-C5orE6WBo6",
+            "original": "https://images.hindustantimes.com/tech/img/2023/08/03/1600x900/breast_cancer_ai_1691030638190_1691030644452.jpg"
+          }
+        },
+        {
+          "title": "AI-supported mammogram screening increases breast cancer detection by 20%, study finds",
+          "snippet": "(CNN) — Artificial intelligence found more breast cancers than doctors with years of training and experience and cut doctors' mammogram reading workload ...",
+          "publisher": "Boston News, Weather, Sports | WHDH 7News",
+          "timestamp": "1691030874000",
+          "newsUrl": "https://whdh.com/news/ai-supported-mammogram-screening-increases-breast-cancer-detection-by-20-study-finds-2/",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/-PK8X1ElN583UePH9eyjFvXbC1Jh_4aHKEmfjeph7jDf8_HrMn8PVZjgJjtq8seRWf4nrgd9osc_jnqveI81xOIMUmC9kW9VkrND4wvX3LQ4yUJP3fyp1NjJUJe5",
+            "original": "https://whdh.com/wp-content/uploads/sites/3/2023/08/mammograms.png"
+          }
+        },
+        {
+          "title": "AI might be changing the future of mammograms",
+          "snippet": "A groundbreaking study found that AI was able to detect 20% more cases of breast cancer than humans.",
+          "publisher": "theSkimm",
+          "timestamp": "1691020800000",
+          "newsUrl": "https://www.theskimm.com/newsletter/daily-skimm/ai-might-be-changing-the-future-of-mammograms",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/ms_UKYF98OlnazTwsuWfnFVdjTK-mnZuLvaZzzU1afg7mytJA4XwqhacssNRYpcXPjvKf98qf66ezbuVFyMTP813eOFkTUTCtL5zpK5-UhtXO3MMs55U-0UJb-bjFzb3czS_2tpmWXi2HcZBe4iEd92r0nP97IUXnrnKmTl5tVKtWN-KV5NN-eA5XGeGT-DaZziYbmz59abdvK5VLcmmFmDZVwg1jhTfwz6et8JSDJuT-7RTH7X9O_rGzZrYkh4S-hdgwaaYW7f8ocACZG6P5PODzUgiUfr3kzbREK6--wg5prBCm9nWmX2eKsbdEuQsWamM",
+            "original": "https://www.theskimm.com/_next/image?url=https%3A%2F%2Fimages.ctfassets.net%2F6g4gfm8wk7b6%2F7sc9eC7azJ1X8sq3Ilsj4f%2F4dd45b3b9017c43ee4007903b84deb4f%2FNewsImageTemplate_3_FilledLinework-Center_16x9.png&w=3840&q=75"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Untangling Gut Feelings: Revealing the Colon’s Sensory Neurons",
+      "snippet": "Researchers made a breakthrough in understanding the gut-brain connection by identifying five distinct types of sensory neurons in the colon.",
+      "publisher": "Neuroscience News",
+      "timestamp": "1691093334000",
+      "newsUrl": "https://neurosciencenews.com/sensory-neurons-gut-23749/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/4CSq-aMeGV9Z1oznJLFhJSo-fkzGRP2rmTU-je8wZ2aTOeHUm3GCePJDHtGfIyhS93OdRI8b7BUCVFoInnpKNp6IryGQWeH0U2-TGq9pxY7lHxUvv9c-9xFxbDgSreNo0p3sP-ZjxGc9jCY",
+        "original": "https://neurosciencenews.com/files/2023/08/sensory-neurons-gut-neurosicences.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "How \"Sleep Consolidation\" Can Boost Your Cognitive Function | mindbodygreen",
+      "snippet": "Chances are, you've been told that you should be getting eight hours of sleep a night. Well, it turns out that this blanket (no pun intended) advice won't ...",
+      "publisher": "mindbodygreen",
+      "timestamp": "1691084977000",
+      "newsUrl": "https://www.mindbodygreen.com/articles/how-sleep-consolidation-can-boost-your-cognitive-function",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/Kf1HG8vR6AZlW2-5wnCmDJqW5x47Z26qApONP5BxQc2rB300BjY9kFD4C0IR_xK0XDsLjeVpmQzLSMqQO8rj4HO1w06xoiqjinV488AETHmLgtl1J28arkM7HWA094O_yYH0YDEgTVQCiBlD0UuGtMMTf0vqSp9jE4DKmjOwos21iuTZJwwqNPKtpuv_7SFGaoo7ozU",
+        "original": "https://mindbodygreen-res.cloudinary.com/image/upload/c_fill,w_2000,h_1200,g_auto,fl_lossy,f_jpg/org/pszb6vc49ku4k4otj.png"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Suffolk leads nation in tick-caused meat allergy alpha-gal syndrome",
+      "snippet": "Suspected cases in Suffolk County made up 4% of total national cases.",
+      "publisher": "Newsday",
+      "timestamp": "1691096170000",
+      "newsUrl": "https://www.newsday.com/news/health/ticks-and-meat-allergies-lc2dw2wv",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/-8Us0zgehfPaL-Qo5s3_7W4URvy39bnt3QEeIz0ZA7_InOm22T_txMtqLCpCpQkgNYZTSwd3McVUBvI2U0-5uiwxXlRQIfovz59gZZaJBHyDahfJsiSz3oVziJxWbx82vgy_Kr4",
+        "original": "https://cdn.newsday.com/ace/c:NDgzYjNhZTMtZDZjYi00:YzJmZjcz/landscape/1280"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "UCSF study shows lifelong health impacts of childhood trauma | The City | sfexaminer.com",
+      "snippet": "A new UCSF study shows how childhood trauma can impact people later in life — but the data also creates a roadmap for how to care for victims as they get ...",
+      "publisher": "San Francisco Examiner",
+      "timestamp": "1691064000000",
+      "newsUrl": "https://www.sfexaminer.com/news/the-city/ucsf-study-shows-lifelong-health-impacts-of-childhood-trauma/article_7d873e44-3189-11ee-bab0-cf155483bf39.html",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/WRMW6OIRje_dRDRPNa98riVjmpyNPgwzfCQn0H_bYVicA4d_Y-wRPAEvkCpjLy104n_YjOc6yGB3n9baD5OuOOiFGNo6EW1BQQqxSZFeyzEjtud9I7cYMp5Bc6j_xzBROfGcO1XNHi6r8WEYvqIFQIuHuPVXNfDp2NRDccVBHJUE3bm5yDUb0o69fs_lPMCrsc7CHSlIhZJb5ajzkR0RwZPxzUSxOsRKe5enB1FhYIyY4z7msJoX0sT6hHhKePeF2hMs7L5NEYvl2Mw1uw",
+        "original": "https://bloximages.chicago2.vip.townnews.com/sfexaminer.com/content/tncms/assets/v3/editorial/6/3a/63a13c54-318a-11ee-a83a-2704de750c91/62910f087f8b4.image.jpg?resize=1200%2C800"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Comparing mRNA COVID-19 Vaccines in Seniors",
+      "snippet": "Seniors given Moderna's COVID-19 vaccine, mRNA-1273, were found to have a 14% lower risk of diagnosed COVID-19 compared to those administered the ...",
+      "publisher": "Contagionlive.com",
+      "timestamp": "1691072785000",
+      "newsUrl": "https://www.contagionlive.com/view/comparing-mrna-covid-19-vaccines-in-seniors",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/0OiI_MKRWIWq-GkL3WcPSvBdh_eCPMmlz_ky1fyYo_LzgRWX6x2B0PV4tBv0Ykdcviu6vBN0pY88txLfseXKNMBucE1S-n1JopT2nP4N4yG3rzRRixe5QDj8_LVxe9DArgSSjAFnpa7xXyXrgs3Z9-Nx-aCzAChzJjwhqCOXduX57ymSZpN1MV_8PGZOtuc7TgPa2J9p",
+        "original": "https://cdn.sanity.io/images/0vv8moc6/contagion/b0448f5d02e6506b08b4fbff90ce8b36068ed1bb-1508x744.webp?fit=crop&auto=format"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "How a secret Chinese-run lab in Reedley illegally stored vials of COVID-19, infectious diseases",
+      "snippet": "A secret Chinese-run laboratory in Reedley, California was illegally hiding infectious diseases, including COVID-19, malaria and other contagions.",
+      "publisher": "Fresno Bee",
+      "timestamp": "1691105880000",
+      "newsUrl": "https://www.fresnobee.com/news/local/article277836263.html",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/VfhFG7TXj0h-Ip4QxiOqYk5UWCpU8YBYe3ajPvVwbwNax0Db6X5-pmrK67bH_WPvV65xPdFhP8A-C9zhuNfDDgQIyCjodNaLqBKsvaHAxxzP_uEZm8ygo7RcBeTJwNUzQLcC6W0R4xfGWpWLK8lLdzxg4fw3gN8v98zI6lBMGGQ_O2UqVAkTQJA",
+        "original": "https://www.fresnobee.com/latest-news/kmt4f5/picture277908013/alternates/FREE_1140/FRS_EPZ_REEDLEY_COVIDLAB_09"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "More federal attention on Illegal lab found in Reedley, following Speaker McCarthy's visit",
+          "snippet": "FRESNO, Calif. (FOX26) — House Speaker Kevin McCarthy says he plans to raise concerns over the illegal lab, known as Prestige Biotech, that was found ...",
+          "publisher": "KMPH Fox 26",
+          "timestamp": "1691123520000",
+          "newsUrl": "https://kmph.com/news/local/more-federal-attention-on-illegal-lab-found-in-reedley-following-house-speakers-visit-hazardous-material",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/Ms6nD1ip1hqZW1MDc48gRFDlMrNDR5ri1OiDOjVo7LCev8tHSD3ZfwUsfTFYZdoknC3iPLq13iTFht1cPwKZ1y4wM8sdSKke9ecKcDp9STBdoRoNXgwUu4Hqg_qLweoCaCNNPk44TopzBbVpV5_LwDomPHmosPJeLZ_t4lw8dru9dWE0wHX2zatV-4Ub_vpcpSalJwsUra6v",
+            "original": "https://kmph.com/resources/media2/16x9/full/1015/center/80/47b61e84-3f28-4185-9f72-f1cbb2d47233-large16x9_AP23166048950151.jpg"
+          }
+        },
+        {
+          "title": "Thousands of Americans potentially exposed to toxic Covid and pregnancy tests made at Chinese-run biolab in Ca",
+          "snippet": "Tens of thousands of Americans may have used Covid and pregnancy tests made at a filthy, Chinese-run biolab that housed dangerous viruses like HIV and ...",
+          "publisher": "Daily Mail",
+          "timestamp": "1691088390000",
+          "newsUrl": "https://www.dailymail.co.uk/health/article-12366029/Thousands-Americans-potentially-exposed-toxic-Covid-pregnancy-tests-Chinese-run-biolab-California.html",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/Kzkvbp049k70t10w_Q0ahgW-4DsMkHnY7mRDLdov2LvnKHbtcagvGjbjdCqZMGD7Y2VdCr2MuhztMX3cZmvKAwzmGJasETNaPZj2tXz3GTYhwuJXil1eO8Hgmst1kBXVeQNwZ6TT8jqTbEl84g",
+            "original": "https://i.dailymail.co.uk/1s/2023/08/02/18/73806909-0-image-a-16_1690997905934.jpg"
+          }
+        },
+        {
+          "title": "New details emerge on Reedley lab company's business dealings in Fresno",
+          "snippet": "More is being uncovered about the embattled medical company behind the Reedley lab and its dealings in Fresno.",
+          "publisher": "KFSN-TV",
+          "timestamp": "1691119093000",
+          "newsUrl": "https://abc30.com/reedley-lab-fresno-dealings-medical-company-universal-meditech/13594594/",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/DHW5jdyQuTrVyffo-oQYQ0apeNA0oVPa6r2uX8hTGW2RaSf-JcdRBqui4H-u0Ix9LHSge-mHDUgO1stQ0fz7Tckzfx9TabTGhoaYYc7G3Iep-aejN8zmKOqf-5GS4VSK5g",
+            "original": "https://cdn.abcotvs.com/dip/images/13594884_reedley-lab-fresno-img.png"
+          }
+        },
+        {
+          "title": "What was inside the illegal medical lab found in California?",
+          "snippet": "A simple garden hose prompted the discovery of the illegal medical lab, which contained bioengineered mice and infectious agents.",
+          "publisher": "NewsNation Now",
+          "timestamp": "1691054946000",
+          "newsUrl": "https://www.newsnationnow.com/us-news/west/what-was-inside-the-illegal-medical-lab-found-in-california/",
+          "images": {
+            "thumbnail": "https://lh3.googleusercontent.com/proxy/0l_O3AkHYfUV-kVscFmAFudfkzz_JsgzIyKwRNPEeJ7R8SwEJL3PaiWlWBtuZ0V2tWAz80VS4jxifsH0ShcShXJ5CPsW3Y8kyLQxqxGzcJV_JNcQR0vbRXmICCsBZXcr6u2PEdlGujzB3JMIHUG7ngVf2CfaWJyftOkV3aRBY0w",
+            "original": "https://www.newsnationnow.com/wp-content/uploads/sites/108/2023/08/Illegal-lab-in-Reedley.jpg?strip=1"
+          }
+        },
+        {
+          "title": "Fresno Lab: China's Operation to Exterminate Americans",
+          "snippet": "There were on site at least 20 potentially infectious pathogens including those causing coronavirus, HIV, hepatitis, and herpes. We know enough to be ...",
+          "publisher": "Gatestone Institute",
+          "timestamp": "1691053200000",
+          "newsUrl": "https://www.gatestoneinstitute.org/19858/prestige-biotech-china",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/CGGgsRGDfbk52uMTS6ldDBNXpKKUZSBfWpRy88KT8Oy7u0tXYG5JApyZQ5jh-YWYgZjQL2sowN6GoYpzfU6KdWQFR3o4oPoaKTg-",
+            "original": "https://www.gatestoneinstitute.org/pics/1564.jpg"
+          }
+        }
+      ]
+    },
+    {
+      "title": "Officials urge caution after virus that quickly kills rabbits detected in Chicago area",
+      "snippet": "Illinois officials are urging rabbit owners take caution after a dangerous virus that quickly kills rabbits has been detected in domestic rabbits in Cook...",
+      "publisher": "NBC Chicago",
+      "timestamp": "1691109778000",
+      "newsUrl": "https://www.nbcchicago.com/news/local/officials-urge-caution-after-virus-that-quickly-kills-rabbits-detected-in-chicago-area/3200670/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/JqbR-qscu5-q_dj9k2NVhsQRrikGU5N8vzyI4Ki35inmBIPnu28av29u-Och5MfoMbv9wp4UuNSb-l2WH3vwKosByMD_8V4_xIMPyOdiOLm_XUCthosFeQas8AYMNnnMnoapnCD3cBiAz2DNDvR-fUES2zAuDkUR7paGzsk",
+        "original": "https://media.nbcchicago.com/2019/09/Bunnies-in-Carrier.jpg?quality=85&strip=all&resize=1200%2C675"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Hidden Hypertension Hazard: Just a Single Alcoholic Drink a Day May Raise Blood Pressure",
+      "snippet": "Every additional alcoholic beverage may increase blood pressure over the years, finds a new analysis in the journal Hypertension.",
+      "publisher": "SciTechDaily",
+      "timestamp": "1691152729000",
+      "newsUrl": "https://scitechdaily.com/hidden-hypertension-hazard-just-a-single-alcoholic-drink-a-day-may-raise-blood-pressure/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/508soOfWkKX_WTMj4aNg1X3YFzirggoAgk0-5YbD0cuJ-Ts5U45acT5aPPlfiOI5nqW3ytLGA17e5BKSw5DVZrb8CmuM3A88ha1SughnCbrWf49Fywv5-w",
+        "original": "https://scitechdaily.com/images/Alcohol-Addiction-Concept.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Fort Collins to spray for West Nile mosquitoes for a third time this summer",
+      "snippet": "Fort Collins will spray for mosquitoes that carry West Nile virus for a third time this summer. This time, the routes will be in west Fort Collins, ...",
+      "publisher": "Coloradoan",
+      "timestamp": "1691107408000",
+      "newsUrl": "https://www.coloradoan.com/story/news/2023/08/01/fort-collins-to-spray-for-west-nile-carrying-mosquitoes-for-third-time/70498061007/",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/UWuP-wjv1vMcgwMyMkosQgRBOaGs_EH0qzh5StMHiobMRyedh-DHD8scxiitd6rxN34YHTjQZpJmXdy-FhFmYp5hoGRl1OZOg_wFj_5MN61hiEeSOihDSdz3hc-VeSXZyZBhcYqzsuGzx913pqRJVLqWtBBLRodY-9xFgAvvatquw0xOxQZea7DC",
+        "original": "https://www.coloradoan.com/gcdn/authoring/authoring-images/2023/08/01/PFTC/70509455007-full-map-080623-logo.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Longer, dangerous heat waves raise concerns over increased seasonal affective disorder",
+      "snippet": "Psychiatrists warn as millions of Americans have been forced to stay indoors to avoid dangerous heat, more people may face serious mental health issues.",
+      "publisher": "ABC News",
+      "timestamp": "1691055332000",
+      "newsUrl": "https://abcnews.go.com/Health/longer-dangerous-heat-waves-raises-concerns-increased-seasonal/story?id=101953058",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/6-1h9IPKED2gmWUA1FpGumazOldzqCDad5xO-hCC-w67rxTFTXNR6k9VCpHuRuDmgBoV_Ww8t2MJ5f8K-cJHGarJ15cQ7McxRbI6zS083EeKNZWK-l4FoGdGCYnbbcCEk9VYUQDN7Ws58kgr2Cg3uTMCrV5v0L4wlFU",
+        "original": "https://s.abcnews.com/images/US/heat-las-vegas-gty-jt-230801_1690909264503_hpMain_16x9_1600.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Exposure to Certain Fragrances During Sleep Dramatically Boosts Cognitive Function",
+      "snippet": "Of all the senses we love to indulge, scent is often neglected – but the right smells could be just what your brain needs to keep it whirring in old age.",
+      "publisher": "ScienceAlert",
+      "timestamp": "1691035372000",
+      "newsUrl": "https://www.sciencealert.com/exposure-to-certain-fragrances-during-sleep-dramatically-boosts-cognitive-function",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/6hH3uax-ChuVAtz4L_9AOt0wq1wLKyXjFLT-cizGF_Ay85YxORWagdLHCJI-986PZT9ORiGw9jW25nOQ4w2dCkyh-_5zHkjC69keBp1ofEqJQi1KXhtn_VuFUUk",
+        "original": "https://www.sciencealert.com/images/2023/08/WomanRelaxesOnBed.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Calcium Uptake: New Discovery Could Slow Aging and Prevent Age-Related Diseases",
+      "snippet": "University of Virginia School of Medicine researchers have discovered a key driver of chronic inflammation that accelerates aging. That finding could let us ...",
+      "publisher": "SciTechDaily",
+      "timestamp": "1691051342000",
+      "newsUrl": "https://scitechdaily.com/calcium-uptake-new-discovery-could-slow-aging-and-prevent-age-related-diseases/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/m1cAzl8s06LcJa-FXdou8ZxHyEReFCfrpNkHlUTx_QrjbqegWA2qqZNTTgSU0mDIAL9hfDljq_8LNY-mMBvD47XjtQUZJGA6uHKzqxLeeTi0xdUEjMIEoy3AweX2yw",
+        "original": "https://scitechdaily.com/images/Anti-Aging-Rejuvenation-Concept.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Making COPD a public health priority starts here: understanding the condition",
+      "snippet": "A recent poll* of 14890 members of the public in 14 countries underscores the need for greater awareness and prioritization of evidence-based COPD care.",
+      "publisher": "POLITICO Europe",
+      "timestamp": "1691035200000",
+      "newsUrl": "https://www.politico.eu/sponsored-content/making-copd-a-public-health-priority-starts-here-understanding-the-condition/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/2Pt-Kg4PqYP5CVFzjyEXE-Jfr2-jcsD6fW9bWtCG6t_p8TqOqHpFHLeSX77dhzcnPwagguxJjLBJrG3g_1_EqEKqEP_3gYs7CXojDevsTv5F0D2Ojz4ceYDj670i0TjldLG3_a__Xtw2_YbT1dwz2Maa6W9RuufLe2oDDpykaOPvvKjGrz9vB2ffF58ulnBUEygancLgcfA07xCFScHnovERw9Y2vYNaanwSqFuPJxtZcIafmceZemhTUwbUg3gyRXKM-BrbxOs4cs_e_kZlv1HDmqBji9oO",
+        "original": "https://www.politico.eu/cdn-cgi/image/width=1200,height=675,fit=crop,quality=80,onerror=redirect,format=auto/wp-content/uploads/2023/07/24/AZ_COPD_SponsoredArticle_Image_cropped-scaled.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Health officials warn Valley Fever is on the rise in California",
+      "snippet": "August is Valley Fever Awareness Month and public health officials are concerned about its spread in California.",
+      "publisher": "KSBY News",
+      "timestamp": "1691026648000",
+      "newsUrl": "https://www.ksby.com/news/local-news/health-officials-warn-valley-fever-is-on-the-rise-in-california",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/t0Eo7eW2XxYSvZKf6v41mFiFvaRILBs2SW40Y2s4HTZlmvyU6UfRbzbvaCtO7jKqL0FpSeinWslxs3P_lkNYkQdXj2Fx7FhKb_UspeJuIb_9GgKrTmYZhtctQ8P60skPrRSOAOp8wPj5KnMJALNsVYmEjWtDmQSpXSCmQ7LxMjoUgO6oGaPnlFGRa6dYdPk1ShhaNRCN0PIo7GXnt6XMgsM0NdIxoz2hj8OUe9PrlNAFUgnFi-s5rIsQrZAcePgloj5NOiCqn3Tf_nZLD3sg6_KJdUKG9pUbk7pAjeC5sdIh3WFVdnuwzEdF_YurtHWGSOa9k5GULb76JDvuILtp7nnYvPlNHMET_eU210451fxuik3lJf-b-thpyP-VC-YDaBEnkx7kIUgcL7tIPGQVGECq9OaeU7KTSg",
+        "original": "https://ewscripps.brightspotcdn.com/dims4/default/44fff37/2147483647/strip/true/crop/1920x1080+0+0/resize/1280x720!/quality/90/?url=http%3A%2F%2Fewscripps-brightspot.s3.amazonaws.com%2F99%2Fb0%2F453909944efa9a460471237260d8%2F10p-fr-pkg-valley-fever-2-8-19.mxf.00_00_12_27.Still001.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "ProMED, early warning system on disease outbreaks, in peril - STAT",
+      "snippet": "Moderators of the program that warned the world about SARS and Covid-19 are protesting changes to the service they have provided for 30 years.",
+      "publisher": "STAT",
+      "timestamp": "1691102783000",
+      "newsUrl": "https://www.statnews.com/2023/08/03/promed-early-warning-system-on-disease-outbreaks-appears-near-collapse/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/PFrS3BebccVtvfjsJf45DoImMTXXbvIDB7QMbpnqSvN3wn65V0xZbomXu0fuJbpGGEcI4hz2CcfKUiCNwOeqcekyvqAz_1GtG4y-ve_kMqIiQ-SaengOT292Jk2JmFDP1xr3iEwQp_I9nhkhuk6NNKVmTYhxqFAbOPYenBD8",
+        "original": "https://www.statnews.com/wp-content/uploads/2023/08/Screenshot-2023-08-03-at-1.36.23-PM-645x645.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "New neuroimaging approach could improve diagnosis of schizophrenia",
+      "snippet": "New research led by scientists working with Georgia State University's TReNDS Center has identified age-related changes in brain patterns associated with ...",
+      "publisher": "Medical Xpress",
+      "timestamp": "1690996555000",
+      "newsUrl": "https://medicalxpress.com/news/2023-08-neuroimaging-approach-diagnosis-schizophrenia.html",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/i8tL402l0a0IGd8NI1RKWPpfff7MPj-2AUANmurwZwg357mg5CpcKRnsqgb93Swqb96jYL2N0g1-9veYYcJQjOPtcKC_Ht5_5gdwA1McznSe_2mT8_UaiIihRkkser8S",
+        "original": "https://scx2.b-cdn.net/gfx/news/hires/2023/new-neuroimaging-appro.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "'Significant increase' in COVID-19 levels in Madison wastewater reported following lowest levels of year",
+      "snippet": "MADISON, Wis. -- Data from the Wisconsin Department of Health Services show a significant increase in COVID-19 levels in wastewater in Madison after ...",
+      "publisher": "Channel3000.com - WISC-TV3",
+      "timestamp": "1691007300000",
+      "newsUrl": "https://www.channel3000.com/news/significant-increase-in-covid-19-levels-in-madison-wastewater-reported-following-lowest-levels-of-year/article_a6f70ae2-3167-11ee-9aa4-7328b9026f07.html",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/hr0QTD10HCZBfac8eLqQGFLeg1uGhvM6T1ViwWf5_SddJ3XoskFZ4VQg_BnQ0j0uGurF56O7UkdlzvWeIPNAYaEuVLZKjqYLlB-N7H9IFvG3xUMS4ZAap6Ar8Ml2XXYcjHpezJJFSJJGnj8eZquDyPXldqpYjabp__qabUrDrafGDHjn-aGcHOFV9a8tm40MmZPTLJKeKhtkwfimy9CfKodEymAa_dOKML8XG6Gd2jJscmgnBEgjIsw5lWcwVEXrYN1griYLBoQpjJ1Q75sVAaJbEzlLYXUstdn2dTR2ow-GsTV8Kuv6hai95a96fcuQSdxnJLnFOE602Ck",
+        "original": "https://bloximages.newyork1.vip.townnews.com/channel3000.com/content/tncms/assets/v3/editorial/a/6f/a6f70ae2-3167-11ee-9aa4-7328b9026f07/64cad5c844378.preview.png?crop=785%2C412%2C0%2C12&resize=785%2C412&order=crop%2Cresize"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Doctors have long considered the thymus expendable. But could removing it be fatal?",
+      "snippet": "The thymus, a butterfly-shaped organ that sits between our collarbones, has never seemed like a particularly useful appendage—at least in adults.",
+      "publisher": "Science",
+      "timestamp": "1691010292000",
+      "newsUrl": "https://www.science.org/content/article/doctors-have-long-considered-thymus-expendable-could-removing-it-be-fatal",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/AC6kcWgNEUG1fqeCgtxxslA3h_ZDoJQGMj4Pk-wTU6XC85GpnKUSi368f7hoJpRv2keo_1TyKc36CLgzjicaqgMQhtLWla0T7kV1bp2quQ4a2-_x5m9berYyeV31EvPt-ak3yOUbOzNgWuItmfHk",
+        "original": "https://www.science.org/do/10.1126/science.adk1053/abs/_20230802_on_thymus_gland.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Extended Antidepressant Therapy Curbs Relapses in Bipolar Disorder",
+      "snippet": "Researchers lead a global clinical trial suggesting that long-term use of modern antidepressants could reduce depressive relapses in patients with bipolar ...",
+      "publisher": "Neuroscience News",
+      "timestamp": "1691090992000",
+      "newsUrl": "https://neurosciencenews.com/bipolar-antidepressants-23747/",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/e8YB7O24LPSE6D5hLlsR6RiNHt-ZHoRhIHG44G1B0bP7koMktSOjZahilIarbaAdLkevHjG9Ol57hTzO0qAEA53GZHtwSzmkg8EtadFUPYAJf8IcISVuXmKC2uMK7C8pkcwyoEoH-S87zztcSg",
+        "original": "https://neurosciencenews.com/files/2023/08/bipolar-antidepressants-neurosience.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Mind Over Paralysis: AI Helps Quadriplegic Man Move and Feel Again",
+      "snippet": "In an astounding medical first, researchers have used AI-powered brain implants to restore movement and sensation for a man who was paralyzed from the chest ...",
+      "publisher": "Decrypt",
+      "timestamp": "1691021616000",
+      "newsUrl": "https://decrypt.co/151068/ai-brain-implant-paralyzed-quadriplegic-move-feel-touch",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/4tF6suVZlYqHnPlanvQBZ6L9gTMpC3k0JmwbdojHi0EUty3TSlU7ZufOlauXrmO61yNarCJfpnQh1jpLLXpjErElDn0mHge50ddItrEojuu3eyKFKgQ0AArCzBct1ii_dblv1Ftedf2Oh18im_HJHemIkwzJV_WLIkf1",
+        "original": "https://cdn.decrypt.co/resize/1024/height/512/wp-content/uploads/2023/08/maxresdefault-gID_7.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "5 Top Fitness Tips to Prevent Muscle Loss for Men in Their 60s",
+      "snippet": "Losing lean muscle as you age—also known as sarcopenia—is a common concern many of us stress about. After you hit 30, you can lose anywhere from 3% to 5% of ...",
+      "publisher": "Eat This, Not That",
+      "timestamp": "1691001028000",
+      "newsUrl": "https://www.eatthis.com/fitness-tips-for-men-prevent-muscle-loss-in-their-60s/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/JOz3hqtPoQS61OcuFd1QlYYAJEGrv1yxQHQymZ1YozksnRWySn3LkqzNFx26x-rRdNC4S5-4cTkz3b4i_mN0QOMv46e5OCCIsxmh0hXrbgcK4mZ_w69mBJyebtk9aSOc3z0m6e4RQX2hGh4NTdeMPBKzDPd99DFTSgo1yksvQ_nkCA",
+        "original": "https://www.eatthis.com/wp-content/uploads/sites/4/2023/08/mature-man-trx-straps.jpg?quality=82&strip=1"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Type 2 diabetes: Kombucha may lower blood glucose",
+      "snippet": "A recent study suggests that people with type 2 diabetes who drink kombucha, a fermented drink, may have lower fast blood glucose levels than those who do ...",
+      "publisher": "Medical News Today",
+      "timestamp": "1691058292000",
+      "newsUrl": "https://www.medicalnewstoday.com/articles/kombucha-may-help-control-blood-sugar-in-type-2-diabetes",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/lx921yjY7mbkGTVVcRUKlbgGJfdQikR27IwgCqxBZdmnntb81XTv1Cq9eu7oPCwOKRSupEjlpTDE4u4eUJRBEJcbbEwpo-75mSabDsgKqfktd3PD33-5-5q-CmLXBq6_61mcckSe9Km3lLvInU7uwx2-StDYbxGtY7Eml2rJhXWtJTC-0tvpWQQQrH3o-3TdRgqrDL6nd0Nt0jpYlBmZI9F8AvqnDhicyNKX",
+        "original": "https://i0.wp.com/post.medicalnewstoday.com/wp-content/uploads/sites/3/2023/08/kombucha-drink-shadow-1296x728-header-1024x575.jpg?w=1155&h=1528"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "This Anti-Inflammatory Lemony Salmon & Orzo Casserole Is a Satisfying Dinner",
+      "snippet": "This lemony salmon and orzo casserole is a one-dish dinner that's packed with omega-3 fatty acids—a polyunsaturated fat in salmon that can help tame ...",
+      "publisher": "EatingWell",
+      "timestamp": "1691150400000",
+      "newsUrl": "https://www.eatingwell.com/recipe/8062777/lemony-salmon-orzo-casserole/",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/YTa51nESVckWTaomqU1P6MC7twnJz8VmXRzGPmEb7Xi9S-eipOZwuyeY4ZrRPdQIDPZXtelWwyQUKCVDXp-J7QrHzzDepkCLFyZxAvR5FXfb-WV2eTnpIE3rFwIYb_DKtzasGpUvDAwVYNr1s20VEL3LYpqiSD6Z3F-PUJOHmRyrktKhgf_SlHF2XjQiK1A4OrWMCb3Y6DAyfvSTxme0KzjSYQb7c4B9fypoavklBexfCapp1TDHtduSA0UajO_nrv6ab742yKptPKUaKUX4HLpIUkNQMaFEFFS7NncUXuRj7CmOX7pKDNMSOA",
+        "original": "https://www.eatingwell.com/thmb/bPJg5BTb9DcJ-aZ7bbjuBU-BETA=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Salmon-Orzo-Casserole-with-Lemon-Dill-1x1-5055-2000-6e697a6491334d4388df2381ff2702ce.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Girls 'started puberty EARLIER during Covid' as scientists blame unhealthier lifestyles in pandemic lockdowns",
+      "snippet": "A study looked at 133 girls in Italy referred to a specialist paediatric unit because their chest had started developing before the age of eight.",
+      "publisher": "Daily Mail",
+      "timestamp": "1691070401000",
+      "newsUrl": "https://www.dailymail.co.uk/health/article-12369507/Girls-started-puberty-EARLIER-Covid-scientists-blame-unhealthier-lifestyles-pandemic-lockdowns.html",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/lLCjBmwbuqP9cd6n76FmuvBFU4_UXXpdftFoJ7TvrEVM3_CHvzayNmGaWwC814Fl1IVNDWpoiDnds2ZMmPZhV9XsrE1n51EnlssOt3HZZGYbrneHOEoTvh7KC_O4PfWoUvCF0x3voyKE52aEQg",
+        "original": "https://i.dailymail.co.uk/1s/2023/08/03/17/73931525-0-image-a-14_1691079658117.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Veterinarians warning of 'dog flu' in Hawaii | Local | kitv.com",
+      "snippet": "A warning from veterinarians: for the very first time, cases of canine influenza, or the \"dog flu\", have been detected in Hawaii.",
+      "publisher": "KITV Honolulu",
+      "timestamp": "1691116800000",
+      "newsUrl": "https://www.kitv.com/news/local/veterinarians-warning-of-dog-flu-in-hawaii/article_a77f7150-3295-11ee-8cad-4b9921b6f932.html",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/12OgMX_cRibw0Y0wgOOrUsfoLVdtVKhqMuR4N9JqP-l0hB7PCwjd6ad01vrE6fRW0F8es8QQfBXcs_lDppsbiUfaiPVJP8GydmxzGwEaSIM7G5gAPU5o3HqwN-ChHd4eeA6HH4JZyHcYynyePi5ThhnAHb-5HFWmzvCh4GX_nNDXyUAgfAkBtmnnIFJx8RM0DAgMvAvvuyOpusn3qZHzvNZs_VQzUov79zF7DBMw3hTrY6LrAQ",
+        "original": "https://bloximages.newyork1.vip.townnews.com/kitv.com/content/tncms/assets/v3/editorial/4/12/4126f94e-3b6f-5cd9-ad5c-1039226e3ff4/64cc663ade6f2.image.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "The #1 Breakfast for Gut Health, Recommended by Gut Experts",
+      "snippet": "Over 60 million Americans have a digestive disease. Learn the best gut health-boosting nutrients to include in your breakfast, according to experts.",
+      "publisher": "EatingWell",
+      "timestamp": "1691101060000",
+      "newsUrl": "https://www.eatingwell.com/article/8062398/best-breakfast-for-gut-health/",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/xc3kn4ng_4z9Niy4WpmYt1MJivbk6mAEoeoDQadzn3nCAMLT9yNhH5pQ0pq5ePJX0tRrc4c9c8dJWdxMioVhWTTFGCgLQ1zml0AtfqfMFYqR36sF30kn2g9xWkU_vlKTzk_En_RsZDhvjCAVjUJNkqTrBxb12S7JFPU5npJ5-qm68Erc2i5-DTqGDHm_xHfh6WVnJVhRRsnR8AU0ZifMnNDHEEv9PP0clBuYI59EgAyjpIkPf4Wgsvr-N1tfLZhihh8J",
+        "original": "https://cf-images.us-east-1.prod.boltdns.net/v1/static/5118192885001/baf82a97-ce9c-4e32-88d8-09cb7ee6f12d/305a57f2-89c0-481f-8e6c-342e2af9bb8a/1280x720/match/image.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "COVID-19 cases rising in San Mateo and Santa Clara counties",
+      "snippet": "A new swell in COVID-19 cases is happening along the Peninsula, according to testing of wastewater in Santa Clara and San Mateo counties.",
+      "publisher": "The Almanac Online",
+      "timestamp": "1691080564000",
+      "newsUrl": "https://almanacnews.com/news/2023/08/03/covid-19-cases-rising-in-san-mateo-and-santa-clara-counties",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/jFVuLvjL4x1zKOv6IDlLu9J9jxROh2nrtkRj68WAxhK7DMkPltmAFphbm32I67C_VUOwYLBpXRq0Bx9tJI8tDt8qjbGPFtMJyBLV1-WeKIZRfMr5v5FThC9F",
+        "original": "https://almanacnews.com/news/photos/2023/august/3/65027_col.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Brunswick town councilor fends off rabid groundhog attack in backyard",
+      "snippet": "BRUNSWICK (WGME) -- A 75-year-old Brunswick town councilor was lying on the ground, working on a tractor in his backyard, when he spotted something in the ...",
+      "publisher": "WGME",
+      "timestamp": "1691101101000",
+      "newsUrl": "https://wgme.com/news/local/brunswick-town-councilor-attacked-groundhog-rabies-midcoast-maine",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/jFPeNGQtZIuXzeyRySVSZ0UJNAjKSO89hQF_3lbsmzAE82aETK8GTtsFAtETmCsILJFcXoTBFTVPfylP-V9d-x9XrTaSEEgsXT-_cFRnZpxSOu0J34lD1qQPtEbi9Xm4P0IClhTph5HyEviywNzjzhte3YXVBEPIhBz5-CvbmXAFDvA3haAFaWpm5XNFH7zJqVq36vUnC8RNhFbXnG1UM68sovAYl62141DDUft8",
+        "original": "https://wgme.com/resources/media2/16x9/full/1015/center/80/77312e4e-ef95-4f89-8eb7-474d0d6e0b23-large16x9_PRABIDGROUNDHOG.transfer_frame_1839.jpeg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "More adults than ever have been seeking ADHD medications – an ADHD expert explains what could be driving the trend",
+      "snippet": "The COVID-19 pandemic may have played a considerable role in the uptick of adults being treated for ADHD. But more data is needed to determine whether the ...",
+      "publisher": "The Conversation",
+      "timestamp": "1691152220000",
+      "newsUrl": "https://theconversation.com/more-adults-than-ever-have-been-seeking-adhd-medications-an-adhd-expert-explains-what-could-be-driving-the-trend-206052",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/EnaWCkNIVKtBMkU8LnwGDfpD0G9xhqjaddTf9EIOadeXUWZyUAZT5X0uI2DkUQkEvBtlIljz2AAHMwNL00zzkVLjXJfKrsT0XpYeDZYGobjLKvig7RHxS-H-QjRAjfwJGIjBjE52eH0pvh0xg-wAXF7ByCeX91H1I1kfwhfJ3uFaBgSii8K92xD70ZqdIn9I2F3bdiMDnOi0JGW66c7TDfoGh52-hdRexeteEsncFHudYgbvxyywce5wXrjeFQe13ms",
+        "original": "https://images.theconversation.com/files/534656/original/file-20230628-23-d348x8.jpg?ixlib=rb-1.1.0&rect=16%2C328%2C5583%2C2787&q=45&auto=format&w=1356&h=668&fit=crop"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "New study highlights sleep and adaptive emotion regulation as key factors in mental health resilience",
+      "snippet": "High-quality sleep and adaptive cognitive emotion regulation strategies can bolster resilience against depression and anxiety in the face of chronic stress, ...",
+      "publisher": "PsyPost",
+      "timestamp": "1691075247000",
+      "newsUrl": "https://www.psypost.org/2023/08/new-study-highlights-sleep-and-adaptive-emotion-regulation-as-key-factors-in-mental-health-resilience-167427",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/XNK9TEGAG3QL7ewapGgNtQef0pAmz-8TPYCWS44kEAhKtBHhG2JU1_-tVNWp7GzqXG0t35gt6edXa1dxpcNH5EMhV2VKToUkC9B9O5MQz0E5yVnosiRfG0jc-Qu3x1hS",
+        "original": "https://www.psypost.org/wp-content/uploads/2023/08/sleeping-woman.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Podiatrists Share What They'd Never Do (And Wish You Wouldn't Either)",
+      "snippet": "Experts weigh in on the behaviors to avoid to keep your feet and ankles healthy and functioning.",
+      "publisher": "HuffPost",
+      "timestamp": "1691142306000",
+      "newsUrl": "https://www.huffpost.com/entry/podiatrists-foot-care-mistakes-avoid_l_64c07821e4b0dcb4cabaa750",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/thJ1-qXebaNYUKyZYknR0TgU3vvd1vHwG0M2MIO7eXrOWHFLC4xDbxQ2y5c6q2hq0s2EuUhKd9tiaEpXKm-QEbyzlRDELE1Xdm4Mf-2UV7XHt3rhYjPPt-2AOL_7hqR6oclG2RXLqqx8LI4",
+        "original": "https://img.huffingtonpost.com/asset/64cbfc7f2200003200ec71e1.jpeg?ops=1778_1000"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "The Unexpected Beverage That’s Causing You Dehydration And A Bigger Waistline",
+      "snippet": "In our quest for healthier choices, we often pay close attention to the foods we consume, but how much do we consider the impact of our beverage choices?",
+      "publisher": "Yahoo Life",
+      "timestamp": "1691015438000",
+      "newsUrl": "https://www.yahoo.com/lifestyle/unexpected-beverage-causing-dehydration-bigger-223038928.html",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/RWggH5_gIzJ7yjDTsK00mKhL111VIESspwa9LmztSLtIb7MpXv885CjX3uTieHIzhHJBOAEyCa3eRZrGen6yokToJcYd53AWoSUnvXL9MrItBDD9-WFVlbZi3nNjLIHfSKefARh9H0Fj8HSs-bFnwS-TVmjuTuJ7DgGGNwWD1BnirEm981Q-hxxZGvuz9viEuOpD8JmB1W67ym4vOMGYMqd85ihWNNRkfS2-dpjxwhZm_dAFZ7iChn8pIxTUIgz99XW0Orxgcw8",
+        "original": "https://s.yimg.com/ny/api/res/1.2/UJ.qP.otylyhOL0wfcCEpA--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTY0MA--/https://media.zenfs.com/en/shefinds_255/a07339e58707899e5eecceb74370d90e"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "20-year-long U study shows link between artificial sweeteners, increased body fat",
+      "snippet": "A decades-long research study from the University of Minnesota has linked the long-term consumption of artificial sweeteners to increased body fat.",
+      "publisher": "CBS News",
+      "timestamp": "1691095800000",
+      "newsUrl": "https://www.cbsnews.com/minnesota/news/artificial-sweeteners-body-fat-study-university-of-minnesota/",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/0ZfJKZ47DJp8Iuo7tzb_IjUpkyHg3B39RUEQnGPZGP7YXyOdc3AC061UzqmbHfiZkrvt0ruAapKKgHD62Ul-RKD5aGTfASU1KcumXWspZKWLTlqalQY9Sl67r4DzB3FsYeT5h_EMKMm8M6hDT4EvFTnnboRaod6Wx3IRzb26Mqe9NjSckuFoI8pM7FPP4vHf5Spy-I8GbB62DDnIvYWCV6tC4oE-zRQqycXuYgVp1451lo528gT1t4Gik35AGpOyz-UI0G1SPaVy3IR9Jj6tCBR4rdNXgfTr3c3h9ZcFKz-zg6pEsKFjEbSw77jMjw",
+        "original": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/07/14/68bb275e-1d31-4ca7-8fae-cdbe55960c47/thumbnail/1200x630/4150365d7b5e446cba0e4d781062eebd/10p-pkg-gq-aspartame-wcco3pad.jpg?v=523df724471d66f84598615fede8d33f"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "First was COVID. Now China is facing an mpox crisis as cases spike",
+      "snippet": "China is seeing cases mpox spike months after the WHO declared the public health emergency to be over. Here's what that means.",
+      "publisher": "ABC News",
+      "timestamp": "1691008525000",
+      "newsUrl": "https://abcnews.go.com/Health/mpox-cases-rising-china-infections-spiking-50-3/story?id=101895763",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/S34Yq1MXnyFpaBpi3-ilsxGwxcvdzxPEcwr_2nX5OopfH-SJ2FOeXzenQdCMDWga3OvR1UiUDK2_q3PAs7qrn1yKEv3ALNDGvzdMtSktTc1Z1ThIEqw0atQbFakOJ21tH3jha6T53A162p8fb1D9HF8CE6S-FjDNzi1DLO0-",
+        "original": "https://s.abcnews.com/images/Health/mpox-virus-lab-gty-ps-230802_1690985543734_hpMain_16x9_1600.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Rising threat of lone star tick bites in New York sparks urgent call for summer safety measures",
+      "snippet": "WRGB CBS 6 provides local news, weather forecasts, traffic updates, notices of events and items of interest in the community, sports and entertainment ...",
+      "publisher": "WRGB",
+      "timestamp": "1691057838000",
+      "newsUrl": "https://cbs6albany.com/news/local/rising-threat-of-lone-star-tick-bites-in-new-york-sparks-urgent-call-for-summer-safety-measures",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/tePCJ-BpHqzBZZknYx-OKxaMKAn45WNQtmrY0ezrLxlAjRfyv-n6tQUQL14G5W352Vts_4eSWmzEMFt0w71zwZoCu94gTi7-6e4xiMIKvD0kqHzXBIFqrkfMWZRRwXpbQQAXoa9jqJ0HUjCdxfBLWk3r98ILphiKsk3adckrRXhun12CpBd-Zz-VXlDQjd1oIoQdu05aq0UkIw",
+        "original": "https://cbs6albany.com/resources/media2/16x9/full/1015/center/80/03ca6382-6f92-4fc3-a7d5-ecd450247222-large16x9_thumb_30110.png"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Vegan raw food influencer 'dies of starvation and exhaustion'",
+      "snippet": "Influencer's mother attributes daughter's death to 'cholera-like infection'",
+      "publisher": "The Independent",
+      "timestamp": "1691122091000",
+      "newsUrl": "https://www.independent.co.uk/asia/southeast-asia/zhanna-samsonova-vegan-influencer-dies-diet-b2387450.html",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/zRnANd-7Ra6FbpylmG4WWp-Q5h719ychowQTGyyXBQNt0NVdWKQsCXEdtYO-KxUZzUHlxj_h28tnT_89-aeLF1swcWY3Sw6bjvwJ70YgAdT-bGuaPBV3fpXRQae0l18KA3Rpuvle-gTXX1af7E3VAGFtF3fyzFC9u411Ty__gFWInx3k9bEi1X65bOzpSfGRIFT_l9YZjGH8",
+        "original": "https://static.independent.co.uk/2023/08/02/08/Screenshot%202023-08-02%20at%201.26.24%20PM.png?width=1200&height=1200&fit=crop"
+      },
+      "hasSubnews": true,
+      "subnews": [
+        {
+          "title": "Fact Check: Did Vegan Influencer Die From 'Malnutrition'?",
+          "snippet": "Zhanna Samsonova (also known as Zhanna D'Art) who promoted raw veganism died aged 39.",
+          "publisher": "Newsweek",
+          "timestamp": "1691165345000",
+          "newsUrl": "https://www.newsweek.com/fact-check-raw-vegan-influencer-death-zhanna-samsonova-dart-1817547",
+          "images": {
+            "thumbnail": "https://lh4.googleusercontent.com/proxy/2cymn1lAlXyRPMV_wpNbuLEdl6pbOnZs9FKRByy9bw-ea8vUfVIAY9mqbgqesrc7KG2LBTEQ63UWMdWeiZEdVriiCKweSza3PVhWwmiyu4s2QfmI7H6fSzakfGS3lQOETr6wbyUISm6KK6AbnD5i-5GiN9NnNyMqyLt-jt7W_8ApVUMslXww36pnO222budaUmBaaxRnxA",
+            "original": "https://d.newsweek.com/en/full/2265814/close-shot-girl-eating-salad.jpg?w=1600&h=900&q=88&f=f6e525aa7b3c4c81554fa5c60f55fac2"
+          }
+        },
+        {
+          "title": "I went on a raw, vegan diet to ‘cure’ my chronic migraines – I ended up in the ER, I feel so much better fo...",
+          "snippet": "WHEN I read about the tragic death of Zhanna Samsonova, the vegan raw food influencer who is thought to have starved to death on a strict diet of vari.",
+          "publisher": "The US Sun",
+          "timestamp": "1691068295000",
+          "newsUrl": "https://www.the-sun.com/lifestyle/8756606/raw-vegan-diet-emergency-room/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/jVemXJ35Axq-50oniZiTenNc4IlrgPYekq6ok1mzYlpbyIa6kmeTq11H62JzRxloy7YrWVdA04VujJWakLE7Mm_wZcn6FnYoeibjesSka7_7n5MBzsy2oYgbI9aBrsTc5ZaqJGRqyf5LLvsrHA9tWFZlCKxiwDuMNj9-Q0FoFl4CRiLt0vKr9BjWD-oRu4rb8TbjFj1InopYhrDKtsDop6M",
+            "original": "https://www.the-sun.com/wp-content/uploads/sites/6/2023/08/SC-Vegan-Diet-Off-Plat-copy.jpg?strip=all&quality=100&w=1920&h=1080&crop=1"
+          }
+        },
+        {
+          "title": "Influencer Who Died Of Starvation Did Not Have Water In 6 years; Know The Extreme Effects Of Dehydration",
+          "snippet": "Social media influencer and vegan food promoter Zhanna Samsonova, who died last month allegedly of starvation, had not had water for the last six years, ...",
+          "publisher": "Times Now",
+          "timestamp": "1691028712000",
+          "newsUrl": "https://www.timesnownews.com/health/influencer-who-died-of-starvation-did-not-have-water-in-6-years-know-the-extreme-effects-of-dehydration-article-102369399",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/PmxD4Sn9sV7sK6LhHYXDn7g1Mv4DibEQDd7HBhB-mLYZ1sm1Moo9Y0ctRXDUZar1FyaS2oVmzCO__CJHwVg_hVmvnnUphkkyT7V4e67-6sDrCVv7d0ztBdu9j0WS-GWEFJAN0finVq5yAVGd175_SYyVq75h_Nk06SQfA9T6jajxbPC1-gWmsnWmIO2us_Q",
+            "original": "https://static.tnn.in/thumb/msid-102369399,updatedat-1691028712171,width-1280,height-720,resizemode-75/102369399.jpg"
+          }
+        },
+        {
+          "title": "Influencer Who Only Ate Raw Fruits and Vegetables Dies",
+          "snippet": "A vegan influencer seems to have died of starvation-related causes after eating only raw fruits and vegetables for multiple years.",
+          "publisher": "Futurism",
+          "timestamp": "1691007858000",
+          "newsUrl": "https://futurism.com/raw-vegan-influencer-dies",
+          "images": {
+            "thumbnail": "https://lh6.googleusercontent.com/proxy/8bVKyI-jmQHIAc6CxH368YZkbh25TSDXDqB2QVHHGAO2zeQBHblUuK_sTReG8HiVWFmlsmzuN8zhLLMo-CU-TW02y8jX0tmVRnGQWMt9Oii6hp24MDxC5AaZyH7xk5E",
+            "original": "https://wp-assets.futurism.com/2023/08/raw-vegan-influencer-dies.jpg"
+          }
+        },
+        {
+          "title": "Vegan influencer Zhanna Samsonova boasted about weighing ‘same as 18 coconuts’ at just 41kg before ‘dying o...",
+          "snippet": "VEGAN influencer Zhanna Samsonova boasted that she weighed the same as \"18 coconuts\" before her tragic death.The 39-year-old known as Zhanna D'Art, wh.",
+          "publisher": "The US Sun",
+          "timestamp": "1691071995000",
+          "newsUrl": "https://www.the-sun.com/news/8757925/vegan-influencer-zhanna-samsonova-boasted-weighing-coconuts/",
+          "images": {
+            "thumbnail": "https://lh5.googleusercontent.com/proxy/uzq4AJONeR_PdoTtGXjxo0u1Tj4h1vzm5xvoFItQ7PMZnOD7mJQ6_OdELnx44cpvMZtwulAyqrt5mcdeUWRYQJGtkN0WT7WxKmoFIIksq1Hf3gvIm4O6QVHHR8E0RoymAW1evm-CEGupQtcPspu-uPdvRpKsTSVPFnhb8zvpQuXXvRO8pKw3M1oWWIRcVvh1AAFJ0i3SIzQdIq_wosN_WN4vnwNdcQM4iokXRtz6ibgvbC1Opu6a8J0",
+            "original": "https://www.the-sun.com/wp-content/uploads/sites/6/2023/08/newspress-collage-23327967-1691071952796.jpg?1691057802&strip=all&quality=100&w=1920&h=1080&crop=1"
+          }
+        }
+      ]
+    },
+    {
+      "title": "'Sentinel chickens' send warning signs for West Nile virus across the West, experts say",
+      "snippet": "LOS ANGELES — A historically wet winter and, now, hotter summer are leading to \"pretty big\" warning signs for West Nile virus in the Western U.S., ...",
+      "publisher": "KSL.com",
+      "timestamp": "1691158146000",
+      "newsUrl": "https://www.ksl.com/article/50701357/warning-signs-for-west-nile-virus-are-starting-to-flash-across-the-west-experts-say",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/qRvBwqFu5IG2VqwHBjuU76EnM6avwAY9oyuNPbjXKc2GqEqLssd0xDOi-UUY2gn_0Egeyx2Z07pEBqQtPVHFB3_xcFu_9J5m3QLwwvE5tsKCCVdW_k8rNQoEJMw_kSQ",
+        "original": "https://img.ksl.com/slc/2941/294156/29415614.jpg?filter=ksl/fullsize"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Review | 'The Body Keeps the Score' offers uncertain science in the name of self-help. It's not alone.",
+      "snippet": "Some best-selling books express great confidence in theories of the brain that are still in their infancy.",
+      "publisher": "The Washington Post",
+      "timestamp": "1691002740000",
+      "newsUrl": "https://www.washingtonpost.com/books/2023/08/02/body-keeps-score-grieving-brain-bessel-van-der-kolk-neuroscience-self-help/",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/QXKZR72ZT6WAg2Xwo1IZlxcHL_ovNhxn49AUlv2rjAl0HI8jEkDCRUbyBzfDoIWWs9_0g-pjSAv5ABigatuHpICzd_443wCDaM-dNksaOdTRLyqxHXCV7KnXgnPQtGH2S7okiGocwh7Su4er99ISgh6YX0nMuvH1r4z785KrHk1iwX3bBJxZ2OgBrn1-OeIZd4Forg5DgkShoPDw1uFe9lK6PRhm7JBX1YuF",
+        "original": "https://www.washingtonpost.com/resizer/XCceAHpY1RfywsNFVjkdS779lD8=/arc-anglerfish-washpost-prod-washpost/public/652RCKIBQETHNGJF2AAQFAG7LY.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "The Reason Cancer Evades Your Immune System So Damn Well",
+      "snippet": "Cancer is hell. Part of the reason it wreaks havoc on your body so effectively is because it can evade and circumvent the immune system remarkably well.",
+      "publisher": "The Daily Beast",
+      "timestamp": "1691077313000",
+      "newsUrl": "https://www.thedailybeast.com/the-reason-cancer-evades-your-immune-system-so-damn-well",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/ei4DAwBsuYFd8MXYVph4r32AftUAW2PP7lHjdIg0qF8-NRWxZOFF2LCjwljRGYEFRD-AFQQHuIgs4yBMcwsA6CUGEPgL9wGUe1X_GhhWOxT5EmU5q-u1fGin-ZioG9f1vIcKilgPV1x4wH9BWVSx_hfupkhP2kEu5v_tcAgYa1aPvkf3dnUc733593CpGc8iUgFd8IYjDnMe3nZ53BHTOg-VEj4Lo5NcBxmrr7Hd7JMEug1PiAUro7fjLd3AC-SBcimRtDuzZkY",
+        "original": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_675,w_1200,x_0,y_125/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1691077153/adusumillia-car_0_3x2_pucdsk"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Rabid bat confirmed in Summerville, local resident exposed; health department issues warning",
+      "snippet": "DORCHESTER COUNTY, S.C. (WCIV) — The South Carolina Department of Health and Environmental Control confirmed Wednesday that a rabid bat was found near Old ...",
+      "publisher": "ABC NEWS 4",
+      "timestamp": "1691015747000",
+      "newsUrl": "https://abcnews4.com/news/local/rabid-bat-confirmed-in-summerville-local-resident-exposed-health-department-issues-warning",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/vK3Sy0dt-wtGgscwFC8f_GtpEqqIJDZl-okSe0paaP9V7pxsbNwkRnYMhFnZXjKb1EpzXFJ4cYH6ZoHMKBrlESnV4QJTv5SdwP_uSBg-FqBLlKEZBsY3rEvRPLCZB1ez_spKBMrUAc9f8Di96St5nJaB89k5pUWL-U_-iKf80ERBUzkOGL4zHWX1dowT-utbxrDiK5Bug102RuO5xWViDQ",
+        "original": "https://abcnews4.com/resources/media2/16x9/full/1015/center/80/75004905-18e4-4807-9364-2737aeb70b13-large16x9_ImportedfromLakana.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "GABA Receptors Unveiled as Potential Antidepressant Targets",
+      "snippet": "A new study argues the neurotransmitter GABA and its principal receptors could play a key role in managing depressive disorders.",
+      "publisher": "Neuroscience News",
+      "timestamp": "1691091972000",
+      "newsUrl": "https://neurosciencenews.com/gaba-depression-cognition-23748/",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/epgxBR1NfX8dAcP3hQD_bWGApD6G26Jhf90do1GXV3kxmRDLboyVtVISN-HqB0nEdji3I749bR4aPKQWFtaqI88zXgDUPGtdMV2gLUJ4NvVDzkd6gB76X2m82ujgy5I1LBPaD13RgOEiSHIQWbacqA",
+        "original": "https://neurosciencenews.com/files/2023/08/gaba-depression-cognition-neurosciecne.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Weed it out: Negative impacts of cannabis use on health",
+      "snippet": "Although a little heated, cannabis use has been related to an increased risk of psychiatric diseases such as psychosis. Some marijuana users will acquire ...",
+      "publisher": "IndiaTimes",
+      "timestamp": "1691065800000",
+      "newsUrl": "https://m.timesofindia.com/life-style/health-fitness/wellness/weed-it-out-negative-impacts-of-cannabis-use-on-health/photostory/102392945.cms",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/XpEvUUtaxgN_m6-APqwk4TGTv4U5uum-QPPxBOP9c4HT90ZjvJLsIBl0P1-V_hF3Bj_PXSPfrWUvxOlbeTvL0LdLC1rXCHwXpGFUl86kQRVZdxc1nsVjz4KO1a7sCkpU6fBTNxvx0n6tp7GSsd9y_D5Gy_OTzn8SsRs",
+        "original": "https://static.toiimg.com/thumb/resizemode-4,width-1280,height-720,msid-102392957/102392957.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "KC area hospital sees more COVID patients. What to know about new variants and booster",
+      "snippet": "At least one Kansas City area hospital has seen an increase in COVID-19 patients as several new variants of the virus have been found in the metro area.",
+      "publisher": "Kansas City Star",
+      "timestamp": "1691060400000",
+      "newsUrl": "https://www.kansascity.com/news/coronavirus/article277904453.html",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/pL-9J_WKH459IXmeqLVwlT1Nt8dQzzNrZlSS6tp1e1zhOSZ7t1Y0f91gI2ZH9jVE0pTYlcuM37wviP-i2DTiRqpWtaM-AG8rAwiYutF59yoT4R_ojNIihQ-a07IUSUHd3QcE7oQczvLW1GRBm5WKUImdFNQB7Wqj1-yghnQxjXcOGONwIC-8EAlePKZUp79WKP5ogcE",
+        "original": "https://www.kansascity.com/latest-news/atcyse/picture262071147/alternates/FREE_1140/KCM_UNIVKANSASHEALTH032720TLL0324F.JPG"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Salmonella outbreak at Seattle long-term care facility under investigation, 29 cases reported",
+      "snippet": "SEATTLE — Public Health officials confirmed Wednesday that an outbreak of salmonellosis is being investigated after 29 cases were confirmed at Washington ...",
+      "publisher": "KOMO News",
+      "timestamp": "1691116080000",
+      "newsUrl": "https://komonews.com/news/local/washington-care-center-long-term-care-facility-salmonella-outbreak-king-county-fecal-oral-contaminated-food-testing-29-cases-chicken-duck-poultry-symptoms-vomiting-diarrhea",
+      "images": {
+        "thumbnail": "https://lh3.googleusercontent.com/proxy/pzNfCy3zQIBnq790k_XGKbkreQlLP0gxRc2VtcXxTdYsIZtI92aX5Dix2mNeiOR8__fHjjIG4oRrfKLB5660AXFF4qihr7kNeIVEGUnxpTtqbhKxK69vXy1N9JV6gThEb_gNUwA-8xxzZgpRP-_cBPSrpEDbcjoiolWcVioUkEmgpF5HExrOKQ1ynQ33brj3G-bXzsWXFQ",
+        "original": "https://komonews.com/resources/media2/16x9/full/1015/center/80/e0e423d4-4e6b-4b85-8b78-c59e2a813743-large16x9_salmonella.jpg"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Dear Prudence: I keep getting mixed signals from my forbidden, married crush.",
+      "snippet": "Each week in the Wednesday column, Prudence asks readers for their thoughts on a question that has her stumped. She'll post her final thoughts on the matter ...",
+      "publisher": "Slate",
+      "timestamp": "1691143200000",
+      "newsUrl": "https://slate.com/human-interest/2023/08/forbidden-crush-married-woman-dear-prudence-advice.html",
+      "images": {
+        "thumbnail": "https://lh4.googleusercontent.com/proxy/EowiIc10NXvW1b3Z63Q5KXAGbia4SVBt8fiLPtDVPJe6dcm2D_7ljGH9rRsTMZ5Uh-qc_q1PVhcA1Lt9FoWns1nXuCjEItjBRaEw7y2Psju_1Nz6F7wsUpchZlPaNVIsbuAnUOIrgmj1VA8PmaoCEeEs2BkVIP5tLSR1HRfiQ9g",
+        "original": "https://compote.slate.com/images/f95b8867-3afc-4f56-9ffd-9784a267c8c5.jpeg?crop=1560%2C1040%2Cx0%2Cy0"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "How To Get That Smell Out Of Your Workout Clothes",
+      "snippet": "Are your gym clothes smelling less than fresh, even after washing them? We've got answers.",
+      "publisher": "Yahoo Canada Finance",
+      "timestamp": "1691142305000",
+      "newsUrl": "https://ca.finance.yahoo.com/amphtml/news/smell-workout-clothes-094505996.html",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/nfMVKUMRg1VBb_sbgFWmLmJObIk9ouqW50EZRCT4EqtJOSVxZt8u_4ZiFi-zzZqq1QAC0TN9qr-euoHm4bT7fnYQDByQjWPAX8e_H8HryyrtAii0omN7kD5gqkN7igWmAt9mRgtCkIpC7O8rwyUTrs40XgYh1PGsM5hWyy51H4DapgRcZ_Ew7wZoHpajgTlumqp4cVIgIr0G9IFreSWwEuM_ZNVxHjTPmm8DsJX96i_-TaMqEZ9bvBNKAIHZL9SCFM--0S7EDV185Gw3JA",
+        "original": "https://s.yimg.com/ny/api/res/1.2/M9jPOYm99fEiOjBqK03Crg--/YXBwaWQ9aGlnaGxhbmRlcjt3PTY0MDtoPTQyOA--/https://media.zenfs.com/en/huffpost_life_308/a3dbacf49aa6e7ab944437e16ad0b855"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "Beat stress, get to sleep and find your focus: seven ways better breathing can improve your life",
+      "snippet": "We do it 20000 times a day but the way we breathe in different scenarios can have a big impact. From tongue position to finding your D-spot, experts share ...",
+      "publisher": "The Guardian",
+      "timestamp": "1691143200000",
+      "newsUrl": "https://www.theguardian.com/lifeandstyle/2023/aug/04/seven-ways-better-breathing-can-improve-your-life",
+      "images": {
+        "thumbnail": "https://lh6.googleusercontent.com/proxy/KZoMJ58VNap5qkeZEdOB_ULQ0cKmQZks5Ubjr7QLtZsr1tTq8jWNs_FigrrDQgYsu7HeLHxIrlKv6aOGA0TQAJ6bT2j0AgtYmquAJ-YKESh06_jL97LO0Qc6kFyQ-c3roDSN0KYO5TP3dbfUZFOvqhFGdy2iDOsJfLPnPWNT2YkM4IWSeo3O6oNlI9dYCIA2Rx4BulSIO7lb99BlSE3V_2BLm_Lo8bD_EU5RzG7YDkFd1rLE3MwasEhBjefvKuEYKrBI1brxv_bmk7PDCnp44p-28eaazb7ua_YQJ_E",
+        "original": "https://i.guim.co.uk/img/media/3dfe0ae343f5921f6b5d2e99f155bfba244d9c27/0_338_5634_3380/master/5634.jpg?width=1200&height=1200&quality=85&auto=format&fit=crop&s=35d389d6aa4e2d7f7b8d0f0dd223e5e5"
+      },
+      "hasSubnews": false
+    },
+    {
+      "title": "What Is Uterine Prolapse? Experts Explain How Your Uterus Can 'Fall Out'",
+      "snippet": "Childbirth isn't the only risk factor for the common condition, which affects nearly half of women ages 50 to 79.",
+      "publisher": "HuffPost",
+      "timestamp": "1691142306000",
+      "newsUrl": "https://www.huffpost.com/entry/uterine-prolapse-age-childbirth_l_64c804dfe4b024f8ebca7a28",
+      "images": {
+        "thumbnail": "https://lh5.googleusercontent.com/proxy/xeiFWvrBzjBgNi0ThB3YpxNGME55xthAZJKLQpvkToOrMvLUm5X5uo5aWHWKONVCAAod2tucmjdWKvQ66BGX5540XB56Bb3GXe2-DnYYFUGqdbW_Jw0iXwrabmp27hJQGWOeyZXhDE8V05VQeKm0GJAywh8RzPIskm0ZvQ",
+        "original": "https://img.huffingtonpost.com/asset/64c80be12400005900af5a76.jpeg?cache=njHVWd1IQR&ops=1778_1000"
+      },
+      "hasSubnews": false
+    }
+  ]
+}
