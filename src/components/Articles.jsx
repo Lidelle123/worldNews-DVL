@@ -23,8 +23,10 @@ const Articles = (props) => {
             <FlatList 
             data={props.data}
             renderItem={({item}) =>(
-                <TouchableOpacity onPress={() => handleImagePress(item.newsUrl)}>
+                <View>
+                
                     <View style={articleStyle.fstContainer}>
+                    <TouchableOpacity onPress={() => handleImagePress(item.newsUrl)}>
                         {/* image*/}
                         <View>
                             {item.images?(<Image
@@ -45,9 +47,10 @@ const Articles = (props) => {
                         <View style={articleStyle.sndContainer}>
                            
                             <Text style={articleStyle.publisher} >By: <Text style={articleStyle.publisherName}>{item.publisher}</Text></Text>
-                            <Text style={articleStyle.date}>{new Date(Number(item.timestamp)).toLocaleDateString()}</Text>
+                            <Text style={articleStyle.publisher} >Date:<Text style={articleStyle.date}>{new Date(Number(item.timestamp)).toLocaleDateString()}</Text></Text>
                            
                         </View> 
+                        </TouchableOpacity>
                         <View>
                             {item.hasSubnews && (
                             <View style={articleStyle.subNewsContainer}>
@@ -62,7 +65,8 @@ const Articles = (props) => {
                        
                     </View>
             
-                </TouchableOpacity>
+                
+                </View>
 
             )}
         />

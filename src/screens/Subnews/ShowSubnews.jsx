@@ -1,4 +1,4 @@
-import React from "react";
+import React, { useLayoutEffect } from "react";
 import { View, Text, ScrollView, TouchableOpacity, Image } from "react-native";
 import { Ionicons } from "@expo/vector-icons";
 
@@ -6,6 +6,23 @@ import ArticleDetailsStyle from "../ArticlesDetails/ArticleDetailsStyle";
 import articlesStyle from "../../components/ArticlesStyle";
 
 const ShowSubnews = ({ navigation, route }) => {
+  useLayoutEffect(() => {
+    navigation.setOptions({
+      headerTitle: () => <Text style={{ fontSize: 20 }}>Chats</Text>,
+      headerStyle: {
+        backgroundColor: "#4A55a2",
+      },
+      headerTitleStyle: {
+        color: "white", // Set text color to white
+      },
+      headerTintColor: "white", // Set back button and other icons' color to white
+    });
+ 
+
+    return () => {};
+  }, [navigation]);
+
+
   const { subnews } = route.params;
   console.log(subnews);
 

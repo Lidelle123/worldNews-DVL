@@ -43,17 +43,20 @@ const articlesStyle = StyleSheet.create({
     marginLeft: 10,
   },
   sndContainer: {
-    flexDirection: "row",
-    justifyContent: "space-between",
-    marginTop: 3,
+    display: "flex",
+    //flexDirection: "row",
+    justifyContent: "center",
+    //marginTop: 3,
     //marginLeft: 10,
-    padding: 10,
+    //padding: 10,
     //marginRight: 25,
   },
   publisher: {
+    padding:2,
     fontSize: 15,
   },
   publisherName: {
+    padding:2,
     fontWeight: "bold",
     fontSize: 15,
   },
@@ -61,6 +64,9 @@ const articlesStyle = StyleSheet.create({
     fontWeight: "bold",
     color: "blue",
     fontSize: 15,
+    paddingLeft:20,
+    start: 0,
+   
   },
   source: {
     fontWeight: "bold",
