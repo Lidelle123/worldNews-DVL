@@ -8,14 +8,16 @@ const Footer = ({ categories, activeCategory, setActiveCategory }) => {
     
   return (
     <View style={footerStyle.container}>
-      {categories.map((category) => (
+      {categories.map((category,index) => (
         <TouchableOpacity
           key={category.name}
           style={[
             footerStyle.categoryIcon,
             activeCategory === category.name && footerStyle.activeIcon,
           ]}
-          onPress={() => setActiveCategory(category.name) }
+          onPress={() => {
+            setActiveCategory(category.name, index); // Pass the category index
+          }}
         >
           <Ionicons
             name={category.icon}
