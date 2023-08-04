@@ -1,4 +1,4 @@
-import {View, Text, StyleSheet, Dimensions, StatusBar, TouchableOpacity } from 'react-native'
+import {View, Text, StyleSheet, Dimensions, TouchableOpacity } from 'react-native'
 import { Ionicons } from '@expo/vector-icons';
 
 const Header = () => {

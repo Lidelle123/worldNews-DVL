@@ -47,7 +47,7 @@ const Articles = (props) => {
                         <View style={articleStyle.sndContainer}>
                            
                             <Text style={articleStyle.publisher} >By: <Text style={articleStyle.publisherName}>{item.publisher}</Text></Text>
-                            <Text style={articleStyle.publisher} >Date:<Text style={articleStyle.date}>{new Date(Number(item.timestamp)).toLocaleDateString()}</Text></Text>
+                            <Text style={articleStyle.date}>{new Date(Number(item.timestamp)).toLocaleDateString()}</Text>
                            
                         </View> 
                         </TouchableOpacity>

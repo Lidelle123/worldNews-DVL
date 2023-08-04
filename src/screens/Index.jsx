@@ -1,6 +1,5 @@
 import { NavigationContainer } from "@react-navigation/native";
 import {createNativeStackNavigator} from '@react-navigation/native-stack';
-
 import Home from  "../screens/Home/Home.jsx";
 import React from "react";
 import ArticleDetails from "../screens/ArticlesDetails/ArticleDetails.jsx";

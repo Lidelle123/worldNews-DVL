@@ -13,9 +13,9 @@ const ShowSubnews = ({ navigation, route }) => {
         backgroundColor: "#4A55a2",
       },
       headerTitleStyle: {
-        color: "white", // Set text color to white
+        color: "white", 
       },
-      headerTintColor: "white", // Set back button and other icons' color to white
+      headerTintColor: "white", 
     });
  
 

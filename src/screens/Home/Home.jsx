@@ -1,35 +1,47 @@
-
-import { View, Text, ActivityIndicator } from "react-native";
-
-import HomeStyles from "./HomeStyle";
-import Articles from "../../components/Articles.jsx";
-import Header from "../../components/Header.jsx";
-import React, { useState } from "react";
-import {data} from "../../../backend/useFetch";
-import Footer from "../../components/Footer";
+import React, { useState } from 'react';
+import { View, ScrollView, Dimensions } from 'react-native';
+import Header from '../../components/Header.jsx';
+import Articles from '../../components/Articles.jsx';
+import Footer from '../../components/Footer';
+import {data} from '../../../backend/useFetch.js';
+import {categories} from '../../../backend/dataByCategory.js'
+import HomeStyles from './HomeStyle.js';
 
 
 const Home = () => {
-   // const { data, isLoading, error, refetch } = useFetch();
-    //const navigation = useNavigation();
-    
-    return (
-      <>
-        
-            <View style={HomeStyles.container} >
-            <Header/>
-            <Articles data={data} />
-            {/* {isLoading ? (
-                <ActivityIndicator size="large" color="blue" /> // Display ActivityIndicator while loading
-            ) : (
-                <Articles data={data} />
-            )}*/}
-            </View>
-            <View style={{ position: "absolute", bottom: 0, left: 0, right: 0 }}>
-                <Footer/>
-            </View>
-        </>
-    )
-}
-export default Home;
+  const [activeCategory, setActiveCategory] = useState('Latest');
+  const activeCategoryData = categories.find(category => category.name === activeCategory).data;
+  const windowWidth = Dimensions.get('window').width;
 
+  return (
+    <View style={HomeStyles.container}>
+      <Header />
+      <ScrollView
+        horizontal
+        pagingEnabled
+        onScroll={(event) => {
+          const offsetX = event.nativeEvent.contentOffset.x;
+          const page = Math.round(offsetX / windowWidth);
+          setActiveCategory(categories[page].name);
+        }}
+        showsHorizontalScrollIndicator={false}
+      >
+        {categories.map((category, index) => (
+          <View key={category.name} style={{ width: windowWidth }}>
+            {category.name === activeCategory && (
+              <Articles data={activeCategoryData} />
+            )}
+          </View>
+        ))}
+      </ScrollView>
+      <Footer
+        categories={categories}
+        activeCategory={activeCategory}
+        setActiveCategory={setActiveCategory}
+        
+      />
+    </View>
+  );
+};
+
+export default Home;

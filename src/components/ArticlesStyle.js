@@ -1,5 +1,5 @@
 import React from "react";
-import { StatusBar, StyleSheet, Dimensions, Platform } from "react-native";
+import { StyleSheet, Dimensions, Platform } from "react-native";
 
 const articlesStyle = StyleSheet.create({
   fstContainer: {
@@ -44,19 +44,19 @@ const articlesStyle = StyleSheet.create({
   },
   sndContainer: {
     display: "flex",
-    //flexDirection: "row",
-    justifyContent: "center",
+    flexDirection: "row",
+    justifyContent: "space-evenly",
     //marginTop: 3,
     //marginLeft: 10,
     //padding: 10,
     //marginRight: 25,
   },
   publisher: {
-    padding:2,
+    padding: 2,
     fontSize: 15,
   },
   publisherName: {
-    padding:2,
+    padding: 2,
     fontWeight: "bold",
     fontSize: 15,
   },
@@ -64,9 +64,8 @@ const articlesStyle = StyleSheet.create({
     fontWeight: "bold",
     color: "blue",
     fontSize: 15,
-    paddingLeft:20,
+    paddingLeft: 20,
     start: 0,
-   
   },
   source: {
     fontWeight: "bold",
